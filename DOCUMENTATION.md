@@ -90,7 +90,7 @@ mvn -Dmaven.test.skip=true jetty:run-war
 
 2. Accéder au serveur: http://localhost:8080/
 
-3. Sélectionner `Parse ful dictionary`
+3. Sélectionner `Parse full dictionary`
 
 4. Charger le pdf
 
