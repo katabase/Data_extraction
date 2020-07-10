@@ -15,7 +15,7 @@ Les commandes _infra_ conviennent aux utilisateurs sous UNIX. Dans les autres ca
 docker pull medkhem/grobid-dictionaries-stable
 ```
 
-2. Télécharger le jeu de données d'entraînement: https://github.com/MedKhem/grobid-dictionaries
+2. Télécharger le jeu de données d'entraînement: https://github.com/katabase/GROBID_Dictionaries
 
 3. Synchroniser un des dataset de train (<-#kasDéDiMatthias #franglais) avec le container
 
