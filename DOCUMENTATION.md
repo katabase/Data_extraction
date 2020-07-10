@@ -20,7 +20,7 @@ docker pull medkhem/grobid-dictionaries-stable
 3. Synchroniser un des dataset de train avec le container (<-#kasDéDiMatthias #franglais)
 
 ```console
-docker run -v CHEMIN VERS TOYDATA:/grobid/grobid-dictionaries/resources -p 8040:8080 -it medkhem/grobid-dictionaries-stable bash
+docker run -v CHEMIN VERS TOYDATA:/grobid/grobid-dictionaries/resources -p 8080:8080 -it medkhem/grobid-dictionaries-stable bash
 ```
 
 Si le port 8080 de votre machine est déjà occupé, il est possible d'en utilise un autre (par exemple `-p 8083:8080`).
