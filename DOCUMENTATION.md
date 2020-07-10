@@ -17,7 +17,7 @@ docker pull medkhem/grobid-dictionaries-stable
 
 2. Télécharger le jeu de données d'entraînement: https://github.com/katabase/GROBID_Dictionaries
 
-3. Synchroniser un des dataset de train (<-#kasDéDiMatthias #franglais) avec le container
+3. Synchroniser un des dataset de train avec le container (<-#kasDéDiMatthias #franglais)
 
 ```console
 docker run -v CHEMIN VERS TOYDATA:/grobid/grobid-dictionaries/resources -p 8040:8080 -it medkhem/grobid-dictionaries-stable bash
