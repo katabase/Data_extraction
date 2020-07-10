@@ -54,7 +54,7 @@ The protocol is described in detail in our [user guide](https://github.com/katab
 
 ## Examples / Data to play with
 
-You can find in some pdf to test our modesl in the [`_example_examples`](https://github.com/katabase/GROBID_Dictionaries/blob/master/DOCUMENTATION.md) folder.
+You can find in some pdf to test our models in the [`_example_examples`](https://github.com/katabase/GROBID_Dictionaries/blob/master/DOCUMENTATION.md) folder.
 
 
 ## Credits
