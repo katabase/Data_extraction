@@ -71,7 +71,7 @@ Regarding the corpus: extracted data is CC-BY.
 
 ## Cite this dataset
 
-A first version as been presetend at the TEI conference.  If you use these data, please cite this paper:
+A first version of this dataset as been presetend at the TEI conference.  If you use these data, please cite this paper:
 
 ```
 @inproceedings{rondeaudunoyer:hal-02272962,
