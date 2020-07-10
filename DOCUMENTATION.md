@@ -106,7 +106,7 @@ mvn -Dmaven.test.skip=true jetty:run-war
 
 Il est recommandé d'utiliser Oxygen en lançant le projet [`GROBID.xpr`](https://github.com/katabase/GROBID_Dictionaries/blob/master/GROBID.xpr), qui contient tous les scenarios pré-paramétrés.
 
-1. Transformer le document avec [`_transformations/step_1.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_1.xsl) (Scenario `step_1`).
+1. Transformer le document produit par GROBID avec [`_transformations/step_1.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_1.xsl) (Scenario `step_1`).
 
 2. Faire le lien avec le schema [`_schemas/schema_grobid_output.rng`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_schemas/schema_grobid_output.rng). Vous pouvez recopier (en adaptant le chemin) les lignes suivantes (à placer entre les lignes 1 et 2)
 
@@ -115,7 +115,7 @@ Il est recommandé d'utiliser Oxygen en lançant le projet [`GROBID.xpr`](https:
 <?xml-model href="../../_schemas/schema_grobid_output.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 ```
 
-**Attention**: le contenu de `titleStmt/title` va servir à fabriquer les xml:id des `<item>`. Il doit donc correspondre au code du document.
+**Attention**: le contenu de `titleStmt/title` va servir à fabriquer les `@xml:id` des `<item>`. Il doit donc correspondre au code du document.
 
 3. Une fois le fichier XML corrigé, appliquer la feuille de style [`_transformations/step_2.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_2.xsl) (scénario `step_2`).
 
