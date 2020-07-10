@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>DAGUERRE (Louis-Jacques</name>), <desc>peintre, l'un des inven¬ <lb/>teurs de la photographie, n. 1789, m. 1851</desc></form><form><name>DAVID (Jacques-Louis</name>), <desc>le grand peintre, n. 1748, <lb/>m. 1825</desc></form><form><name>DELACROIX (Eugène</name>), <desc>le grand peintre, n. 1798, <lb/>m. 1863</desc></form><form><name>DETAILLE (Edouard</name>), <desc>le célèbre peintre militaire, <lb/>membre de l'Institut</desc></form><form><name>DIVERS</name></form><form><name>DIVERS</name></form><form><name>DIVERS</name></form><form><name>DIVERS</name></form><form><name>DIVERS</name></form><form><name>DIVERS</name></form><form><name>DONiZETTI (Gactano</name>), <desc>le célèbre compositeur de <lb/>musique italien, n. 1798, m. 1848</desc></form><form><name>DUCIS (Jean-François</name>), <desc>célèbre poète tragique, membre <lb/>de l'Académie française, n. 1733, m. 1816</desc></form><form><name>DUCORNET (Louis-César-Joseph</name>), <desc>peintre d'histoire, <lb/>né sans bras, à Lille, n. 1806, m. 1856</desc></form><form><name>DUPANLOUP (Félix</name>), <desc>le célèbre évêque d'Orléans, <lb/>membre de l'Académie française, n. 1802, m. 1878</desc></form><form><name>FAUCHE-BOREL (Louis</name>), <desc>fameux agent rovaliste à <lb/>Paris pendant le Directoire, n. 1762, m. 1829</desc></form></body>
+	</text>
+</tei>

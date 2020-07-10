@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="lexicalEntry.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="lexicalEntry.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><entry><num>105</num>
+<pc>. </pc>
+<form>MAUPERTUIS (Pierre-Louis Moreau de), célèbre géo¬ <lb/>mètre, membre de l'Académie française. Le roi Fré¬ <lb/>déric II de Prusse le nomma président de l'Académie <lb/>berlinoise, n. à Saint-Malo, 1698, m. 1759</form>
+<pc>. <lb/></pc>
+<sense>L. a. s.; Potsdam, 16 novembre 1749, 2 p. 1/3 in-4°. <lb/>Il prie son correspondant d'accepter l'invitation du roi de <lb/>Prusse de venir s'établir à Berlin. « Vos occupations ne seront que <lb/>telles que vous les souhaiterez. Il ne vous en coûtera pas beaucoup <lb/>pour faire la gloire de notre Académie et de notre amphithéâtre <lb/>anatomique... La vie n'est pas si chère à Berlin qu'à Gottingue; <lb/>quant au carrosse, ce ne doit pas être un objet par rapport à la <lb/>pension que le Roi vous donnera. Moi aussi j'ay une patrie à <lb/>laquelle j'étais fort attaché; j'y pense souvent; je l'aime toujours, <lb/>mais, peu à peu, je m'accoutume à la voir de loin. </sense>
+</entry><entry><num>106</num>
+<pc>. </pc>
+<form>MAURY (Jean Siffrein, cardinal), célèbre orateur, <lb/>membre de l'Académie française, n. 1746, m. 1817</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. au duc de Richelieu; Rome, 7 décembre 1815, 1 p. in-4°. <lb/>Curieuse lettre remplie de compliments flatteurs. Il le charge de <lb/>remettre une lettre au Roi, puis le prie d'agréer ses voeux pour la <lb/>nouvelle année : « Le zèle dont je me sens animé pour votre <lb/>nom et pour votre personne est une dette de reconnaissance qui <lb/>m'est imposée, comme élève des écoles de Sorbonne et comme <lb/>ancien membre de l'Académie française : ce sont deux fiefs hono¬ <lb/>rifiques de votre illustre maison; dans lesquels il me tarde que 4 <lb/>l'héritier du cardinal de Richelieu recouvre tous ses droits. </sense>
+</entry><entry><num>107</num>
+<pc>. </pc>
+<form>MEISSONIER (Ernest), le célèbre peintre, n. 1815, <lb/>m. 1891</form>
+<pc>. <lb/></pc>
+<sense>L. a. s.; Poissy, 3 décembre 1871, 1 p. 12 in-80. <lb/>Les événements de 1870 ont bouleversé ses affaires; il ne pourra <lb/>pas faire cette année le séjour au soleil dont il a grand Pesoin. <lb/>Son ministère des finances est dans un grand trouble; c'est ce <lb/>qui explique qu'on a été obligé de lui réclamer des engagéments</sense>
+</entry><entry><num>108</num>
+<pc>. </pc>
+<form>MENAGEOT (François-Guillaume), célèbre peintre d'his¬ <lb/>toire, directeur de l'Académie de France à Rome, <lb/>membre de l'Institut, n. 1744, m. 1816</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. (à Louis XVIII), 2 p. in-4°. <lb/>Il demande une pension au Roi à titre d'ancien directeur de <lb/>l'Académie de France. Il rappelle le succès de ses élèves, celui de <lb/>ses oeuvres, notamment la Mort de Léonard de Vinci et Méléagre</sense>
+</entry><entry><num>109</num>
+<pc>. </pc>
+<form>MEYERBEER (Giacomo), le célèbre compositeur de <lb/>musique allemand, n. 1794, m. 1864</form>
+<pc>. <lb/></pc>
+<sense>Morceau de musique aut. sig., 12 p. in-4° oblong. <lb/>Pièce d'album contenant 16 mesures de l'ouverture de Struennée <lb/>(Harpe)</sense>
+</entry><entry><num>110</num>
+<pc>. </pc>
+<form>MIGNET (François-Auguste-Marie-Alexis), célèbre his¬ <lb/>torien, membre de l'Académie française, n. 1796, <lb/>m. 1884</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à M. Hayward; Paris, 15 février 1856, 4 p. in-80. <lb/>Il lui annonce l'envoi, par Mérimée, de la copie d'une lettre de <lb/>Byron à Beyle. « J'ai beaucoup connu Beyle qui avait de l'esprit, <lb/>mais qui n'en avait pas assez pour être simple et naturel. Il affectait <lb/>la singularité et n'étant pas né original, il s'était fait bizarre. Aussi <lb/>n'y avait-il guère plus de vérité dans ses livres que dans son nom. » <lb/>Longues considérations sur la paix avec la Russie et les consé¬ <lb/>quences qu'elle peut avoir sur le gouvernement de Napoléon III</sense>
+</entry><entry><num>111</num>
+<pc>. </pc>
+<form>NANTEUIL (Charles-François Leroeur, dit), célèbre <lb/>sculpteur, membre de l'Institut, n. à Paris, 1792, <lb/>m. 1865</form>
+<pc>. <lb/></pc>
+<sense>P. s.; Paris, 22 février 1827, 1ep. in-4° oblong. <lb/>Reçu de 2,000 francs pour le tiers du prix de deux statues des¬ <lb/>tinées à la décoration de la grille du château de Saint-Cloud</sense>
+</entry><entry><num>112</num>
+<pc>. </pc>
+<form>NAPOLEON II, le roi de Rome, fils de Napoléon Ier, <lb/>n. 1811, m. 1832</form>
+<pc>. <lb/></pc>
+<sense>Manuscrit autographe; mars 1828, 30 p. in-4°. <lb/>Traduction en italien, de divers auteurs. Cette pièce porte à la <lb/>fin une attestation aut. signée de J.-B. Foresti, un des professeurs <lb/>du duc de Reichstadt</sense>
+</entry><entry><num>113</num>
+<pc>. </pc>
+<form>NATOIRE (Charles-Joseph), célèbre peintre d'histoire <lb/>directeur de l'Académie de France à Rome, né à <lb/>Nîmes, 1700, m. 1777</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à l'antiquaire Séguier; Rome, 9 mars 1763, 2 p. in-4°, <lb/>cachet <lb/>Très belle lettre où il lui envoie cinquante livres pour une tante <lb/>malheureuse et fait l'éloge de l'architecte Clérisseau</sense>
+</entry><entry><num>114</num>
+<pc>. </pc>
+<form>NEUVILLE (Alphonse de), le célèbre peintre de bataille, <lb/>n. 1836, m. 1885</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à un marchand de tableaux; Paris, 31 décembre 1877, <lb/>2 p. 3/4 in-80. <lb/>Très curieuse lettre sur la vente d'un de ses tableaux qu'il le prie <lb/>de retirer de chez Goupil. Le prix est de 8,000 francs, mais il le <lb/>cédera à 6,000 francs, si cela lui convient. Il lui fera cet été un <lb/>tableau dans les conditions les plus avantageuses qu'il le pourra</sense>
+</entry><entry><num>115</num>
+<pc>. </pc>
+<form>NODIER (Charles), le célèbre littérateur, membre de <lb/>l'Académie française, n. 1780, m. 1844</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à un ami; (11 février 1827?), 1 p. in-40°, <lb/>Curieuse lettre où il critique des attaques trop passionnées contre <lb/>Victor Hugo. « Il y a certainement lieu à faire justice de ces <lb/>fautes volontaires dans lesquelles il égare à plaisir son admirable <lb/>talent; c'est même un service à lui rendre s'il voulait l'accepter. <lb/>Mais il faut y mettre la mesure que demande cet homme si plein <lb/>d'avenir. Hoffman lui-même ne s'est jamais lavé tout à fait du <lb/>ridicule qu'il a voulu jeter sur Chateaubriand, et il ne m'est pas <lb/>tout à fait démontré que les 50 ans de François-Auguste valussent <lb/>les 25 ans de Victor. </sense>
+</entry><entry><num>116</num>
+<pc>. </pc>
+<form>NOEL (Léon), peintre et célèbre lithographe, n. 1807, <lb/>m. 1879</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à Duval Le Camus; 3 décembre 1841, 3 p. 12 in-8°. <lb/>Intéressante lettre artistique. Il s'excuse de ne pouvoir faire une <lb/>lithographie d'un de ses tableaux parce qu'il a des engagements <lb/>antérieurs, avec Delacroix notamment, <lb/></sense>
+</entry><entry><num>117</num>
+<pc>. </pc>
+<form>OLIVET (Pierre-Joseph Troulier, abbé d'), littérateur, <lb/>membre de l'Académie française, n. 1682, m. 1768</form>
+<pc>. <lb/></pc>
+<sense>11 L. a., la plupart signées O, une seule l'est en toutes lettres, <lb/>à Voltaire; 1761-1767, 30 p. in-40. <lb/>Précieuse correspondance littéraire. Il combat l'opinion de <lb/>d'Alembert qui prétend qu'en vieillissant on cesse d'aimer les <lb/>beaux vers. « Le bonhomme La Monnoie qui dans son enfance <lb/>avait vu Des Barreaux, nous contoit que ce fameux épicurien <lb/>buvoit à très petits coups, mais fréquents, et qu'en savourant <lb/>son vin goutte à goutte, il appelait cela se paillarder la langue. <lb/>Me François que vou. me c'tez, n'auroit point haï cette expression. <lb/>Je trouve, moi, que de beaux vers, me paillardent l'esprit. » Le <lb/>portrait de Voltaire n'est pas à l'Académie ; les visiteurs s'en <lb/>étonnent. Conseils pour les commentaires du théâtre de Corneille. <lb/>Résultat d'une délibération de l'Académie française, à qui Voltaire <lb/>avait demandé d'approuver un ouvrage et solliciter des avis. « Je <lb/>Vous ai déjà marqué confidemment que vous ne deviez pas toujours <lb/>avoir égard aux remarques qu'on vous en voie, comme le résultat <lb/>de ce qu'on appelle la pluralité. Peut-on compter sur les enquêtes <lb/>par tourbe? L'un a dîné, l'autre se prépare à souper. » L'Académie <lb/>se prépare à offrir en corps, son dictionnaire au Roi, c'est-à-dire <lb/>que tous ceux qui veulent y aller, y vont. « J'irai, si le temps est <lb/>favorable. Autrement, je vous jure que ma robe de chambre, le <lb/>coin du feu, et un bon livre à la main me paroîtront préférables de <lb/>beaucoup à l'honneur, etc..., etc... <lb/>Le 3 janvier 1767 Olivet, à propos du grand froid, rappelle un <lb/>vieux souvenir de l'année 1709. » C'est qu'alors nous grelotions au <lb/>coin d'un méchant feu, et qu'aujourd'hui nous nous tenons au <lb/>coin d'un bon feu. Alors vous étiez mon disciple, et aujourd'hui je <lb/>suis le vôtre... Je bois assez bien, je mange de même, je dors encore <lb/>mieux. Que je serois charmé, si vous pouviez m'en dire autant»</sense>
+</entry><entry><num>118</num>
+<pc>. </pc>
+<form>OLLIVIER (Emile), célèbre orateur et homme poli¬ <lb/>tique, membre de l'Académie française</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à M. Doniol; 13 juillet 1857, 1 p. 12 in-80. <lb/>Il le remercie de sa sympathie car Doniol est du petit nombre des <lb/>citoyens d'une république idéale, qui crée l'opinion. Celle-ci se pro¬ <lb/>nonce très vivement pour qu'on entre à la Chambre,« et qu'on <lb/>subisse la violence et l'humiliation du serment. Car de lien, il ne <lb/>peut en être sérieusement question. Nous ne sommes plus au moyen <lb/>âge, nous ne sommes pas des vassaux, jurant in eternum fidélité à <lb/>leur seigneur »</sense>
+</entry><entry><num>119</num>
+<pc>. </pc>
+<form>PASTEUR (Louis), l'illustre savant, n. 1822, m. 1895</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à M. Bourrel; 23 mars 1885, 2 p. in-8°. <lb/>Précieuse lettre sur la découverte capitale de Pasteur. <lb/>Il lui envoie huit chiens, réfractaires l'an passé, et trépanés de <lb/>nouveau la veille devant la commission de la rage, par virus de <lb/>rage des rues. « Surveillez-les bien. Ils serviront à juger de la durée <lb/>de l'état réfractaire après une année environ. Donc, à la rigueur, ils <lb/>pourraient être pris de rage dans 15 jours ou 3 semaines, mais je <lb/>ne le crois pas. J'ai confiance que l'état réfractaire par les vacci¬ <lb/>nations doit durer beaucoup plus d'une année et peut-être toute la <lb/>vie d'un chien. </sense>
+</entry><entry><num>120</num>
+<pc>. </pc>
+<form>PATIN (Henri-Joseph-Guillaume), écrivain et professeur, <lb/>membre de l'Académie française, n. 1793, m. 1876</form>
+<pc>. <lb/></pc>
+<sense>L. a. s. à M. Lecamus; Paris, 22 janvier 1843,4 p. in-4°. <lb/>Curieuse lettre à un ami d'enfance. Il lui donne des détails sur <lb/>sa réception à l'Académie française. « On m'avait tant recommandé <lb/>de me bien faire entendre, et de ne pas négliger de me faire valoir, <lb/>que je m'y suis fort appliqué, et y ai réussi à la satisfaction et même <lb/>à la surprise assez grande de mes amis, lesquels me connaissent peu <lb/>de poitrine, et médiocrement d'assurance. </sense>
+</entry><entry><num>121</num>
+<pc>. </pc>
+<form>PEINTRES ET SCULPTEURS</form>
+<pc>. </pc>
+<sense>72 pièces. <lb/>Hlersent, Ilébert. Rodin. Gérôme, Paul Delaroche, Jacquemart, <lb/>Ch. Jacque, Lami, L. Abbema, Saint-Marceaux, N. Gosse, <lb/>Hortense Haudebourt, Guérin, Granet, Gudin, J. Gigoux, <lb/>Gérard, Gavarni, Français. Fantin-Latour, Deocria, Dau¬ <lb/>bigny. Dantan, Charlet, etc</sense>
+</entry><entry><num>122</num>
+<pc>. </pc>
+<form>PICCINNI (Nicolo), compositeur italien, qui eut la gloire <lb/>d'être le rival de Glick, n. 1728, m. 1800</form>
+<pc>. <lb/></pc>
+<sense>L. 8. au directeur Moulin; 6 vendémiaire an VIII, 1 p. in-4°. <lb/>Peu commun. <lb/>Il demande le paiement dos termes arriérés de ses pensions</sense>
+</entry><entry><num>123</num>
+<pc>. </pc>
+<form>PICOT (François-Edouard), peintre d'histoire, membre <lb/>de l'Académie des Beaux-Arts, n. 1786, m. 1868</form>
+<pc>. <lb/></pc>
+</entry></body>
+	</text>
+</tei>

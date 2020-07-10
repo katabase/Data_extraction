@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Napoléon</name>
+</form><form><name>d'une potion calmante</name>
+<pc>, </pc>
+<desc>dont il donne l'ordonnance, <lb/>probablement pour l'Empereur. <lb/>3985. Gérard de Nerval (Labrunie</desc>
+<pc>), </pc>
+<desc>poëte, littérateur, traduc-<lb/>teur de Faust</desc>
+</form><form><name>Gonzague (Louis de</name>
+<pc>), </pc>
+<desc>duc de Nivernois, comte de Rothe-<lb/>lin, pair de France, mort le 15 octobre 1595</desc>
+</form><form><name>Grandville (A.-B.</name>
+<pc>), </pc>
+<desc>ambassadeur d'Angleterre</desc>
+</form><form><name>Hanriot</name>
+<pc>, </pc>
+<desc>général en chef de l'armée de Paris</desc>
+</form><form><name>Hugo (Victor</name>
+<pc>), </pc>
+<desc>poëte, membre de l'académie française</desc>
+</form><form><name>Humboldt (le baron Alexandre de</name>
+<pc>), </pc>
+<desc>naturaliste, voyageur</desc>
+</form><form><name>Jobard</name>
+<pc>, </pc>
+<desc>journaliste belge, célèbre industriel</desc>
+</form><form><name>Joséphine (l'Impératrice</name>
+</form><form><name>Klaproth (J.</name>
+<pc>), </pc>
+<desc>orientaliste</desc>
+</form><form><name>La Bourdonnaye (le comte de</name>
+<pc>), </pc>
+<desc>député et ministre sous <lb/>Charles X</desc>
+</form><form><name>Lagrange (Louis de</name>
+<pc>), </pc>
+<desc>seigneur de Trianon, conseiller du <lb/>Roi, trésorier de France, et général de ses finances en la généra¬ <lb/>lité de Languedove, établie a Orléans</desc>
+</form><form><name>L» Moscowa (le prince de</name>
+<pc>), </pc>
+<desc>musicien compositeur</desc>
+</form><form><name>Laurcntie</name>
+<pc>, </pc>
+<desc>littérateur, publiciste</desc>
+</form><form><name>Levert (Mlle Emilie</name>
+<pc>), </pc>
+<desc>actrice du Théâtre Français</desc>
+</form><form><name>D.ouis XV</name>
+<pc>, </pc>
+<desc>roi de France</desc>
+</form><form><name>Louis XVI</name>
+<pc>, </pc>
+<desc>roi de France</desc>
+</form><form><name>Louis XVII</name>
+<pc>, </pc>
+<desc>roi de France</desc>
+</form><form><name>Lutftcrofli</name>
+<pc>, </pc>
+<desc>général russe</desc>
+</form><form><name>Manuel (Pierre-Louis</name>
+<pc>), </pc>
+<desc>procureur de la commune de Paris <lb/>en 1792, conventionnel. Ne en 1751, mis à mort en 1793</desc>
+</form><form><name>Marchand</name>
+<pc>, </pc>
+<desc>valet de chambre de Napoléon à Ste-Hélône</desc>
+</form><form><name>Mayenne (Charles de Lorraine</name>
+<pc>, </pc>
+<desc>duc de</desc>
+</form><form><name>IMaynard (François</name>
+<pc>), </pc>
+<desc>poète, membre de l'académie fran¬ <lb/>çaise</desc>
+</form><form><name>Méchain, astronome</name>
+</form><form><name>Montmorency (Alexandre-Joseph de</name>
+</form><form><name>Montmorency (le comte de</name>
+</form><form><name>Montmorency-Laval (Louis-Joseph de</name>
+<pc>), </pc>
+<desc>évéque deMctz, <lb/>grand aumônier de France</desc>
+</form><form><name>Montmorency (le duc de</name>
+</form><form><name>Montmorency (l'abbé de</name>
+</form><form><name>Montmorency (Madeleine de Sanois, duchesse de</name>
+<pc>), </pc>
+<desc>femme <lb/>du connétable Anne de Montmorency</desc>
+</form><form><name>Elle commet</name>
+<pc>, </pc>
+<desc>ordonne et dépu te Denis Pernot, pour faire et exé¬ <lb/>cuter l'état et office d'huissier-général du duché de Montmo¬ <lb/>rency, etc</desc>
+</form><form><name>Montmorency (Diane de France</name>
+<pc>, </pc>
+<desc>fille et soeur légitimée <lb/>de rois, duchesse d'Angouléme, duchesse de</desc>
+<pc>), </pc>
+<desc>comtesse de Pon-<lb/>thieu</desc>
+</form><form><name>Montmorency (Marie de</name>
+<pc>), </pc>
+<desc>vicomtesse de Melun, et François <lb/>de Montmorency, son mari</desc>
+</form><form><name>Montmorency (Angélique-Elîsabelh de Vienne, femme de <lb/>François de</name>
+<pc>), </pc>
+<desc>comte de Bouucville, bailly et gouverneur de Senlis</desc>
+</form><form><name>Monlmorency-Lnxemliourg (Angéliquc-Cunégonde, <lb/>princesse de</name>
+<pc>), </pc>
+<desc>veuve de Henri, légitimé de Bourbon, prince de <lb/>Neufchàtel et de Valengin</desc>
+</form><form><name>Montmorency (Marie-Madeleine de l'Estoillc de Montbri-<lb/>seuil, baronne de</name>
+<pc>), </pc>
+<desc>femme de Léon de Montmorency</desc>
+</form><form><name>Montmorency</name>
+<desc>-Laval (Marie-Louise-Angélique de Bar-<lb/>berin do Rcignac, marquise de</desc>
+</form><form><name>Montmorency-Laval (Marie-Louise de</name>
+<pc>), </pc>
+<desc>abbesse de <lb/>Montmartre, mise :&amp;gt; mort pendant la révolution</desc>
+</form><form><name>Montmorency Montmorency (madame la duchesse <lb/>de</name>
+</form><form><name>Montmorency-Laval (Anne-Jeanne-Louise de</name>
+</form><form><name>Montmorency (madame de</name>
+<pc>), </pc>
+<desc>née de Matignon</desc>
+</form><form><name>Montmorency (madame la princesse de</name>
+</form><form><name>Montmorency (madame de</name>
+</form><form><name>Montanorcncy-Liixcmboiirg (Anne-Françoise-Char-<lb/>lotte de</name>
+<pc>), </pc>
+<desc>femme de Léon, duc de Montmorency</desc>
+</form><form><name>Montmorency (madame la comtesse de</name>
+<pc>), </pc>
+<desc>née de Luynes</desc>
+</form><form><name>Monstalon</name>
+<pc>, </pc>
+<desc>auteur de la Morale des poëtes, du Lycée de la <lb/>jeunesse, etc</desc>
+</form><form><name>Notoire (Charles-Joseph</name>
+<pc>), </pc>
+<desc>dessinateur, peintre, directeur <lb/>de l'Académie de France à Rome</desc>
+</form><form><name>Nandet (Joseph</name>
+<pc>), </pc>
+<desc>administrateur de la Bibliothèque impé¬ <lb/>riale, membre de l'Institut</desc>
+</form><form><name>Nicolo, compositeur</name>
+</form><form><name>Nourrit (Adolphe</name>
+<pc>), </pc>
+<desc>célèbre chanteur de l'Opéra</desc>
+</form><form><name>Noblesse (Manuscrits sur la</name>
+<pc>)</pc>
+</form><form><name>Onslow (Georges</name>
+<pc>), </pc>
+<desc>compositeur</desc>
+</form><form><name>Paisiello</name>
+<pc>, </pc>
+<desc>célèbre compositeur</desc>
+</form><form><name>Palmcrston (lord</name>
+<pc>), </pc>
+<desc>premier ministre d'Angleterre</desc>
+</form><form><name>Panat (le chevalier de</name>
+<pc>), </pc>
+<desc>contre-amiral</desc>
+</form><form><name>Plaisaucc (le duc de</name>
+<pc>), </pc>
+<desc>grand chancelier de la Légion <lb/>d'honneur. Mort en 1859</desc>
+</form><form><name>Plcvillc-lc-Pcllcy</name>
+<pc>, </pc>
+<desc>vice-amiral, ministre de la marine</desc>
+</form><form><name>B'iouvici* (Edouard</name>
+<pc>), </pc>
+<desc>littérateur, auteur dramatique</desc>
+</form><form><name>Prudent (Emile</name>
+<pc>), </pc>
+<desc>pianiste</desc>
+</form><form><name>lfiochainbcati (J.-B.-D. de Vimeur de</name>
+<pc>), </pc>
+<desc>maréchal de <lb/>France</desc>
+</form><form><name>Roy (le comte</name>
+<pc>), </pc>
+<desc>ministre des finances</desc>
+</form><form><name>Saintinc, littérateur</name>
+</form><form><name>Sautcrrc</name>
+<pc>, </pc>
+<desc>commandant général de la garde nationale de <lb/>Paris au moment de la mort de Louis XVI</desc>
+</form></body>
+	</text>
+</tei>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Goulianof (J.-A.</name>
+<pc>), </pc>
+<desc>célèbre orientaliste <lb/>russe, né en 1789, m. à Nice en 1841</desc>
+</form><form><name>Haidinger (Wilhelm von</name>
+<pc>), </pc>
+<desc>savant géo¬ <lb/>logue, correspondant de l'Institut pour <lb/>la section de minéralogie (1855). Né à <lb/>Vienne en 1795, m. en 1871</desc>
+</form><form><name>Klaproth (Martin-Heinrich</name>
+<pc>), </pc>
+<desc>savant <lb/>orientaliste, élu correspondant puis <lb/>associé étranger (1804) de la 1re classe <lb/>de l'Institut. Né à Wernigerode en 1743, <lb/>m. à Berlin en 1817</desc>
+</form><form><name>Hase (Ch.-B.</name>
+<pc>), </pc>
+<desc>célèbre helléniste, pro¬ <lb/>fesseur de Napoléon III, né à Sulza près <lb/>de Naumbourg (Saxe) en 1788, m. en <lb/>1864</desc>
+</form><form><name>Kobel (François</name>
+<pc>), </pc>
+<desc>minéralogiste et <lb/>poète allemand, né à Munich en 1803</desc>
+</form><form><name>Lacépède (B.-G.-E. Delaville, comte <lb/>de</name>
+<pc>), </pc>
+<desc>illustre savant, naturaliste, zoolo¬ <lb/>giste, membre de l'Institut (1795). Né <lb/>à Agen en 1756, m. à Epinay en 1825</desc>
+</form><form><name>Lacépède (B.-G.-E. Delaville, comte <lb/>de</name>
+<pc>), </pc>
+<desc>illustre savant</desc>
+</form><form><name>Lalanne (Léon Chrétien</name>
+<pc>), </pc>
+<desc>savant ingé¬ <lb/>nieur, l'inventeur d'une balance à cal¬ <lb/>cul. Membre libre de l'Académie des <lb/>Sciences (3 février 1879). Né à Paris <lb/>en 1811, m. le 12 mars 1892</desc>
+</form><form><name>Moreau de Jonnès (Alexandre</name>
+<pc>), </pc>
+<desc>sta¬ <lb/>tisticien, élu correspondant de l'Insti¬ <lb/>tut pour la section de géographie et <lb/>navigation (1816). Né à Rennes en 1778, <lb/>m. en 1870</desc>
+</form><form><name>Latreille (Pierre André</name>
+<pc>), </pc>
+<desc>célèbre na¬ <lb/>turaliste, zoologiste, anatomiste, mem¬ <lb/>bre de l'Institut (1798). Né à Brive en <lb/>1762, m. à Paris en 1833</desc>
+</form><form><name>Lefèvre Gineau (le chevalier Louis</name>
+<pc>), <lb/></pc>
+<desc>célèbre physicien, mathématicien, mem¬ <lb/>bre de l'Institut (1795). Né à Authe <lb/>(Ardennes) 1751, m. en 1829</desc>
+</form><form><name>Maizeaux (Pierre des</name>
+<pc>), </pc>
+<desc>célèbre érudit, <lb/>né en Auvergne en 1666, m. en 1743</desc>
+</form><form><name>Martins (Karl-Fried-Philippe von</name>
+<pc>), </pc>
+<desc>na¬ <lb/>turaliste, directeur du jardin botanique <lb/>de Munich</desc>
+</form><form><name>Matteuci (Carlo</name>
+<pc>), </pc>
+<desc>célèbre homme <lb/>d'Etat et physicien italien, né en 1811, <lb/>mort en 1868</desc>
+</form><form><name>Mentelle (Edme</name>
+<pc>), </pc>
+<desc>le célèbre géogra¬ <lb/>phe, de l'Institut</desc>
+</form><form><name>Mentelle (Edme</name>
+<pc>), </pc>
+<desc>célèbre géographe, <lb/>historiographe du comte d'Artois, <lb/>membre de l'Institut</desc>
+</form><form><name>Mongez (Jean-André</name>
+<pc>), </pc>
+<desc>dit le Jeune, bi-<lb/>bliothécaire de Sainte-Geneviève, savant <lb/>minéralogiste, physicien et naturaliste, <lb/>né à Lyon, mort en 1788 avec La Pé¬ <lb/>rouse qu'il avait accompagné comme <lb/>naturaliste et aumônier. Il était le frère <lb/>du célèbre archéologue</desc>
+</form><form><name>Milükoff (Alex. Petrowitche</name>
+<pc>), </pc>
+<desc>célèbre <lb/>polygraphe, auteur de romans histo¬ <lb/>riques</desc>
+</form><form><name>Morelli (l'abbé Jacques</name>
+<pc>), </pc>
+<desc>helléniste et <lb/>bibliographe, bibliothécaire de Saint-<lb/>Marc ; né à Venise en 1745, mort en <lb/>1819. Membre correspondant de l'Ins¬ <lb/>titut</desc>
+</form><form><name>Mulsant (Etienne</name>
+<pc>), </pc>
+<desc>célèbre naturaliste, <lb/>zoologiste lyonnais, élu correspondant <lb/>de l'Institut, pour la section d'anato¬ <lb/>mie et zoologie en 1873. Né à Mornant <lb/>(Rhône</desc>
+<pc>), </pc>
+<desc>en 1797, m. à Lyon en 1880</desc>
+</form><form><name>Murchison (Sir Roderick Impey</name>
+<pc>), </pc>
+<desc>célè¬ <lb/>bre minéralogiste anglais, élu corres¬ <lb/>pondant (1844</desc>
+<pc>), </pc>
+<desc>puis associé étranger <lb/>(1868</desc>
+<pc>), </pc>
+<desc>pour la section de minéralogie <lb/>à l'Institut Né à Tarradale en 1792, m. à <lb/>Londres en 1871</desc>
+</form><form><name>Napier (Macvey</name>
+<pc>), </pc>
+<desc>célèbre jurisconsulte <lb/>et littérateur écossais, né en 1776, m. <lb/>à Edimbourg en 1847</desc>
+</form><form><name>Narducci (Filippo</name>
+<pc>), </pc>
+<desc>savant botaniste <lb/>italien</desc>
+</form><form><name>Navier (C -L.-M.-H.</name>
+<pc>), </pc>
+<desc>célèbre ingénieur, <lb/>le remplaçant de Bréguet à l'Académie <lb/>des Sciences (1824). Né à Dijon en 1785, <lb/>m. en 1836</desc>
+</form><form><name>Orfila (M.-J.-B.</name>
+<pc>), </pc>
+<desc>le grand chimiste, cor¬ <lb/>respondant de la section de médecine et <lb/>de chirurgie de la 1re classe de l'Insti¬ <lb/>tut (1815). Né à Mahon (Ile Minorque) <lb/>en 1787, m. à. Paris en 1853</desc>
+</form><form><name>Orfila (M.-J.-B.</name>
+<pc>), </pc>
+<desc>le grand chimiste, de <lb/>l'Institut</desc>
+</form><form><name>Orfila (M. -J.-B.</name>
+<pc>), </pc>
+<desc>célèbre chimiste, <lb/>membre de l'Institut</desc>
+</form><form><name>Palassou (P.-B.</name>
+<pc>), </pc>
+<desc>célèbre géologue, le <lb/>fondateur de la science géologique, né <lb/>en 1745, m. en 1830</desc>
+</form><form><name>Palassou (P.-B.</name>
+<pc>), </pc>
+<desc>savant géologue de <lb/>l'Acad. des Sciences</desc>
+</form><form><name>Perronet (Jean Rodolphe</name>
+<pc>), </pc>
+<desc>illustre <lb/>ingénieur du XVIIIe siècle, de l'Acad. <lb/>des Sciences, né à Suresnes en 1708, <lb/>mort en 1794</desc>
+</form><form><name>Polevoy (P.-N.</name>
+<pc>), </pc>
+<desc>historien russe, sa¬ <lb/>vant archéologue, né à Léninegrade en <lb/>1835</desc>
+</form><form><name>Pouillet (C.-S.-M.-M.-R.</name>
+<pc>), </pc>
+<desc>savant phy¬ <lb/>sicien, membre de l'Institut (1837), né <lb/>à Cusance en 1790, m. en 1868</desc>
+</form><form><name>Rehfues (P.-J. de</name>
+<pc>), </pc>
+<desc>littérateur alle¬ <lb/>mand, organisateur de l'Université de <lb/>Bonn. Né à Tutingue en 1779, m. à <lb/>Bonn en 1843</desc>
+</form><form><name>Rossmassler (E.-A.</name>
+<pc>), </pc>
+<desc>savant natura¬ <lb/>liste allemand, né en 1806</desc>
+</form><form><name>Rougemont (Frédéric de</name>
+<pc>), </pc>
+<desc>conseiller <lb/>d'Etat suisse, célèbre philosophe, au¬ <lb/>teur de savants ouvrages. Né à Saint-<lb/>Aubin en 1808</desc>
+</form><form><name>Saint-Amans (J.-Florimond Boudon <lb/>de</name>
+<pc>), </pc>
+<desc>savant naturaliste, membre de <lb/>l'Académie celtique, né en 1748, m. en <lb/>1831</desc>
+</form><form><name>Scarpa (Antonio</name>
+<pc>), </pc>
+<desc>illustre anatomiste <lb/>italien, élu correspondant (1804) et <lb/>associé étranger (1817) pour la section <lb/>d'anatomie et zoologie de la 1re classe <lb/>de l'Institut. Né à la Motta del Friuli <lb/>(Vénétie</desc>
+<pc>), </pc>
+<desc>en 1747, m. à Bonasco <lb/>(Lombardie), en 1832</desc>
+</form><form><name>Soleillet (Paul</name>
+<pc>), </pc>
+<desc>le célèbre voyageur, <lb/>explorateur de l'Afrique centrale, né à <lb/>Nîmes</desc>
+</form><form><name>Sonnini de Mononcourt (C. S.</name>
+<pc>), </pc>
+<desc>sa¬ <lb/>vant naturaliste, né à Lunéville</desc>
+</form><form><name>Struve (Henri</name>
+<pc>), </pc>
+<desc>naturaliste russe et <lb/>diplomate</desc>
+</form><form><name>Tchihatchef (Pierre, comte de</name>
+<pc>), </pc>
+<desc>sa¬ <lb/>vant russe, naturaliste et géologue ; élu <lb/>correspondant pour la section de géo¬ <lb/>graphie et navigation (1861) de l'Aca¬ <lb/>démie des Sciences. Né à Gatschina, <lb/>près de Léninegrade en 1815, m. à <lb/>Florence en 1890</desc>
+</form><form><name>Tessier (Henri-Alexandre</name>
+<pc>), </pc>
+<desc>botaniste et <lb/>minéralogiste, membre de l'Académie <lb/>des Sciences (1783). Né à Angerville en <lb/>1741, m. en 1837</desc>
+</form><form><name>Tessier (Henri-Alexandre</name>
+<pc>), </pc>
+<desc>savant bo¬ <lb/>taniste et minéralogiste, de l'Institut. <lb/>Né en 1741, m. en 1837</desc>
+</form><form><name>Touvczanino (N.</name>
+<pc>), </pc>
+<desc>savant naturaliste <lb/>russe</desc>
+</form><form><name>Vernazza (Joseph, baron</name>
+<pc>), </pc>
+<desc>célèbre <lb/>archéologue et épigraphiste, membre <lb/>de l'Acad. Royale des Sciences de Tu¬ <lb/>rin. Né en 1745, m. en 1822</desc>
+</form><form><name>Vogt (Carl</name>
+<pc>), </pc>
+<desc>célèbre anatomiste et zoo¬ <lb/>logiste, membre correspondant de <lb/>l'Académie des Sciences pour la sec¬ <lb/>tion d'anatomie et de zoologie (1887). <lb/>Né à Giessen en 1817, m. à Genève en <lb/>1895</desc>
+</form><form><name>Aksakoff (Ivan ou Jean</name>
+<pc>), </pc>
+<desc>écrivain <lb/>russe distingué</desc>
+</form><form><name>Andryane (A.</name>
+<pc>), </pc>
+<desc>célèbre poète, l'ami <lb/>de Silvio Pellico</desc>
+</form><form><name>Anhalt Zerbst (Jeanne Elisabeth de <lb/>Holslein, princesse d'</name>
+<pc>), </pc>
+<desc>mère de l'impé¬ <lb/>ratrice Catherine II</desc>
+</form><form><name>Bolivar (Simon</name>
+<pc>), </pc>
+<desc>général, homme <lb/>d'Etat, le Washington de l'Amérique <lb/>du Sud. Né à Caracas (Vénézuela) en <lb/>1783</desc>
+</form><form><name>Bovvring (John</name>
+<pc>), </pc>
+<desc>poète anglais, le <lb/>chef des Unilairicns, né en 1792, m. en <lb/>1872</desc>
+</form><form><name>Charles III</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1759 à <lb/>1788</desc>
+</form><form><name>Charles IV</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1788 à <lb/>1808. II fut détrôné par Joseph Bona¬ <lb/>parte</desc>
+</form><form><name>Courlande (Charles de</name>
+</form><form><name>Ferdinand VI</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1746 <lb/>à 1759</desc>
+</form><form><name>Guiccioli (Thérèse Gamba, comtesse</name>
+<pc>), <lb/></pc>
+<desc>l'amie de lord Byron, puis comtesse de <lb/>Boissy. Née en 1800, m. en 1873</desc>
+</form><form><name>Iranda (Simon de Aragorri, marquis <lb/>d'</name>
+<pc>), </pc>
+<desc>ministre des finances du Roi d'Es¬ <lb/>pagne</desc>
+</form><form><name>Isabelle -Claire -Eugénie</name>
+<pc>, </pc>
+<desc>célèbre <lb/>gouvernante des Pays-Bas, fille de Phi¬ <lb/>lippe Il et d'Elisabeth de France, tante <lb/>de la Reine Anne d'Autriche. Elle <lb/>épousa l'archiduc Albert, fils de l'Em¬ <lb/>pereur Maximilien II</desc>
+</form><form><name>Jomini (le général baron</name>
+<pc>), </pc>
+<desc>célèbre <lb/>écrivain sur l'art de la guerre</desc>
+</form><form><name>Kent (James</name>
+<pc>), </pc>
+<desc>un des plus grands <lb/>jurisconsultes américains, auteur de <lb/>Commentaires sur la loi américaine. Ce <lb/>livre qui tient un rang élevé parmi les <lb/>ouvrages juridiques de ce pays, est <lb/>aussi remarquable par le savoir que <lb/>par la claretè du style. Né en 1763. m. <lb/>en 1847</desc>
+</form><form><name>Khaïdim</name>
+<pc>, </pc>
+<desc>empereur d'Annam, mort <lb/>en 1926</desc>
+</form><form><name>Ligne (le prince de</name>
+</form><form><name>Maraviglia (Jos.-Mar.</name>
+<pc>), </pc>
+<desc>barnabite, <lb/>évêque de Novare de 1667 à 1684, phi¬ <lb/>losophe italien, né à Milan. Il a dédié <lb/>un de ses traités à Christine de Suède</desc>
+</form><form><name>Metternich (C.-W.-N</name>
+</form><form><name>Oldenbourg (le prince Pierre</name>
+<pc>), </pc>
+<desc>général <lb/>et diplomate russe, oncle du tzar, fils <lb/>du prince Georges d'Oldenbourg et de <lb/>Catherino-Paulowna, grande duchesse <lb/>de Russie;époux de la princesse Thé-<lb/>rèse-Isabelle-Charlolte de Nassau, né en <lb/>1812</desc>
+</form><form><name>Oldenbourg (le prince Pierre</name>
+<pc>), </pc>
+<desc>géné¬ <lb/>ral et diplomate, oncle du tzar, no en <lb/>1812</desc>
+</form><form><name>Owen (Robert</name>
+<pc>), </pc>
+<desc>un des précurseurs <lb/>de Charles Fourier; né en 1771, m. en <lb/>1858</desc>
+</form><form><name>Passionei(Dominique, cardinal</name>
+<pc>), </pc>
+<desc>illus¬ <lb/>tre écrivam italien, membre associé <lb/>étranger de l'Académie des Inscriptions <lb/>et belles Lettres. Né en 1682, m. en <lb/>1761</desc>
+</form><form><name>Philippe III</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1598 à <lb/>1621. Sa fille Anne d'Autriche fut reine <lb/>de France par son mariage avec <lb/>Louis XIII</desc>
+</form><form><name>Philippe IV</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1621 à <lb/>1665. 11 fut le gendre de Henri IV et <lb/>de Marie de Médicis par son mariage <lb/>avec Elisabeth de France, beau frère de <lb/>Louis XIII, et beau-père de Louis XIV</desc>
+</form><form><name>Philippe IV</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1621 <lb/>à 1665</desc>
+</form><form><name>Philippe V</name>
+<pc>, </pc>
+<desc>roi d'Espagne de 1701 à <lb/>1746. fils de Louis, dauphin de France <lb/>et d'Anne de Bavière. Né en 1683, m. <lb/>en 1746</desc>
+</form><form><name>Roose9 (Max</name>
+<pc>), </pc>
+<desc>savant belge, conser¬ <lb/>vateur du Musée Plantin à Anvers</desc>
+</form><form><name>Roscoe (William!</name>
+<pc>, </pc>
+<desc>l'éminent historien <lb/>de Laurent de Médicis et de Léon X, <lb/>né en 1753, mort en 1831</desc>
+</form><form><name>Saxe (Charles Chrétien-Jnseph-Ignace-<lb/>Engène-François-Xavier, prince de</name>
+<pc>), </pc>
+<desc>fils <lb/>de Frédéric-Auguste, électeur de Saxe <lb/>et roi de Pologne (sous le nom d'Au¬ <lb/>guste III) et de Marie-Josèphe Béné¬ <lb/>dicte-An toinette-Thérôse-Xavier-Philip-<lb/>pinc, archiduchesse d'Autriche, né le <lb/>13 juillet 1733</desc>
+</form><form><name>Sismondi (Charles Simonde de</name>
+<pc>), </pc>
+<desc>célè¬ <lb/>bre historien et économiste, associé de <lb/></desc>
+</form></body>
+	</text>
+</tei>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Monnier (Henry</name>), <desc>célèbre caricaturiste et comédien</desc></form><form><name>Napoléon Ier</name>, <desc>empereur des Français</desc></form><form><name>Normandie (Louis-Perrin de Lagneu, se disant duc de</name>), <lb/><desc>le plus célèbre des faux Louis XVII</desc></form><form><name>Passy (Frédéric</name>), <desc>économiste, membre de l'Institut</desc></form><form><name>Peintres</name></form><form><name>Peintres, membres de l'Institut</name></form><form><name>Peintres</name></form><form><name>Peintres de marine</name></form><form><name>Pelletan (Eugène</name>), <desc>membre du gouvernement de la dé¬ <lb/>fense nationale</desc></form><form><name>Petit (Léonce</name>), <desc>dessinateur et caricaturiste</desc></form><form><name>Prevost-Paradol (L.-A.</name>), <desc>publiciste remarquable, de <lb/>l'Acad. fr</desc></form><form><name>Proudhon (P.-J.</name>), <desc>le célèbre écrivain socialiste</desc></form><form><name>Prud'hon (P.-P.</name>), <desc>le grand peintre</desc></form><form><name>Prud'hon (P.-P.</name>)</form><form><name>Quinet (Edgar</name>), <desc>célèbre écrivain philosophe</desc></form><form><name>Rachel (Mlle</name>), <desc>la grande tragédienne</desc></form></body>
+	</text>
+</tei>

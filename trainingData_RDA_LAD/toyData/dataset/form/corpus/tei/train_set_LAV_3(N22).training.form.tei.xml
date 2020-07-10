@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Amy</name>
+<pc>, </pc>
+<desc>président de la Cour royale</desc>
+</form><form><name>Anglès (le comte</name>
+<pc>), </pc>
+<desc>préfet de police</desc>
+</form><form><name>Antraigues (Delaunay, comte d'</name>
+<pc>), </pc>
+<desc>membre de l'Assemblée<lb/>Constituante</desc>
+</form><form><name>Apchon (d'</name>
+<pc>)</pc>
+</form><form><name>Apchon (d'</name>
+<pc>)</pc>
+</form><form><name>Arlincourt (Victor d'</name>
+<pc>), </pc>
+<desc>écuyer de S. A. I. Madame</desc>
+</form><form><name>Armandi (le colonel</name>
+<pc>), </pc>
+<desc>auteur d'un ouvrage sur l'emploi<lb/>des éléphants dans les armées</desc>
+</form><form><name>Arnaud (François-Marie Baculard d1</name>
+<pc>), </pc>
+<desc>romancier, littéra¬<lb/>teur, auteur dramatique</desc>
+</form><form><name>Arne (le docteur Thomas</name>
+<pc>), </pc>
+<desc>célèbre compositeur anglais</desc>
+</form><form><name>Arouet</name>
+<pc>, </pc>
+<desc>père de Voltaire, notaire au Châtelet, trésorier de<lb/>la Chambre des comptes de Paris</desc>
+</form><form><name>Audran (Benoît</name>
+<pc>), </pc>
+<desc>peintre et graveur</desc>
+</form><form><name>Avril (Félix</name>
+</form><form><name>Barthélemy (François</name>
+<pc>, </pc>
+<desc>marquis de) ambassadeur, mem-&amp;lt;lb/&amp;gt;bre du Directoire, sénateur, etc</desc>
+</form><form><name>Baudot (le général</name>
+</form><form><name>Bausset (le baron François de</name>
+<pc>), </pc>
+<desc>préfet du palais impérial</desc>
+</form><form><name>Bavière (Amélie</name>
+<pc>, </pc>
+<desc>princesse Palatine, duchesse de</desc>
+</form><form><name>Bavière (Maximilien-Philippe</name>
+<pc>, </pc>
+<desc>Électeur, duc de</desc>
+</form><form><name>Bavière (Maurice-Phébronie</name>
+<pc>, </pc>
+<desc>veuve de l'Électeur, duc de</desc>
+</form><form><name>Belloy (Jean-Baptiste de</name>
+<pc>), </pc>
+<desc>cardinal, archevêque de Paris</desc>
+</form><form><name>Bonaparte</name>
+<pc>, </pc>
+<desc>comme général en chef de l'armée d'Egypte</desc>
+</form><form><name>Bonaparte (le prince Jérôme-Napoléon</name>
+<pc>), </pc>
+<desc>ministre de l'Al-&amp;lt;lb/&amp;gt;gérie</desc>
+</form><form><name>Boyer (le baron Alexis</name>
+<pc>), </pc>
+<desc>premier chirurgien de Napoléon 1er,<lb/>membre de l'Institut, etc., né à Uzerche..</desc>
+</form><form><name>Caillot (Joseph</name>
+<pc>), </pc>
+<desc>célèbre acteur de la comédie italienne</desc>
+</form><form><name>Catinat (Nicolas</name>
+<pc>), </pc>
+<desc>maréchal de France</desc>
+</form><form><name>Catinat (René</name>
+<pc>), </pc>
+<desc>conseiller du roi</desc>
+</form><form><name>Catinat (Georges</name>
+<pc>), </pc>
+<desc>abbé de St-Julien, de Tours, conseiller<lb/>du roi</desc>
+</form><form><name>Catinat (Clément</name>
+<pc>), </pc>
+<desc>docteur de Sorbonne, abbé de St-Julien<lb/>de Tours</desc>
+</form><form><name>Caulaincourt (Madame de</name>
+<pc>), </pc>
+<desc>née Baraudier, belle-soeur du<lb/>général, sénateur, Harville</desc>
+</form><form><name>Caumont (le général</name>
+<pc>, </pc>
+<desc>comte de); c'est lui que Delille cite<lb/>dans son poème de la Pitié</desc>
+</form><form><name>Chatel</name>
+<pc>, </pc>
+<desc>littérateur, auteur de l'Histoire naturelle et philoso-&amp;lt;lb/&amp;gt;phique de l'homme, etc</desc>
+</form><form><name>Chevérus (Jean de</name>
+<pc>), </pc>
+<desc>illustre archevêque de Bordeaux, L.<lb/>aut. sig</desc>
+</form><form><name>Chomel (Jean-Baptiste</name>
+<pc>), </pc>
+<desc>médecin ordinaire du roi</desc>
+</form><form><name>Clary (le général comte</name>
+<pc>), </pc>
+<desc>neveu de Joseph Bonaparte</desc>
+</form><form><name>Colbert (Charles</name>
+<pc>), </pc>
+<desc>lieutenant-général, commissaire exami-&amp;lt;lb/&amp;gt;nateur au siège royal et présidial de Reims</desc>
+</form><form><name>Colbert (Nicolas</name>
+<pc>), </pc>
+<desc>seigneur de Turgis, maître de la Cham-&amp;lt;lb/&amp;gt;bre des Comptes du roi</desc>
+</form><form><name>Colbert (Edouard</name>
+<pc>), </pc>
+<desc>marquis de Villacerf</desc>
+</form><form><name>Colbert (Louis</name>
+<pc>), </pc>
+<desc>abbé de Bonport</desc>
+</form><form><name>Colbert (Louis</name>
+<pc>), </pc>
+<desc>comte de Lignières</desc>
+</form><form><name>Colbert (le marquis de</name>
+<pc>), </pc>
+<desc>maréchal de camp</desc>
+</form><form><name>Colbert (le comte de</name>
+</form><form><name>Colbert (Marie</name>
+<pc>), </pc>
+<desc>épouse de Louis Bechameil, conseiller<lb/>d'Etat</desc>
+</form><form><name>Colbert (Marguerite</name>
+<pc>), </pc>
+<desc>veuve de Vincent Hostement, sei-&amp;lt;lb/&amp;gt;gneur de Fontenay, intendant des finances</desc>
+</form><form><name>Colbert de Croissy (Charlotte</name>
+<pc>), </pc>
+<desc>abbesse de Notre-Dame-&amp;lt;lb/&amp;gt;la-Royale, dite de Maubuisson</desc>
+</form><form><name>Commenge (Réné de</name>
+<pc>), </pc>
+<desc>sieur de Sobolle, gouverneur et<lb/>lieutenant-général pour le roi, en la ville et citadelle de Metz et<lb/>pays Messin</desc>
+</form><form><name>Comminges (le comte de</name>
+</form><form><name>Conti (François de Bourbon</name>
+<pc>, </pc>
+<desc>prince de</desc>
+</form><form><name>Consinot. (Jacques</name>
+<pc>), </pc>
+<desc>premier médecin de Louis XII</desc>
+</form><form><name>Créqui (le duc de</name>
+<pc>), </pc>
+<desc>gouverneur d'Hesdin</desc>
+</form><form><name>Dabrowsski</name>
+<pc>, </pc>
+<desc>lieutenant général polonais</desc>
+</form><form><name>Dambray</name>
+<pc>, </pc>
+<desc>chancelier de France</desc>
+</form><form><name>Daure (Hector</name>
+<pc>), </pc>
+<desc>commissaire ordonnateur en chef de l'ar-&amp;lt;lb/&amp;gt;mée d'Egypte</desc>
+</form><form><name>Dejean (le général, comte, Auguste</name>
+<pc>), </pc>
+<desc>naturaliste</desc>
+</form><form><name>Delegorgue (Adolphe</name>
+<pc>), </pc>
+<desc>le fameux tueur d'éléphants, voya-&amp;lt;lb/&amp;gt;geur en Cafrerie</desc>
+</form><form><name>Demidoff (madame la princesse Mathilde</name>
+</form><form><name>Denis (madame</name>
+<pc>), </pc>
+<desc>nièce de Voltaire</desc>
+</form><form><name>Desbrosses (Mlle Eulalie</name>
+<pc>), </pc>
+<desc>actrice de la Comédie Française,<lb/>amie de Dazincourt</desc>
+</form><form><name>Desfontaines (René</name>
+<pc>), </pc>
+<desc>professeur de botanique au jardin<lb/>des plantes, membre de l'académie des sciences</desc>
+</form><form><name>Dessoles (le général, marquis</name>
+</form><form><name>Du Bellay (le cardinal Jean</name>
+<pc>), </pc>
+<desc>évêque de Bayonne, puis de<lb/>Paris, ambassadeur auprès de Henri VIII, roi d'Angleterre, chargé<lb/>des affaires de France auprès de Paul III, qui le fit cardinal</desc>
+</form><form><name>Ducasse (Jean-Baptiste</name>
+<pc>), </pc>
+<desc>célèbre marin</desc>
+</form><form><name>Ducos (Théodore</name>
+<pc>), </pc>
+<desc>ministre de la marine</desc>
+</form><form><name>Eschassériaux</name>
+<pc>, </pc>
+<desc>jeune, conventionnel</desc>
+</form><form><name>Estève (le vicomte</name>
+<pc>), </pc>
+<desc>trésorier de la couronne sous l'Empire</desc>
+</form><form><name>Fesch (le cardinal</name>
+<pc>), </pc>
+<desc>oncle de l'Empereur Napoléon</desc>
+</form><form><name>Féval (Paul</name>
+<pc>), </pc>
+<desc>romancier et auteur dramatique</desc>
+</form><form><name>Flamen (Guillaume</name>
+<pc>), </pc>
+<desc>apothicaire du roi</desc>
+</form><form><name>Floncel (Albert-François</name>
+<pc>), </pc>
+<desc>avocat au parlement, censeur<lb/>royal, membre de plusieurs académies d'Italie. Il possédait une<lb/>bibliothèque considérable dont le catalogue a paru en 1774, en<lb/>2 vol. in-4</desc>
+</form><form><name>Formey</name>
+<pc>, </pc>
+<desc>secrétaire perpétuel de l'académie de Berlin</desc>
+</form><form><name>Fould (Achille</name>
+<pc>), </pc>
+<desc>député, ministre d'Etat</desc>
+</form></body>
+	</text>
+</tei>
