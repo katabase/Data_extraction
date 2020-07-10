@@ -187,7 +187,7 @@ java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.
 
 2. Les fichiers sont générés dans `toyData`.  Il faut désormais annoter les documents en TEI en mode auteur avec la balise `<entry>`
 
-3. Les replacer dans le(s) fichier(s) de train dans `dictionary-body-segmentation/corpus/tei` pour le `.xml` et `dictionary-segmentation/corpus/raw` pour `.rawtext` et `.training.dictionarySegmentation`.  Faire de même pour le(s) fichier(s) de test dans `dictionary-body-segmentation/evaluation`
+3. Les replacer dans le(s) fichier(s) de train dans `dictionary-body-segmentation/corpus/tei` pour le `.xml` et `dictionary-segmentation/corpus/raw` pour `.rawtext` et `.dictionaryBodySegmentation`.  Faire de même pour le(s) fichier(s) de test dans `dictionary-body-segmentation/evaluation`
 
 4. Lancer l'entraînement du niveau:
 
@@ -206,7 +206,7 @@ java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.
 
 2. Les fichiers sont générés dans `toyData`.  Il faut désormais annoter les documents en TEI en mode auteur avec les balises `<lemma>` et `<sense>`
 
-3. Les replacer dans le(s) fichier(s) de train dans `lexical-entry/corpus/tei` pour le `.xml` et `lexical-entry/corpus/raw` pour `.rawtext` et `.training.dictionarySegmentation`.  Faire de même pour le(s) fichier(s) de test dans `lexical-entry/evaluation`
+3. Les replacer dans le(s) fichier(s) de train dans `lexical-entry/corpus/tei` pour le `.xml` et `lexical-entry/corpus/raw` pour `.rawtext` et `.lexicalEntry`.  Faire de même pour le(s) fichier(s) de test dans `lexical-entry/evaluation`
 
 4. Lancer l'entraînement du niveau:
 
@@ -225,7 +225,7 @@ java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.
 
 2. Les fichiers sont générés dans `toyData`.  Il faut désormais annoter les documents en TEI en mode auteur avec les balises `<name>` et `<desc>`
 
-3. Les replacer dans le(s) fichier(s) de train dans `form/corpus/tei` pour le `.xml` et `form/corpus/raw` pour `.rawtext` et `.training.dictionarySegmentation`.  Faire de même pour le(s) fichier(s) de test dans `form/evaluation`
+3. Les replacer dans le(s) fichier(s) de train dans `form/corpus/tei` pour le `.xml` et `form/corpus/raw` pour `.rawtext` et `.training.form`.  Faire de même pour le(s) fichier(s) de test dans `form/evaluation`
 
 4. Lancer l'entraînement du niveau:
 
@@ -244,7 +244,7 @@ java -jar /grobid/grobid-dictionaries/target/grobid-dictionaries-0.5.4-SNAPSHOT.
 
 2. Les fichiers sont générés dans `toyData`.  Il faut désormais annoter les documents en TEI en mode auteur avec les balises `<subSense>` et `<note>`
 
-3. Les replacer dans le(s) fichier(s) de train dans `sense/corpus/tei` pour le `.xml` et `sense/corpus/raw` pour `.rawtext` et `.training.dictionarySegmentation`.  Faire de même pour le(s) fichier(s) de test dans `sense/evaluation`
+3. Les replacer dans le(s) fichier(s) de train dans `sense/corpus/tei` pour le `.xml` et `sense/corpus/raw` pour `.rawtext` et `.training.sense`.  Faire de même pour le(s) fichier(s) de test dans `sense/evaluation`
 
 4. Lancer l'entraînement du niveau:
 
