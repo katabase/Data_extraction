@@ -17,7 +17,7 @@ docker pull medkhem/grobid-dictionaries-stable
 
 2. Télécharger le jeu de données d'entraînement: https://github.com/katabase/GROBID_Dictionaries
 
-3. Synchroniser un des dataset de train avec le container (<-#kasDéDiMatthias #franglais)
+3. Synchroniser un des _datasets_ de _train_ avec le _container_ (<-#kasDéDiMatthias #franglais)
 
 ```console
 docker run -v CHEMIN VERS TOYDATA:/grobid/grobid-dictionaries/resources -p 8080:8080 -it medkhem/grobid-dictionaries-stable bash
@@ -106,7 +106,7 @@ mvn -Dmaven.test.skip=true jetty:run-war
 
 Il est recommandé d'utiliser Oxygen en lançant le projet [`GROBID.xpr`](https://github.com/katabase/GROBID_Dictionaries/blob/master/GROBID.xpr), qui contient tous les scenarios pré-paramétrés.
 
-1. Transformer le document produit par GROBID avec [`_transformations/step_1.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_1.xsl) (Scenario `step_1`).
+1. Transformer le document produit par GROBID avec [`_transformations/step_1_fixedPrice.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_1_fixedPrice.xsl) (Scenario `step_1_fixedPrice`) si vous avez choisi le modèle `trainingData_RDA_LAD`, et avec  [`_transformations/step_1_auction.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_1_auction.xsl) (Scenario `step_1_fixedPrice`) si vous avez choisi le modèle `step_1_auction`
 
 2. Faire le lien avec le schema [`_schemas/schema_grobid_output.rng`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_schemas/schema_grobid_output.rng). Vous pouvez recopier (en adaptant le chemin) les lignes suivantes (à placer entre les lignes 1 et 2)
 
