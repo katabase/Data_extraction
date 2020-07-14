@@ -368,6 +368,7 @@
                      <valList mode="add" type="closed">
                         <valItem ident="dollar"/>
                         <valItem ident="pound"/>
+                        <valItem ident="price"/>
                      </valList>
                   </attDef>
                   <attDef ident="corresp" mode="delete"/>
@@ -409,6 +410,7 @@
                          <elementRef key="name" minOccurs="1" maxOccurs="1"/> 
                          <elementRef key="trait" minOccurs="0" maxOccurs="1"/> 
                          <elementRef key="desc" minOccurs="1" maxOccurs="1"/> 
+                         <elementRef key="num" minOccurs="0" maxOccurs="1"/> 
                          <elementRef key="note" minOccurs="0" maxOccurs="1"/> 
                          <elementRef key="add" minOccurs="0" maxOccurs="unbounded"/> 
                      </sequence> 
