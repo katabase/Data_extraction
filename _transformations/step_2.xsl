@@ -5,7 +5,8 @@
     xpath-default-namespace="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.tei-c.org/ns/1.0"
     version="2.0">
-    <xsl:output method="xml" indent="yes"></xsl:output>
+    <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
+    <xsl:strip-space elements="*"/>
     
     <xsl:template match="TEI">
         <xsl:copy>
@@ -47,38 +48,95 @@
     </xsl:template>
     
 
-    
     <xsl:template match="item">
         <xsl:element name="item">
             <xsl:attribute name="n">
-                <xsl:value-of select=".//num"/>
+                <xsl:value-of select=".//num[not(@type)]"/>
             </xsl:attribute>
             <xsl:attribute name="xml:id">
                 <xsl:value-of select="//titleStmt/title"/>
                 <xsl:text>_e</xsl:text>
-                <xsl:value-of select=".//num"/>
+                <xsl:value-of select=".//num[not(@type)]"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     
     <xsl:template match="num">
+        <xsl:element name="num">
+      <xsl:choose>
+          <xsl:when test="./@type">
+              <xsl:attribute name="type">
+                  <xsl:text>price</xsl:text>
+              </xsl:attribute>
+          </xsl:when>
+          <xsl:otherwise>
+              <xsl:attribute name="type">
+                  <xsl:text>lot</xsl:text>
+              </xsl:attribute>
+          </xsl:otherwise>
+      </xsl:choose>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="name">
+        <xsl:element name="name">
+            <xsl:choose>
+                <xsl:when test="ends-with(.,',')">
+                    <xsl:variable name="tokens" select="tokenize(.,',')"/>
+                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="trait">
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
     
-    <xsl:template match="name">
-        <xsl:copy-of select="."/>
-    </xsl:template>
-    
-    
-    <xsl:template match="trait">
-        <xsl:copy-of select="."/>
+    <xsl:template match="p[parent::trait]">
+            <xsl:element name="p">
+                <xsl:choose>
+                    <xsl:when test="ends-with(.,'-')">
+                        <xsl:variable name="tokens" select="tokenize(.,' -')"/>
+                        <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                    </xsl:when>
+                    <xsl:when test="ends-with(.,'–')">
+                        <xsl:variable name="tokens" select="tokenize(.,' –')"/>
+                        <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates/>
+                    </xsl:otherwise>
+                </xsl:choose>
+            </xsl:element>
     </xsl:template>
     
     <xsl:template match="desc">
-        <xsl:copy-of select="."/>
+        <xsl:element name="desc">
+            <xsl:attribute name="xml:id">
+                <xsl:value-of select="//titleStmt/title"/>
+                <xsl:text>_e</xsl:text>
+                <xsl:value-of select="../num[not(@type)]"/>
+                <xsl:text>_d</xsl:text>
+                <xsl:value-of select="count(./preceding-sibling::desc) + 1"/>
+            </xsl:attribute>
+            <xsl:choose>
+                <xsl:when test="ends-with(.,' ')">
+                    <xsl:variable name="tokens" select="tokenize(.,' ')"/>
+                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="note">
@@ -89,6 +147,8 @@
     <xsl:template match="add">
         <xsl:copy-of select="."/>
     </xsl:template>
+    
+    
     
 
 </xsl:stylesheet>
