@@ -151,8 +151,8 @@
                 </xsl:variable>
                 <xsl:element name="desc">
                     <!-- Copy-paste without the number -->
-                    <xsl:variable name="tokens" select="tokenize(.,$number)"/>
-                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                    <xsl:variable name="tokens" select="substring(., 1, string-length(.) - string-length($number))"/>
+                    <xsl:value-of select="$tokens" separator=" "/>
                 </xsl:element>
                 <!-- Getting the number in a dedicated item -->
                 <xsl:element name="num">
@@ -170,42 +170,6 @@
             </xsl:otherwise>
         </xsl:choose>
     </xsl:template>
-    
-    <!--
-    <xsl:when test="matches(., '\d$')">
-        <xsl:analyze-string select="." regex="(\d+$)">
-            <xsl:matching-substring>
-                <xsl:element name="desc">
-                    <xsl:variable name="tokens" select="tokenize(.,regex-group(1))"/>
-                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator="-"/>
-                </xsl:element>
-                <xsl:element name="num">
-                    <xsl:attribute name="type">
-                        <xsl:text>price</xsl:text>
-                    </xsl:attribute>
-                    <xsl:value-of select="regex-group(1)"/>
-                </xsl:element>
-            </xsl:matching-substring>
-        </xsl:analyze-string>
-        <xsl:value-of select="regex-group(1)"/>
-    </xsl:when>
-    -->
-    
-    
-    <!--    <xsl:template match="sense//sense">
-        <xsl:element name="desc">
-            <xsl:apply-templates/>
-            <xsl:choose>
-                 <xsl:when test="./following-sibling::*[position()=1][name()='pc'] ">
-                <xsl:when test="./following-sibling::pc">
-                    <xsl:value-of select="following-sibling::pc[1]"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="./ancestor::entry/following-sibling::pc[1]"/>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:element>
-        </xsl:template> -->
     
     <xsl:template match="note">
         <xsl:copy>

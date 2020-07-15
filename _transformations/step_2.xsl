@@ -82,6 +82,11 @@
     
     <xsl:template match="name">
         <xsl:element name="name">
+            <xsl:if  test="./@type='author'">
+                <xsl:attribute name="type">
+                    <xsl:text>author</xsl:text>
+                </xsl:attribute>
+            </xsl:if>
             <xsl:choose>
                 <xsl:when test="ends-with(.,',')">
                     <xsl:variable name="tokens" select="tokenize(.,',')"/>
