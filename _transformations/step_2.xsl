@@ -80,7 +80,7 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="name">
+    <xsl:template match="name[ancestor::text]">
         <xsl:element name="name">
             <xsl:if  test="./@type='author'">
                 <xsl:attribute name="type">
