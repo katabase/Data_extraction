@@ -420,16 +420,17 @@
                          <datatype>
                              <dataRef key="teidata.count"/>
                          </datatype>
-                         <constraintSpec ident="itemNumber" scheme="isoschematron">
-                             <constraint>
-                                 <s:rule context="tei:item[@n]">
-                                     <s:assert
-                                         test="number(@n) = number(preceding-sibling::tei:item[1]/@n) + 1 or count(preceding-sibling::tei:item[1]/@n) = 0"
-                                         > value of @n is wrong </s:assert>
-                                     <!-- creation of a schematron rule concerning the numerotation of the element item -->
-                                 </s:rule>
-                             </constraint>
-                         </constraintSpec>
+                        <constraintSpec ident="itemNumber" scheme="schematron">
+                           <constraint>
+                              <s:rule context="tei:item">
+                                 <s:assert test="@n">The tei:item elements must have a @n
+                                    attribute.</s:assert>
+                                 <s:assert
+                                    test="number(@n) = number(preceding-sibling::tei:item[1]/@n) + 1 or count(preceding-sibling::tei:item[1]/@n) = 0"
+                                    > value of @n is wrong </s:assert>
+                              </s:rule>
+                           </constraint>
+                        </constraintSpec>
                      </attDef>
                  </attList>
              </elementSpec>

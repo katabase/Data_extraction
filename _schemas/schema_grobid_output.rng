@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2020-07-13T16:49:17Z. .
+Schema generated from ODD source 2020-07-16T14:13:25Z. .
 TEI Edition: Version 3.5.0. Last updated on
 	29th January 2019, revision 3c0c64ec4
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.5.0/
@@ -2083,10 +2083,11 @@ attributes @target and @cRef may be supplied on <name/>.</report>
                   id="oddbyexample-item-n-itemNumber-constraint-rule-7">
             <s:rule xmlns="http://www.tei-c.org/ns/1.0"
                     xmlns:s="http://purl.oclc.org/dsdl/schematron"
-                    context="tei:item[@n]">
-                                     <s:assert test="number(@n) = number(preceding-sibling::tei:item[1]/@n) + 1 or count(preceding-sibling::tei:item[1]/@n) = 0"> value of @n is wrong </s:assert>
-                                     
-                                 </s:rule>
+                    context="tei:item">
+                                 <s:assert test="@n">The tei:item elements must have a @n
+                                    attribute.</s:assert>
+                                 <s:assert test="number(@n) = number(preceding-sibling::tei:item[1]/@n) + 1 or count(preceding-sibling::tei:item[1]/@n) = 0"> value of @n is wrong </s:assert>
+                              </s:rule>
          </pattern>
          <empty/>
       </element>
