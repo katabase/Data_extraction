@@ -1525,7 +1525,7 @@
                <!--Checking module header-->
                <classRef key="att.patternReplacement"/>
                <moduleRef key="header"
-                  include="teiHeader fileDesc titleStmt editionStmt edition extent publicationStmt idno availability licence notesStmt sourceDesc encodingDesc samplingDecl prefixDef listPrefixDef appInfo application profileDesc langUsage language textClass keywords correspDesc correspAction correspContext"/>
+                  include="teiHeader fileDesc titleStmt editionStmt edition extent publicationStmt idno availability licence notesStmt sourceDesc encodingDesc samplingDecl prefixDef listPrefixDef appInfo application profileDesc langUsage language textClass keywords correspDesc correspAction correspContext revisionDesc change"/>
                <elementSpec ident="teiHeader" mode="change">
                   <attList>
                      <attDef ident="corresp" mode="delete"/>
