@@ -18,7 +18,7 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>METTRE UN TITRE COURT. Le code se met désormais dans TEI/@xml:id</title>
+                    <title>METTRE UN TITRE COURT (par exemple code du PDF). Le code se met désormais dans TEI/@xml:id</title>
                     <!-- Le code se récupère ici
                         https://docs.google.com/spreadsheets/d/1hGOWZXAdhFf0K94tvPL5OMqTpAhVI7PKSlasLkirQGY/edit?usp=sharing
                     -->
