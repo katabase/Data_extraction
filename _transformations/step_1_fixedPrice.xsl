@@ -152,7 +152,8 @@
             <xsl:when test="matches(., '\d$')">
                 <!-- Getting the number as a variable -->
                 <xsl:variable name="number">
-                    <xsl:analyze-string select="." regex="(\d+$)">
+                    <xsl:analyze-string select="." regex="[^in\-\d](\s?\d?\s?\d+?)$">
+                        <!--<xsl:analyze-string select="." regex="(\s?\d?\s\d+)$">-->
                         <xsl:matching-substring>
                             <xsl:value-of select="regex-group(1)"/>
                         </xsl:matching-substring>
@@ -168,7 +169,15 @@
                     <xsl:attribute name="type">
                         <xsl:text>price</xsl:text>
                     </xsl:attribute>
-                <xsl:value-of select="$number"/>
+                    <xsl:choose>
+                        <xsl:when test="starts-with($number, ' ')">
+                            <xsl:variable name="number_clean" select="substring($number, 2, string-length(.))"/>
+                            <xsl:value-of select="$number_clean" separator=" "/>
+                        </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:value-of select="$number"/>
+                        </xsl:otherwise>
+                    </xsl:choose>
                 </xsl:element>
             </xsl:when>
             <!-- if no number, then there is no price -->

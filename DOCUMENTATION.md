@@ -115,7 +115,7 @@ Il est recommandé d'utiliser Oxygen en lançant le projet [`GROBID.xpr`](https:
 <?xml-model href="../../_schemas/schema_grobid_output.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 ```
 
-**Attention**: le contenu de `titleStmt/title` va servir à fabriquer les `@xml:id` des `<item>`. Il doit donc correspondre au code du document.
+**Attention**: le contenu de `TEI/@xml:id` va servir à fabriquer les `@xml:id` des `<item>`. Il doit donc correspondre au code du document.
 
 3. Une fois le fichier XML corrigé, appliquer la feuille de style [`_transformations/step_2.xsl`](https://github.com/katabase/GROBID_Dictionaries/blob/master/_transformations/step_2.xsl) (scénario `step_2`).
 
