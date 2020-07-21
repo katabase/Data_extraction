@@ -2,7 +2,9 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:s="http://purl.oclc.org/dsdl/schematron"
+   xmlns:sch="http://purl.oclc.org/dsdl/schematron">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -1099,12 +1101,13 @@
                      <attDef ident="scale" mode="delete"/>
                   </attList>
                </classSpec>
-               <classSpec ident="att.measurement" type="atts" mode="change">
+              
+              <!-- <classSpec ident="att.measurement" type="atts" mode="change">
                   <attList>
-                     <attDef ident="quantity" mode="delete"/>
-                     <attDef ident="commodity" mode="delete"/>
+                     <attDef ident="unitRef" mode="delete"/>
                   </attList>
                </classSpec>
+               -->
                <classSpec ident="att.naming" type="atts" mode="change">
                   <attList>
                      <attDef ident="role" mode="delete"/>
@@ -1171,8 +1174,14 @@
                   </attList>
                </elementSpec>
                <elementSpec ident="desc" mode="change">
+                  <constraintSpec ident="descId" scheme="schematron">
+                     <constraint>
+                        <sch:rule context="tei:item/tei:desc">
+                           <sch:assert test="@xml:id" role="error">Please add a @xml:id attribute</sch:assert>
+                        </sch:rule>
+                     </constraint>
+                  </constraintSpec>
                   <attList>
-                     <attDef ident="xml:id" mode="change" usage="req"/>
                      <attDef ident="type" mode="delete"/>
                      <attDef ident="corresp" mode="delete"/>
                      <attDef ident="facs" mode="delete"/>
@@ -1247,11 +1256,19 @@
                   </attList>
                </elementSpec>
                <elementSpec ident="num" mode="change">
+                  <constraintSpec ident="numType" scheme="schematron">
+                     <constraint>
+                        <sch:rule context="tei:item/tei:num">
+                           <sch:assert test="@type" role="error">Please add a @type attribute</sch:assert>
+                        </sch:rule>
+                     </constraint>
+                  </constraintSpec>
                   <attList>
                      <attDef ident="type" mode="change">
                         <valList type="closed" mode="replace">
                            <valItem ident="price"/>
                            <valItem ident="lot"/>
+                           <valItem ident="catalogue"/>
                         </valList>
                      </attDef>
                      <attDef ident="value" mode="delete"/>
@@ -1268,6 +1285,22 @@
                      <attDef ident="facs" mode="delete"/>
                      <attDef ident="resp" mode="delete"/>
                      <attDef ident="source" mode="delete"/>
+                     <attDef ident="commodity" mode="change" usage="req">
+                        <valList type="closed" mode="replace">
+                           <valItem ident="currency"/>
+                        </valList>
+                     </attDef>
+                     <attDef ident="unit" mode="change" usage="req">
+                        <valList type="closed" mode="replace">
+                           <valItem ident="FRF"/>
+                           <valItem ident="CHF"/>
+                           <valItem ident="EUR"/>
+                           <valItem ident="USD"/>
+                           <valItem ident="GBP"/>
+                           <valItem ident="ITL"/>
+                           <valItem ident="DEM"/>
+                        </valList>
+                     </attDef>
                   </attList>
                </elementSpec>
                <elementSpec ident="date" mode="change">

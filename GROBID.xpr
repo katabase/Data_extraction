@@ -25,6 +25,66 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>_examples/RDA_LAD_grobidOutput/1893_03_RDA_N153.pdf.tei_step1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>step_2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>_examples/RDA_LAD_grobidOutput/1893_06_RDA_N156.pdf.tei_step1_step2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>step_3_addPrice_fixedPrice</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>_examples/RDA_LAD_grobidOutput/1893_06_RDA_N156.pdf.tei_step1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>step_2</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>_examples/RDA_LAD_grobidOutput/1893_03_RDA_N153.pdf.tei.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>step_1_fixedPrice</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>_examples/RDA_LAD_grobidOutput/1893_04_RDA_N154.pdf.tei_step1_step2.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -45,21 +105,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>step_4_descId</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>_examples/RDA_LAD_grobidOutput/1893_06_RDA_N156.pdf.tei_step1_step2.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>step_3_addPrice_fixedPrice</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -101,36 +146,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>_examples/RDA_LAD_grobidOutput/1893_07_RDA_N157.pdf.tei_step1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>step_2</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>_examples/RDA_LAD_grobidOutput/1893_06_RDA_N156.pdf.tei_step1.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>step_2</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>_examples/RDA_LAD_grobidOutput/1893_03_RDA_N153.pdf.tei_step1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

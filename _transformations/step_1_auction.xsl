@@ -18,10 +18,19 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Titre du catalogue</title>
+                    <title>METTRE UN TITRE COURT. Le code se met désormais dans TEI/@xml:id</title>
+                    <!-- Le code se récupère ici
+                        https://docs.google.com/spreadsheets/d/1hGOWZXAdhFf0K94tvPL5OMqTpAhVI7PKSlasLkirQGY/edit?usp=sharing
+                    -->
+                    <!-- CHOISIR LA BONNE PERSONNE -->
                     <respStmt>
                         <persName ref="#COL_000001">Simon Gabay</persName>
-                        <resp><date when="2019">2019</date></resp>
+                        <persName ref="#COL_000002">Lucie Rondeau du Noyer</persName>
+                        <persName ref="#COL_000003">Ljudmila Petkovic</persName>
+                        <persName ref="#COL_000004">Alexandre Bartz</persName>
+                        <persName ref="#COL_000005">Caroline Corbières</persName>
+                        <persName ref="#COL_000006">Matthias Gille Levenson</persName>
+                        <resp><date when="2019">2020</date></resp>
                     </respStmt>
                 </titleStmt>
                 <extent></extent>

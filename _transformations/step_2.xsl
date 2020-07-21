@@ -8,7 +8,7 @@
     <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
     <xsl:strip-space elements="*"/>
     
-    <xsl:template match="TEI">
+    <xsl:template match="TEI" xml:id="{/TEI/@xml:id}">
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
@@ -47,14 +47,14 @@
         </xsl:copy>
     </xsl:template>
     
-
+    
     <xsl:template match="item">
         <xsl:element name="item">
             <xsl:attribute name="n">
                 <xsl:value-of select=".//num[not(@type)]"/>
             </xsl:attribute>
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="//titleStmt/title"/>
+                <xsl:value-of select="/TEI/@xml:id"/>
                 <xsl:text>_e</xsl:text>
                 <xsl:value-of select=".//num[not(@type)]"/>
             </xsl:attribute>
@@ -62,22 +62,31 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="num">
-        <xsl:element name="num">
-      <xsl:choose>
-          <xsl:when test="./@type">
-              <xsl:attribute name="type">
-                  <xsl:text>price</xsl:text>
-              </xsl:attribute>
-          </xsl:when>
-          <xsl:otherwise>
-              <xsl:attribute name="type">
-                  <xsl:text>lot</xsl:text>
-              </xsl:attribute>
-          </xsl:otherwise>
-      </xsl:choose>
-            <xsl:apply-templates/>
-        </xsl:element>
+    <xsl:template match="num[ancestor::text]">
+        <xsl:choose>
+            <xsl:when test="@type='price'">
+                <xsl:element name="measure">
+                    <xsl:attribute name="commodity">
+                        <xsl:text>currency</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="unit">
+                        <xsl:text>FRF</xsl:text>
+                    </xsl:attribute>
+                    <xsl:attribute name="quantity">
+                        <xsl:value-of select="translate(normalize-space(translate(.,' ','.')),' ','')"/>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </xsl:element>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:element name="num">
+                    <xsl:attribute name="type">
+                        <xsl:text>lot</xsl:text>
+                    </xsl:attribute>
+                    <xsl:apply-templates/>
+                </xsl:element>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="name[ancestor::text]">
@@ -106,27 +115,27 @@
     </xsl:template>
     
     <xsl:template match="p[parent::trait]">
-            <xsl:element name="p">
-                <xsl:choose>
-                    <xsl:when test="ends-with(.,'-')">
-                        <xsl:variable name="tokens" select="tokenize(.,' -')"/>
-                        <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
-                    </xsl:when>
-                    <xsl:when test="ends-with(.,'–')">
-                        <xsl:variable name="tokens" select="tokenize(.,' –')"/>
-                        <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:apply-templates/>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </xsl:element>
+        <xsl:element name="p">
+            <xsl:choose>
+                <xsl:when test="ends-with(.,'-')">
+                    <xsl:variable name="tokens" select="tokenize(.,' -')"/>
+                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                </xsl:when>
+                <xsl:when test="ends-with(.,'–')">
+                    <xsl:variable name="tokens" select="tokenize(.,' –')"/>
+                    <xsl:value-of select="$tokens[not(.=$tokens[last()])]" separator=" "/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:element>
     </xsl:template>
     
     <xsl:template match="desc">
         <xsl:element name="desc">
             <xsl:attribute name="xml:id">
-                <xsl:value-of select="//titleStmt/title"/>
+                <xsl:value-of select="/TEI/@xml:id"/>
                 <xsl:text>_e</xsl:text>
                 <xsl:value-of select="../num[not(@type)]"/>
                 <xsl:text>_d</xsl:text>
@@ -155,5 +164,5 @@
     
     
     
-
+    
 </xsl:stylesheet>
