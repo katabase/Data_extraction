@@ -8,38 +8,38 @@
          <titleStmt>
             <title>CAT_000156</title>
             <respStmt>
-               <persName ref="#COL_000001" instant="false">Simon Gabay</persName>
+               <persName ref="#COL_000001">Simon Gabay</persName>
                <resp>
-                  <date when="2019" instant="false">2019</date>
+                  <date when="2019">2019</date>
                </resp>
             </respStmt>
          </titleStmt>
          <extent/>
          <publicationStmt>
             <publisher>Projet e-Ditiones, Université de Neuchâtel</publisher>
-            <availability status="restricted" default="false">
+            <availability status="restricted">
                <licence target="https://creativecommons.org/licenses/by/2.0">Attribution 2.0 Generic
                   (CC BY 2.0)</licence>
             </availability>
          </publicationStmt>
-         <sourceDesc default="false">
-            <bibl default="false" status="draft">
+         <sourceDesc>
+            <bibl>
                <title>REVUE DES AUTOGRAPHES</title>
                <num>151</num>
                <editor>Eugène Charavay fils</editor>
                <publisher>Eugène Charavay fils</publisher>
                <pubPlace>Paris, Rue du Faubourg Poissonière 34</pubPlace>
-               <date when="1893-03" instant="false">Mars 1893</date>
+               <date when="1893-03">Mars 1893</date>
             </bibl>
-            <listEvent default="false">
-               <event instant="false">
-                  <p part="N">
+            <listEvent>
+               <event>
+                  <p>
                      <address>
                         <addrLine/>
                      </address>
-                     <persName type="auctioneer" instant="false"/>
-                     <persName type="expert" instant="false"/>
-                     <date instant="false"/>
+                     <persName type="auctioneer"/>
+                     <persName type="expert"/>
+                     <date/>
                   </p>
                </event>
             </listEvent>
@@ -48,19 +48,19 @@
                   <ptr/>
                </witness>
             </listWit>
-            <listBibl default="false">
-               <bibl default="false" status="draft"/>
+            <listBibl>
+               <bibl/>
             </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <langUsage default="false">
+         <langUsage>
             <language ident="fr">french</language>
          </langUsage>
       </profileDesc>
       <encodingDesc>
-         <samplingDecl default="false">
-            <p part="N">This electronic version of the catalog only reproduces the entries that correspond to
+         <samplingDecl>
+            <p>This electronic version of the catalog only reproduces the entries that correspond to
                documents for sale. All text preceding or succeeding the list of documents for sale
                is not reproduced below.</p>
          </samplingDecl>
@@ -79,7 +79,7 @@
    </teiHeader>
    <text>
       <body>
-         <gap instant="false"/>
+         <gap/>
          <list>
             <item n="1" xml:id="CAT_000156_e1">
                <num type="lot">1</num>
@@ -3826,6 +3826,6 @@
             </item>
          </list>
       </body>
-      <gap instant="false"/>
+      <gap/>
    </text>
 </TEI>
