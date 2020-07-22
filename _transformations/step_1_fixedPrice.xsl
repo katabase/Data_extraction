@@ -169,7 +169,9 @@
                     <xsl:attribute name="type">
                         <xsl:text>price</xsl:text>
                     </xsl:attribute>
+                    <!-- Check if the price starts with a space -->
                     <xsl:choose>
+                        <!-- if yes get rid of it -->
                         <xsl:when test="starts-with($number, ' ')">
                             <xsl:variable name="number_clean" select="substring($number, 2, string-length(.))"/>
                             <xsl:value-of select="$number_clean" separator=" "/>
