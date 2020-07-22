@@ -5,7 +5,7 @@
          xmlns:teix="http://www.tei-c.org/ns/Examples"
          datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
          ns="http://www.tei-c.org/ns/1.0"><!--
-Schema generated from ODD source 2020-07-18T13:06:18Z. .
+Schema generated from ODD source 2020-07-22T10:15:35Z. .
 TEI Edition: Version 3.5.0. Last updated on
 	29th January 2019, revision 3c0c64ec4
 TEI Edition Location: http://www.tei-c.org/Vault/P5/Version 3.5.0/
@@ -1986,7 +1986,8 @@ The element indicated by @spanTo (<sch:value-of select="@spanTo"/>) must follow 
                       xmlns:s="http://purl.oclc.org/dsdl/schematron"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       context="tei:item/tei:desc">
-                           <sch:assert test="@xml:id" role="error">Please add a @xml:id attribute</sch:assert>
+                           <sch:assert test="@xml:id" role="error">Please add a @xml:id
+                              attribute</sch:assert>
                         </sch:rule>
          </pattern>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
@@ -2190,7 +2191,8 @@ Measures]</a:documentation>
                       xmlns:s="http://purl.oclc.org/dsdl/schematron"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
                       context="tei:item/tei:num">
-                           <sch:assert test="@type" role="error">Please add a @type attribute</sch:assert>
+                           <sch:assert test="@type" role="error">Please add a @type
+                              attribute</sch:assert>
                         </sch:rule>
          </pattern>
          <ref name="att.global.attribute.xmlid"/>
@@ -2223,6 +2225,16 @@ Measures]</a:documentation>
          <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains a word or phrase referring to some quantity of an object or commodity, usually comprising a number, a unit, and a commodity name. [3.5.3. Numbers and
 Measures]</a:documentation>
          <ref name="macro.phraseSeq"/>
+         <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
+                  id="oddbyexample-measure-descId-constraint-rule-9">
+            <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
+                      xmlns:s="http://purl.oclc.org/dsdl/schematron"
+                      xmlns:sch="http://purl.oclc.org/dsdl/schematron"
+                      context="tei:measure[@commodity='currency']">
+                           <sch:assert test="text()" role="error">Please add a price information to
+                              the element</sch:assert>
+                        </sch:rule>
+         </pattern>
          <ref name="att.global.attribute.xmlid"/>
          <ref name="att.global.attribute.n"/>
          <ref name="att.global.attribute.xmllang"/>
@@ -2451,7 +2463,7 @@ attributes @target and @cRef may be supplied on <name/>.</report>
             </zeroOrMore>
          </group>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="oddbyexample-list-gloss-list-must-have-labels-constraint-rule-9">
+                  id="oddbyexample-list-gloss-list-must-have-labels-constraint-rule-10">
             <sch:rule xmlns="http://www.tei-c.org/ns/1.0"
                       xmlns:s="http://purl.oclc.org/dsdl/schematron"
                       xmlns:sch="http://purl.oclc.org/dsdl/schematron"
@@ -2495,7 +2507,7 @@ attributes @target and @cRef may be supplied on <name/>.</report>
             </attribute>
          </optional>
          <pattern xmlns="http://purl.oclc.org/dsdl/schematron"
-                  id="oddbyexample-item-n-itemNumber-constraint-rule-10">
+                  id="oddbyexample-item-n-itemNumber-constraint-rule-11">
             <s:rule xmlns="http://www.tei-c.org/ns/1.0"
                     xmlns:s="http://purl.oclc.org/dsdl/schematron"
                     xmlns:sch="http://purl.oclc.org/dsdl/schematron"
