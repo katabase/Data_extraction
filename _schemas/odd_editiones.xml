@@ -1285,6 +1285,8 @@
                         <sch:rule context="tei:measure[@commodity='currency']">
                            <sch:assert test="text()" role="error">Please add a price information to
                               the element</sch:assert>
+                           <sch:assert test="@quantity != ''" role="error">The quantity attribute
+                              must not be empty</sch:assert>
                         </sch:rule>
                      </constraint>
                   </constraintSpec>
