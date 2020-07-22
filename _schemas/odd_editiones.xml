@@ -1280,7 +1280,7 @@
                   </attList>
                </elementSpec>
                <elementSpec ident="measure" mode="change">
-                  <constraintSpec ident="descId" scheme="schematron">
+                  <constraintSpec ident="measure_check" scheme="schematron">
                      <constraint>
                         <sch:rule context="tei:measure[@commodity='currency']">
                            <sch:assert test="text()" role="error">Please add a price information to
