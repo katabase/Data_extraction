@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="form.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="form.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><form><name>Balzac (Honoré de</name>), <desc>grand romancier, n. 1799, m. 1850</desc></form><form><name>Balzac (Honoré de)</name></form><form><name>Balzac (Honoré de)</name></form><form><name>Barras (P.-F.-J.-Nic., comte de</name>), <desc>célèbre conventionnel <lb/>et directeur, n. 1755, m. 1829</desc></form><form><name>Barthelemy (A.-M.</name>), <desc>poète satirique, auteur de Némésis, <lb/>n. 1796, m. 1867</desc></form><form><name>Beffroy de Reigny (Louis-Abel</name>), <desc>dit le cousin Jacques, <lb/>auteur dramatique et compositeur de musique, n. 1757, <lb/>m. 1811</desc></form><form><name>Béranger (P.-J. de</name>), <desc>le célèbre chansonnier, n. 1780, <lb/>m. 1857</desc></form><form><name>Béranger (P.-J. de</name>). <lb/><desc>Les Révérends Pères, chanson autographe, 3 p. 1/2 in-4</desc></form><form><name>Bernadotte (J.-B.-Jules</name>), <desc>maréchal de l'Empire, puis ro <lb/>de Suède, n. 1764, m. 1844</desc></form><form><name>Bernadotte (J.-B.-Jules)</name></form><form><name>Bernadotte (J.-B.-Jules)</name></form><form><name>Bernadotte (J.-B.-Jules)</name></form><form><name>Berri (Ch.-Ferd., duc de</name>), <desc>fils de Charles X, n. 1778, <lb/>assassiné en 1820</desc></form><form><name>Berthier (Alex.</name>), <desc>prince de Wagram, maréchal de l'Em¬ <lb/>pire, n. 1753, m. 1815</desc></form><form><name>Berthier (Alex.)</name></form></body>
+	</text>
+</tei>

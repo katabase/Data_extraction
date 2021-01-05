@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="sense.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"
+?>
+<?xml-stylesheet type="text/css" href="sense.css"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id=""/>
+	</teiHeader>
+	<text>
+		<body><sense><subSense>joint son portrait carte avec 5 lignes <lb/>aut. signées ; 21 oct. 1877, in-32. 25 </subSense>
+</sense><sense><subSense>L. a. s. en français à M. Diétrich ; <lb/>2 p. pl. in-8. 20 </subSense>
+<pc>» <lb/></pc>
+<note>Il l'invite à venir le voir pour causer sur <lb/>les cinq passages dont la traduction lui a paru <lb/>offrir quelques difficultés</note>
+</sense><sense><subSense>L. a. s. <lb/>à M. l'abbé (Moigno) ; Vienne, 8 octo¬ <lb/>bre 1859 ; 1 p. in-8. 25 </subSense>
+<pc>» <lb/></pc>
+<note>Il lui présente M. le docteur Victor Lang, <lb/>physicien, cristallographe, ami et collabora¬ <lb/>teur de feu M. Grailich</note>
+</sense><sense><subSense>L. a. s. en fran¬ <lb/>çais, à M. Michaud, libraire, 26 août <lb/>1 p. in-8. 20 </subSense>
+<pc>» <lb/></pc>
+<note>Lettre littéraire où il parle d'un ouvrage sur <lb/>la littérature russe</note>
+</sense><sense><subSense>L. a. s. à M. Rousseau, adminis¬ <lb/>trateur de l'Imprimerie Royale ; 2 mars <lb/>1818; 1 p. in-8. 15 </subSense>
+<pc>» <lb/></pc>
+<note>Relative à la composition d'un de ses ouvra¬ <lb/>ges</note>
+</sense><sense><subSense>L. a. s. ; 1/2 p. in-4. 15 </subSense>
+</sense><sense><subSense>L. a. s. à un confrère ; 20 thermi¬ <lb/>dor an IV; 3/4 de p. in-8. 20 </subSense>
+<pc>» <lb/></pc>
+<note>Aimable lettre où il le remercie de ses deux <lb/>ouvrages qu'il lui a fait remettre par le ci¬ <lb/>toyen Chaussier « J'ai eu pendant longtemps <lb/>la même idée que le citoyen Dolomieu ; et j'ai <lb/>cru que nous pouvions nous compter parmi <lb/>les associés de l'Institut. Au reste notre plai¬ <lb/>sir à cet égard n'est que différé. </note>
+</sense><sense><subSense>L. a. s. à M. Du¬ <lb/>méril ; Paris, 7 fructidor an II ; 1/4 de <lb/>p. in-4, très beau cachet avec devise <lb/>latine. <lb/>20 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Aimable lettre où il s'acquitte de la seule <lb/>partie facile à payer, de la dette qu'il a con¬ <lb/>tractée envers lui</note>
+</sense><sense><subSense>L. a. <lb/>s. à M. Cretaine, libraire ; 1 p. 1/4 in-12. <lb/>15 </subSense>
+</sense><sense><subSense>L. a. s. au baron Larrey ; <lb/>lundi, 6 heures du soir ; 1 p. in-8. 20 </subSense>
+</sense><sense><note>Au sujet de son Mémoire « Il a fallu faire <lb/>le sacrifice des premières observations ; mais <lb/>j'ai lu complètement, la plus importante, <lb/>ainsi que toutes nos considérations générales. <lb/>On vous a nommé pour commissaires Pel¬ <lb/>letan et Boyer. </note>
+</sense><sense><subSense>L. a. s. à <lb/>M. Daudin ; 24 germ. an VII ; 1 p. 1/2 <lb/>in-4. <lb/>20 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre où il lui adresse le fruit <lb/>de ses recherches</note>
+</sense><sense><subSense>L. a. <lb/>s. ; Etrépigny, 7 août 1826 ; 1 p. 1/2 <lb/>in-4. <lb/>15 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il déplore la perte d'un de ses amis</note>
+</sense><sense><subSense>L. a. s. ; Londres, 28 juillet 1721 ; 2 p. <lb/>in-4. Petite réparation dans un coin. <lb/>40 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre où il lui parle de New¬ <lb/>ton. L'abbé de Veissière lui a envoyé son Al-<lb/>gèbre. Il a adressé une lettre pour M. de <lb/>Fontenelle dans celle qu'il a envoyée à M. de <lb/>Varignon</note>
+</sense><sense><subSense>P. s. ; Munich, 13 janvier <lb/>1836 ; in-8 obl. 12 </subSense>
+<pc>» <lb/></pc>
+<note>Reconnaissance de prêt de livre à lui fait <lb/>par la bibl. royale de Munich</note>
+</sense><sense><subSense>L. a. s. à. M. de Va-<lb/>try ; Pise, 2 novembre 1860, 1 p. in-4. <lb/>Léger raccommodage. 20 </subSense>
+<pc>» <lb/></pc>
+<note>Curieuse lettre. « De la politique, que vous <lb/>écrire ? Nous sommes en pleine mer et nous <lb/>y naviguons ; nous espérons gagner le port ». <lb/>Il s'étonne qu'on appelle les italiens des in¬ <lb/>grats parce qu'ils cherchent à conquérir les <lb/>Etats Romains et le royaume de Naples</note>
+</sense><sense><subSense>Traité de la sphère <lb/>du globe céleste et terrestre, la connais¬ <lb/>sance et l'usage du Compas de propor¬ <lb/>tion avec la manière de s'en servir uti¬ <lb/>lement dans toutes sortes d'opérations, <lb/>brochure imprimée, avec sa signature <lb/>aut. et la table aut., 2 p. in-8. 50 pages <lb/>imprimées, 5 sphères imp. et 19 p. ma¬ <lb/>nuscrites, in-12. <lb/>35 </subSense>
+</sense><sense><subSense>L. a. s. au <lb/>prince Louis Bonaparte, avec 9 mots <lb/>autographes de ce dernier ; Paris, <lb/>19 brumaire an XIII; 1 p. in-4. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Il lui propose pour remplacer M. Janvier, <lb/>M. Moreau mathématicien, astronome, etc. -<lb/>Le prince répond qu'il le remercie, mais que <lb/>cette place n'est pas vacante</note>
+</sense><sense><subSense>L a. s., au <lb/>docteur Jugen (médecin de l'empereur <lb/>d'Autriche), avec 1/2 page in-4 aut. de <lb/>ce dernier, Paris, 28 oct. 1784-9 no¬ <lb/>vembre 1784 ; 2 p. 1/2 in-4. Rare. 60 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre où il parle de ses publica¬ <lb/>tions, de son voyage en Suisse, de MM. Sene-<lb/>bier, Darcet, l'abbé Rozier, du comte de Ver-<lb/>gennes. La minute de la réponse du docteur <lb/>Jugen est des plus intéressante et toute <lb/>scientifique, il y parle de Senebier de Pries¬ <lb/>tley ; d'un mémoire sur l'air nitreux, du co¬ <lb/>balt, etc</note>
+</sense><sense><subSense>L. a. s. à M. Platon de <lb/>Waxel ; 1877 ; 1 p. in-8. 15 </subSense>
+</sense><sense><subSense>L. a. s. en tête à Daniel <lb/>Wytenbach, professeur à Amsterdam, <lb/>puis à Leyde ; Venise, 16 juillet 1808 ; <lb/>2 <lb/>p. <lb/>in-8. <lb/>35 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il lui a fait adresser par un libraire de Leip¬ <lb/>zig des fragments de Dion Cassuis et des <lb/>variantes du Phédon, il l'engage à publier la <lb/>correspondance de Rubnkenius, érudit Po-<lb/>méranien, sur lequel il donne quelques ren¬ <lb/>seignements nouveaux</note>
+</sense><sense><subSense>70 l. a. s. à M.Treuttel ; Lyon (1838-<lb/>1852), 130 p. in-4 et in-8. 100 </subSense>
+<pc>» <lb/></pc>
+<note>Très intéressante correspondance scientifi¬ <lb/>que et littéraire</note>
+</sense><sense><subSense>L. a. s. à M. Sé¬ <lb/>very à Lausanne ; 1 p. in-4. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Très belle lettre</note>
+</sense><sense><subSense>L. a. s. à <lb/>J.-B. Say ; Edimbourg, 9 sept. 1817; <lb/>2 p. 1/2 in-4, cachet camée. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Très belle et intéressante lettre</note>
+</sense><sense><subSense>L. a. s. au professeur Savi à <lb/>Pise ; Macerata, 19 août 1834; 4 p. in-4, <lb/>cachet. <lb/>35 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre scientifique</note>
+</sense><sense><subSense>L. a. s. ; 14 janvier 1812 ; <lb/>1 <lb/>p. <lb/>in-4. <lb/>20 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il lui recommande le soldat invalide Lo¬ <lb/>cate, gardien au pont de Choisy</note>
+</sense><sense><subSense>L. a. <lb/>s. à un artiste ; Paris, 23 octobre 1845 ; <lb/>1 <lb/>p. <lb/>in-8. <lb/>12 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Toute relative à la réparation à faire au <lb/>groupe de Bichat</note>
+</sense><sense><subSense>L. a. s. à un artiste ; <lb/>Paris, 10 déc. 1846 ; 1 p. in-8. 12 </subSense>
+<pc>» <lb/></pc>
+<note>Il désire savoir si la statue de Bichat dont <lb/>il s'agit sera la reproduction de celle de Bourg <lb/>« que nous avons placée au bas du grand es¬ <lb/>calier de l'Ecole »</note>
+</sense><sense><subSense>L. a. s. à un <lb/>artiste ; 5 novembre 1848 ; 1 p. in-8. <lb/>30 </subSense>
+<pc>» <lb/></pc>
+<note>Il le prie de lui écrire une lettre dans la¬ <lb/>quelle il lui dira l'exacte vérité : « Que vous <lb/>n'avez fait qu'un buste en marbre d'Antoine <lb/>Paré. Que vous ne l'avez jamais donné à la <lb/>Faculté. Que vous en avez fait hommage à <lb/>M. Portal pour qu'il le donnât à l'Académie <lb/>Nationale de Médecine. </note>
+</sense><sense><subSense>L. sig. au <lb/>docteur Grateloup à Dax ; Ogenne, <lb/>25 oct. 1822; 2 p. in-4. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Toute relative à ses Cartes Minéralogi¬ <lb/>ques. « Mès cartes étant géométriquement dres¬ <lb/>sées et tous les points exactement placés, il me <lb/>semble qu'une Carte Minéralogique de toute <lb/>l'étendue des Pyrénées, et qui peut repré¬ <lb/>senter les rapports de leurs différentes <lb/>parties, pourrait vous intéresser. Il est facile <lb/>de vous la procurer en imprimant et réunis¬ <lb/>sant les différentes cartes de mon ouvrage, <lb/>vous verriez par ce moyen l'ensemble de toute <lb/>la chaîne »</note>
+</sense><sense><subSense>L. sig. au mar¬ <lb/>quis de Chesnel ; Ogenne, 4 avril 1820 ; <lb/>1 <lb/>p. <lb/>in-8. <lb/>15 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il le prévient qu'il trouvera la liste des <lb/>cavernes des Pyrénées à la 60 et 61e page de <lb/>la suite de ses Mémoires. Il est parfaitement <lb/>de son avis au sujet de la formation des an¬ <lb/>ciens camps retranchés</note>
+</sense><sense><subSense>L. a. s. à M. Friquet <lb/>à Coulommiers ; Paris, 12 sept. 1759 ; <lb/>1 <lb/>p. <lb/>in-4. <lb/>30 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Relative à des travaux à faire à Saint-Ger¬ <lb/>main les Couillis</note>
+</sense><sense><subSense>L. a. s. en français, à Elsholz, <lb/>avec 7 lignes aut. de ce dernier ; Léni¬ <lb/>negrade, 17 fév. 1880 ; 2 p. in-8. 25 </subSense>
+<pc>» <lb/></pc>
+<note>Toute relative aux différentes éditions de <lb/>Margeret (1606 et 1669)</note>
+</sense><sense><subSense>L. <lb/>a. s. ; 20 septembre 1830 ; 2 p. in-4. 15 </subSense>
+<pc>» <lb/></pc>
+<note>Il lui recommande un chirurgien, M. Bonnot</note>
+</sense><sense><subSense>P. a. s ; 10 mai 1809 ; <lb/>1/2 p. in-8, obl. 12 </subSense>
+</sense><sense><subSense>L. a. s. <lb/>et p. a. s. à l'Institut d'Agriculture ; <lb/>Leipzig, 31 juillet 1854 ; 4 p. 1/2 in-8 <lb/>et <lb/>in-4. <lb/>35 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Envoi d'un article sur les plantes de la fa¬ <lb/>mille des agavés. -Suit l'article</note>
+</sense><sense><subSense>L. a. s. ; Valentin <lb/>(Vaud), 12 octobre 1865 ; 1 p. 1/2 in-8. <lb/>20 </subSense>
+</sense><sense><subSense>L. a. s. à M. Fauris de Saint-<lb/>Vincens à Aix ; Montpellier, 8 mars <lb/>1812 ; 3 p. in-4, cachet à son chiffre. <lb/>35 </subSense>
+<pc>» <lb/></pc>
+<note>Lettre scientifique</note>
+</sense><sense><subSense>P. sig. avec <lb/>2 mots autographes, sig. aussi par <lb/>Geo Maria Zendrini, 1818; 2 p. in-4 <lb/>obl. <lb/>Rare. <lb/>50 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Belle pièce</note>
+</sense><sense><subSense>L. a. s. à un député ; En <lb/>mer, à bord du Condé, 10 mai 1880 ; <lb/>1 p. in-18. 15 </subSense>
+<pc>» <lb/></pc>
+<note>Il offre à un compatriote des documents <lb/>intéressants et pas connus sur le Sénégal</note>
+</sense><sense><subSense>L. <lb/>a. s. à M. Nicolopoulo ; Strasbourg, <lb/>1er novembre 1810 ; 2 p. 1/4 in-8. 25 </subSense>
+</sense><sense><subSense>L. a. s. en français, à <lb/>M. Funkel, consul de Russie à Copenha¬ <lb/>gue ; Hambourg, 21 mars 1840 ; 1 p. <lb/>in-4. <lb/>15 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il désire qu'il lui fasse parvenir un paquet <lb/>que le Docteur Dahlbom de Lind, a remis <lb/>pour lui à M. B. W. W. à Copenhague</note>
+</sense><sense><subSense>3 L. a. s. à son <lb/>imprimeur Ducessois, 1862 ; 8 p. 1/2 <lb/>in-8. Papier à son chiffre. 50 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressantes lettres sur la brochure le <lb/>Royaume d'Italie, étudié sur les lieux <lb/>mêmes (1862, in-8). Il se demande si le libraire <lb/>Amyot dit n'avoir plus d'exemplaires par mau¬ <lb/>vais vouloir ou parce qu'il n'en a vraiment plus. <lb/>-26 avril 1862. Il lui adresse l'article paru <lb/>dans le Galignani Messenger ; bientôt il lui <lb/>en donnera un pour le Times ; que l'éditeur <lb/>secoue la Presse parisienne, les Débats qui <lb/>ont parlé d'une brochure absurde de M. de <lb/>La Rochejacquelein. Les journaux annon¬ <lb/>cent et analysent une brochure de Pietri sur <lb/>l'Italie ; Tchihatcheff traite le même sujet, <lb/>mais on l'oublie ; il veut des annonces dans <lb/>les Débats, la Presse et la Patrie. Il oppose <lb/>l'habileté de Dentu à l'apathie de son libraire <lb/>qui court à un fiasco</note>
+</sense><sense><subSense>L. a s. au citoyen <lb/>Dubois, préfet du Gard ; 10 floréal, 1 p. <lb/>in-4. <lb/>20 <lb/></subSense>
+</sense><sense><subSense>P. a. s. ; <lb/>4 p. 1/2 in-4. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Floria Brasiliae meridionalis. Très inté¬ <lb/>ressante pièce où il fait connaître le travail <lb/>d'un botaniste très distingué (Auguste de <lb/>Saint-Hilaire), que son zèle a conduit dans des <lb/>pays lointains ou il n'a épargné, ni temps, ni <lb/>fatigues, ni ses ressources pécuniaires pour <lb/>accroître le domaine de la science qu'il aimait <lb/>et à laquelle il a consacré sa vie »</note>
+</sense><sense><subSense>L. a. s. , en français, à M. de <lb/>Hornemann ; 28 février 1831 ; 2 p. in-8. <lb/>25 </subSense>
+<pc>» <lb/></pc>
+<note>Très intéressante lettre toute relative aux <lb/>plantes de Sybérie, de Russie. Il y parle de <lb/>MM. Blytt Sprengel, de Candolle, etc</note>
+</sense><sense><subSense>L. a. s. ; <lb/>Alba, 5 août 1783 ; 2 p. in-4. 30 </subSense>
+<pc>» <lb/></pc>
+<note>Lettre scientifique où il parle de Franklin</note>
+</sense><sense><subSense>L. a. s. en français, à M. Gro¬ <lb/>mier Brunereau à Florence ; Genève, <lb/>23 déc. 1878 ; 1 p. pl. in-8. 25 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre pour la Suisse et pour <lb/>sa biographie</note>
+</sense><sense><subSense>L. a. s. en français, <lb/>à M. Poggenpohl ; Varvarino, gouver¬ <lb/>nement de Vladimir, 21 juin 1882 ; <lb/>2 p. 1/2 in-8. 35 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre toute liléraire ou il lui <lb/>parle de M. Katkoff, du ministre Ignatieff. <lb/>75 Albert d'Autriche, gouverneur des <lb/>Pays-Bas, fils de l'Empereur Maximi¬ <lb/>lien II, époux de l'Infante Isabelle <lb/></note>
+<subSense>Glaire Eugénie. -L. sig. en français <lb/>à Mclchior d'Espinosa ; Bruxelles, <lb/>20 septembre 1613; 1 p. in-fol. 40 </subSense>
+<pc>» <lb/></pc>
+<note>Belle lettre</note>
+</sense><sense><subSense>L. a. s. au duc de <lb/>Bassano; Milan, 1eraoût 1850 ; 1 p. in-8. <lb/>15 </subSense>
+<pc>» <lb/></pc>
+<note>Il le prie devoir la bonté de remettre une <lb/>dépêché au Roi</note>
+</sense><sense><subSense>L. sig. avec la <lb/>souscr. aut., 20 déc. 1751; 1 p. in-fol., <lb/>beau cachet à ses armes. 50 </subSense>
+<pc>» <lb/></pc>
+<note>Superbe lettre</note>
+</sense><sense><subSense>L. signée à la signera Manucla <lb/>de Calderon ; Carlhagènc, 31 juillet <lb/>1830 ; 1 p. in-4. Très rare. 300 </subSense>
+<pc>» <lb/></pc>
+<note>Très aimable lettre. Il l'assure qu'il n'ou¬ <lb/>bliera jamais son amitié, « malgré que la for¬ <lb/>tune me conduit dans un pays si éloigné. Je ne <lb/>sais pas encore si les circonstances m'oblige¬ <lb/>ront à abandonner la Colombie pour toujours <lb/>en tout cas ici et partout vous pouvez être sûr <lb/>de mes bons sentiments»</note>
+</sense><sense><subSense>L. a. s. à M. Lachevardière ; <lb/>5 avril 1834; 1 p. 1/2 in-18, cachet. <lb/>15 </subSense>
+</sense><sense><subSense>L. sig. Yo el Rey, sig. aussi par <lb/>son secrétaire Diego Bengana ; Madrid, <lb/>20 décembre 1776; 1 p. in-fol., sceau <lb/>imp. <lb/>40 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Relative à Don Donacio Rodriguez del <lb/>Campai</note>
+</sense><sense><subSense>L. sig. Yo el Rey ; Aranjuez, <lb/>4 mars 1792; 1 p. in-fol., sceau imp. <lb/>35 </subSense>
+<pc>» <lb/></pc>
+<note>Relative à don Juan Miguel Velasco</note>
+</sense><sense><subSense>L. sig. à <lb/>M. de Lieven, « général en chef de 8. <lb/>M. Impériale de toutes les Russies»; <lb/>Millau, 9sept. 1759; 1 p. 3/4in-fol.,beau <lb/>cachet h ses armes. 40 </subSense>
+<pc>» <lb/></pc>
+<note>Belle lettre militaire</note>
+</sense><sense><subSense>L. sig. Yo cl Rey, sig. aussi <lb/>par Martin de Leeela son secrétaire ; <lb/>Aranjuez, 4 août 1751 ; 1 p. in-fol., ca¬ <lb/>chet imp. 40 </subSense>
+<pc>» <lb/></pc>
+<note>Relative à don Juan Domingo de Guirla</note>
+</sense><sense><subSense>L. <lb/>a. s. à la 3* pers., à M. Jenvrin ; 15 déc. <lb/>1838 ; 1 p. in-8. 12 </subSense>
+<pc>» <lb/></pc>
+<note>Elle lui demande son concours pour une <lb/>vente au profit des Polonais indigents</note>
+</sense><sense><subSense>P. sig. ; Paris, hôtel de l'Em¬ <lb/>pereur, arcades du Palais Royal ; 5 déc. <lb/>1786 ; 2 p. in-4. 20 </subSense>
+<pc>» <lb/></pc>
+<note>Procuration pour le sieur Ferdinand Grand, <lb/>banquier a Paris</note>
+</sense><sense><subSense>L. en français, <lb/>signée en français, « aux vénérables <lb/>noz chers et bien aimez les Prévost, <lb/>doyen et chanoines de l'Eglise Métro¬ <lb/>politaine de Notre-Dame de Cambray » ; <lb/>(Anvers), 13 octobre 1631 ; 1 p. in-fol. <lb/>Beau cachet à ses armes. Rare en fran¬ <lb/>çais. <lb/>150 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Très belle pièce. <lb/>Elle désire pourvoir de l'une des premières <lb/>prébendes qui viendra à raquer en leur chapi¬ <lb/>tre le sieur don Juan de Urqnina, chevalier <lb/>de l'ordre militaire de St-Jaques, et Chape¬ <lb/>lain de son oratoire, fils de feu le sieur Ür-<lb/>quina, son secrétaire. Elle espère qu'ils se¬ <lb/>ront honorés par l'admission de semblables <lb/>personnages, « qui se rendent recommandables <lb/>d'eux-mêmes à cause de leurs bonnes qualités <lb/></note>
+<subSense>et sage conduite. • <lb/>87 Isabelle-Claire-Eugénie, célèbre <lb/>gouvernante des Pays-Bas. -L. a. s. <lb/>à Philippe III, 1 p. in-fol. Rare aut. si¬ <lb/>gnée. <lb/>350 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Elle lui recommande le sieur Vact de <lb/>Benavidès</note>
+</sense><sense><subSense>L. a. <lb/>s. à Mme de Chazal ; 16 mars ; 2 p. <lb/>in-8. <lb/>20 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Aimable lettre adressée à la femme du Mi¬ <lb/>nistre de la guerre de Belgique, à Bruxelles, <lb/>en 1850. Il la prie d'excuser son écriture, mais <lb/>j'ai 5 dames cl demoiselles avec 13 malles à <lb/>emballer et à expédier d'ici une heure... et <lb/>je sais à peine où est ma tête »</note>
+</sense><sense><subSense>L. a. s., juillet 1805 ; 1 p. <lb/>pl. <lb/>in-4. <lb/>25 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Réponse à une consultation de MM. Sed-<lb/>gurch et Bleecker. <lb/></note>
+</sense><sense><subSense>Pièce aut. sig. : Kbaïdim, <lb/>empereur d'Annam ; Marseille, le 10 août <lb/>1922 ; in-12 obi. Rare. 100 </subSense>
+</sense><sense><subSense>L. a. en français, <lb/>à Madame de Grotthus ; (Toeplitz, 1810) ; <lb/>1 <lb/>p. <lb/>in-8. <lb/>50 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Il la prie de renoncer à donner une fête en <lb/>l'honneur de l'impératrice « d'après l'effet que <lb/>la malheureuse fête d-! Paris a produit sur <lb/>elle, celle qu'on donnerait dans ce moment-cy <lb/>lui déplairait »</note>
+</sense><sense><subSense>L. a. a., Milan, mai 1673 ; 1 p. in-fol. <lb/>25 </subSense>
+<pc>» <lb/></pc>
+<note>Très belle lettre où il est question de la <lb/>dédicace de quelques-uns de ses opuscules</note>
+</sense><sense><subSense>L., prince de), <lb/>célèbre homme d'Etat autrichien, qui <lb/>fut ambassadeur d'Autriche à Paris <lb/>après lu paix de Presbourg. Nè en 1773, <lb/>ni. en 1859. -L. sig. au comte Dejean, <lb/>ministre de la guerre ; Paris, 10 sep¬ <lb/>tembre 1808 ; 2 p. 1/3 gr. in-fol. 100 </subSense>
+<pc>» <lb/></pc>
+<note>Lettre diplomatique écrite très peu de temps <lb/>avant l'entrevue d'Erfurt, entre Napoléon et <lb/>l'Empereur Alexandre. <lb/>« J'appelle votre attention sur un objet où nos <lb/>deux gouvernements sont également intéres¬ <lb/>sés, et je vous prie avec instance de vouloir <lb/>bien ordonner des mesures aussi promptes <lb/>qu'efficaces, pour faire acquitter les sommes <lb/>qui sont dus à mon Gouvernement, pour le <lb/>passage des troupes françaises en Dalmatie <lb/>et pour éviter toutes les difficultés que ces <lb/>payements pourraient rencontrer à l'avenir. </note>
+</sense><sense><subSense>L. a. s. à M. de Pog^enpohl ; <lb/>23 mars 1878 ; 1 p. in-8, envel. aut. si¬ <lb/>gnée, cachet à ses armes. 100 </subSense>
+<pc>» <lb/></pc>
+<note>Il le prie de demander au baron Jomini, <lb/>a si une médiation de la part de l'Empereur <lb/>Guillaume ne serait pas possible, et si l'An¬ <lb/>gleterre ne l'accepterait pas en souvenir de <lb/>l'Àlabama ? »</note>
+</sense><sense><subSense>L. a. s. à M. de Poggenpohl; <lb/>Voslau, 4 juillet 1878 ; 2 p. in-8. 150 </subSense>
+<pc>» <lb/></pc>
+<note>Il est très heureux de l'accueil favorable <lb/>que son Mémorandum a trouvé. « Je n'au¬ <lb/>rais jamais cru qu'il serait joint au nombre <lb/>des pièces officieles annexées aux proto¬ <lb/>coles du congrès. Dieu veuille que tôt ou <lb/>tard nous puissions voir un résultat pratique <lb/>quelconque des idées qui sont exprimeesdans <lb/>cette pièce »</note>
+</sense><sense><subSense>L. a. s. ; Londres, 12 avril <lb/>1822 ; 2 p. in-8. 25 </subSense>
+<pc>» <lb/></pc>
+<note>Intéressante lettre</note>
+</sense><sense><subSense>L. s. avec la souscr. aut. au <lb/>R. P. Gardel ; Rome, 20 oct. 1755 ; 1 p. <lb/>in-fol. <lb/>20 <lb/></subSense>
+</sense><sense><subSense>L. sig Yo el Rey, sig. <lb/>aussi par son secrétaire Andrea de <lb/>Prado, à Francesco Baca de Benavides; <lb/>Ségovie, 7 juillet 1609 ; 1 p. in-fol., <lb/>beau cachet à ses armes. 100 </subSense>
+<pc>» <lb/></pc>
+<note>Superbe lettre</note>
+</sense><sense><subSense>L. sig. Yo el Rey ; Madrid, 30 août <lb/>1624 ; 1 p. in-fol. 60 </subSense>
+<pc>» <lb/></pc>
+<note>Relative à don Estevan de Gamara, de <lb/>l'Ordre de Santiago</note>
+</sense><sense><subSense>L. sig. Yo el Rey, sig. aussi <lb/>par Andrea de Roea, à Don Estevan <lb/>de Gamarra, maître de camp général <lb/>en son armée de Flandre ; Madrid, <lb/>26 mai 1639 ; 1 p. in-fol., beau sceau <lb/>plaqué à ses armes. . 100 </subSense>
+<pc>» <lb/></pc>
+<note>Lettre militaire</note>
+</sense><sense><subSense>L. sig. Yo el Rey; Pardo, <lb/>30 mars 1743 ; 1 p. in-fol-, sceau imp. <lb/>60 </subSense>
+<pc>» <lb/></pc>
+<note>Relative à don Juan Chrisosloino Bonavia</note>
+</sense><sense><subSense>L. a. s à un écrivain dijonnais ; An¬ <lb/>vers, 6 février 1914 ; 1 p. in-8. 15 </subSense>
+<pc>» <lb/></pc>
+<note>Toute relative au portrait de Philippe le <lb/>Bon du Musée des Beaux-Arts d'Anvers</note>
+</sense><sense><subSense>L. a. s. <lb/>au chanoine Moreni, à Florence : Tox-<lb/>teth-Park, 3 sept. 1827, 2 p. in-4., ca¬ <lb/>chet. <lb/>40 <lb/></subSense>
+<pc>» <lb/></pc>
+<note>Superbe lettre. Il lui recommande Benja¬ <lb/>min Gaskell, membre du parlement, qui <lb/>va faire le voyage d'Italie; il a teçu du <lb/>grand duc de Toscane les oeuvres de Lau¬ <lb/>rent le Magnifique ; il va publier une nou¬ <lb/>velle édition de la vie de Léon X <lb/></note>
+</sense><sense><subSense>L. a. s. : Dresde, <lb/>20 mars 1767 ; 1 p. in-4. Belle lettre. <lb/>50 </subSense>
+</sense></body>
+	</text>
+</tei>

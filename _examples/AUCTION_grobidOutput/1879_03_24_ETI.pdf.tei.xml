@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.5.6-SNAPSHOT" ident="GROBID" when="2020-07-10T22:37+0000">
+					<ref target="https://github.com/MedKhem/grobid-dictionaries">GROBID_Dictionaries - A machine learning software for structuring digitized dictionaries</ref>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"/>
+			</titleStmt>
+
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+<entry><sense>
+<sense>DE LETTRES AUTOGRAPHES</sense></sense>
+</entry><entry><num>1</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Académie française</name></form>
+<pc>.</pc>
+<sense>
+<sense>Etat d'émargement signé par 18 membres; Paris, 12 mai 1814, 1 p. 1/2 in-fol</sense><pc>.</pc><note>Document curieux, qui offre l'état de l'Académie française en 1814</note></sense>
+</entry><pc>.</pc><entry><num>2</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Académie française</name></form>
+<pc>.</pc>
+<sense>
+<sense>9 l. a. s</sense><pc>.</pc><note>Andrieux, Barante, Cuvillier-Fleury, Doucet, Dufaure, Jay, Nisard, Pongerville et Sardou</note></sense>
+</entry><pc>.</pc><entry><num>3</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Acton (Jos.</name><pc>),</pc><desc>premier ministre de la reine Caroline de Naples, fameux par sa haine contre la France, ami de l'ambassadeur Hamilton et de Nelson</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français (au comte Razouniouski) ; 6 janv. 1782, 2 p. in-4</sense><pc>.</pc><note>Belle lettre sur les rapports du royaume de Naples avec la Russie</note></sense>
+</entry><pc>.</pc><entry><num>4</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Antin (L.-Ant. de Pardaillan de Gondrin, duc d'</name><pc>),</pc><desc>fils de Madame de Montespan, surintendant des bâtiments du Roi, qui fut le type du parfait courtisan</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; Paris, 1er fév. 1718, 5 p. 1/4 in-4</sense><pc>.</pc><note>Importante lettre où il mande que le Régent lui a dit que le roi d'Angleterre se plaignait de lui au sujet du jugement de l'affaire du marquis de La Forêt et l'accusait d'avoir favorisé MM. de Marcillac comme étant ses parents. Il se défend avec dignité et déclare qu'il n'est nullement parent aux Marcillac</note></sense>
+</entry><pc>.</pc><entry><num>5</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Baudelaire (Ch.</name><pc>),</pc><desc>l'auteur des Fleurs du Mal</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Dessin original à la plume, représentant une femme, in-4</sense></sense>
+</entry><pc>.</pc><entry><num>6</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Beauharnais (Eugène</name><pc>),</pc><desc>vice-roi d'Italie</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Napoléon Ier; Milan, 5 janv. 1806, 3 p. in-fol</sense><pc>.</pc><note>Importante lettre où il donne des nouvelles de l'Italie et des projets de la Russie et de l'Autriche. « Quant à votre armée d'Italie, Sire, elle ne voit pas si loin en politique. Elle n'a qu'un but, celui de prouver à Votre Majesté les sentimens qu'elle lui porte en conduisant toujours ses aigles victorieuses par¬ tout où l'ordonne Votre Majesté. » cain, tué en 1796</note><pc>.</pc><sense>L. a. s. à CARRIER; Pont-Saint-Père, 13 mars an II, 2 p. in-4</sense><pc>.</pc><note>Curieuse épître, en style révolutionnaire. Elle commence par ces mots : « Tu n'as pas encore assez tonné, brave et terrible montagnard! » Elle se ter¬ mine par ceux-ci : « Mort aux brigands, mort aux tirans!!</note></sense>
+</entry><pc>»</pc><entry><num>8</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Belanger (Fr</name></form>
+<pc>.</pc>
+<sense>
+<sense>-Jos.), célèbre architecte, auquel on doit la coupole de la Halle au Blé. Il fut l'amant de Sophie Ar¬ nould et c'est à lui que furent adressées la plupart des lettres qu'on connaît de cette actrice. L. a. s. (à Celerier) ; 26 novembre, 2 p. in-4</sense><pc>.</pc><note>Il mande que l'Empereur est venu visiter la halle au blé et qu'il s'est montré fort satisfait de la coupole</note></sense>
+</entry><pc>.</pc><entry><num>9</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Béranger (P.-J. de</name><pc>),</pc><desc>le célèbre chansonnier</desc></form>
+<pc>.</pc>
+<sense>
+<sense>3 l. a. s. à Ledoux, 3 p. in-8</sense><pc>.</pc><note>Ces lettres sont de sa jeunesse, de 1814 à 1816. Dans une d'elles Béranger invite son ami à dîner et ajoute : « Il faut que les gens qui sont de leur pays se voient plus que jamais, en dépit des Français qui se font étrangers.</note></sense>
+</entry><pc>»</pc><entry><num>10</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Béranger (P.-J. de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>Le Carnaval de 1818, chanson autographe, 3 p. in-8</sense><pc>.</pc><note>Très belle chanson, pleine d'allusions politiques</note></sense>
+</entry><pc>.</pc><entry><num>11</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Béranger (P.-J. de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à un poète; Passy, 23 juill. 1848, 3 p. 1/2 in-8</sense><pc>.</pc><note>Remarquable épître où il lui déclare que ses vers manquent d'élégance et de correction. « Vous allez peut-être me traiter d'académicien ; mais n'oubliez pas que vous me demandez mon avis et que l'Académie ne fut et ne sera jamais le but de mes prétentions, malgré l'estime que je fais de ce corps illustre, d'autant plus nécessaire que nous vivons dans une démocratie qui abuse beaucoup de la parole et de la plume...</note></sense>
+</entry><pc>»</pc><entry><num>12</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Berri (Marie-Louise-Élisabeth d'ORLÉANS, duchesse de</name><pc>),</pc><desc>fille du Régent, tristement fameuse par ses débauches</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. au trésorier général de sa maison; Fontainebleau, 24 sept. 1714, 1/2 p. in-fol</sense></sense>
+</entry><pc>.</pc><entry><num>13</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Biron (Armand de GONTaut, baron de</name><pc>),</pc><desc>maréchal de France, un des plus illustres guerriers de son temps, tué* au siège d'Epernay en 1592</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au vicomte de Turenne (depuis maréchal de Bouil¬ lon); camp des Andelys, 6 février (1591), 1 p. in-fol., trace cachet</sense><pc>.</pc><note>Pièce bistorique, d'une remarquable conservation, sur la mission du vicomte de Turenne en Allemagne</note></sense>
+</entry><pc>.</pc><entry><num>14</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Bolivar (Simon</name><pc>),</pc><desc>l'illustre dictateur de la Bolivie</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., avec 14 lignes autographes, au docteur Stanislas Veragua; Guayaquil, 10 sept. 1829, 2 p. in-4. Belle et rare lettre</sense></sense>
+</entry><pc>.</pc><entry><num>15</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Bonaparte (Lucien</name><pc>),</pc><desc>frère de Napoléon, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. a. s. ; Thorvgrowe, près Worcester, 5 déc. 1812, 3/4 de p. in-4</sense><pc>.</pc><note>Curieux document. Prisonnier de guerre en Angleterre, Lucien Bonaparte donne procuration à M. Bleschamp, son beau-père, de toucher en son nom le traitement annuel de membre de l'Institut</note></sense>
+</entry><pc>.</pc><entry><num>16</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Bossuet (J.-B.</name><pc>),</pc><desc>l'illustre évêque de Meaux</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. de Francastel; Saint-Germain, 23 fév. 1673, 1 p. in-4. Légères taches de rousseur</sense><pc>.</pc><note>Belle lettre, signée J. Benigne A. E. de Condom. Il le prie d'agir doréna¬ vant dans la charge de procureur fiscal, « jusqu'à ce que j'y aye pourveu.</note></sense>
+</entry><pc>»</pc><entry><num>17</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Bossuet (J.-B.)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Mme d'Albert de Luynes; Paris, 17 nov. 1692, 2 p. pl. pet. in-4</sense><pc>.</pc><note>Très-belle lettre où il lui donne de sages conseils. Il faut s'abandonner à la divine Providence, et on retarde autant l'oeuvre de Dieu qu'on tarde à se mettre dans cette disposition. « Pour vous, ma fille, laissez-vous conduire. Ne succombez point à la peine.</note></sense>
+</entry><pc>»</pc><entry><num>18</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Bouillon (Élisabeth de Nassau, duchesse de</name><pc>),</pc><desc>une des femmes les plus remarquables de son temps, mère du grand Turenne</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au maréchal de La Force; Sedan, 13 janv. 1632, 1 p. 1/2 in-fol., cachets et soies. Très légère déchirure</sense><pc>.</pc><note>Très intéressante lettre où elle lui recommande les affaires de ses fils. Curieux détails</note></sense>
+</entry><pc>.</pc><entry><num>19</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Campenon (V.</name><pc>),</pc><desc>poète, de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>1° L. a. s. ; Paris, 24 janv. 1817, 1 p. in-4. -2° Au saule de Ducis, pièce de vers aut., 3 p. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>20</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Campistron (Jean GALBERt de</name><pc>),</pc><desc>auteur dramatique, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut., sig. par le duc de Vendôme (dont Campistron était secrétaire); 22 fév. 1706, 1 p. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>21</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Canova (Ant.</name><pc>),</pc><desc>le grand sculpteur italien</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Bianca Milesi, femme-peintre ; Rome, 7 nov. 1816, 1 p. 1/4 in-4</sense><pc>.</pc><note>Belle lettre où il parle de Wicar et d'Appiani</note></sense>
+</entry><pc>.</pc><entry><num>titut</num>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au comte de Forbin; 29 mars 1830, 1 p. in-4</sense><pc>.</pc><note>Il lui mande qu'il accordera sa voix au peintre Granet pour l'Académie des Beaux-Arts</note></sense>
+</entry><pc>.</pc><entry><num>23</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Catherine de Bourbon</name><pc>,</pc><desc>princesse de Navarre, duchesse de Bar, soeur de Henri IV, célèbre par ses galanteries et son attachement à la religion réformée</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut. sig. de son monogramme, à M..., 1 p. pl. in-fol</sense><pc>.</pc><note>Très curieuse épître où elle lui mande sa détresse et le prie instamment de faire passer par ce pays du pastel jusqu'à 20,000 balles, car de cette ma¬ nière elle garderait la moitié du droit de passage pour elle, ce qui la soulage¬ rait. « Je vous suplie donc, Monsieur, m'acorder cette demande que je vous fais, non pas sans rougir, car vous savés que je n'ayme pas à demander.</note></sense>
+</entry><pc>»</pc><entry><num>24</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Cavaignac (Eugène</name><pc>),</pc><desc>célèbre général, chef du pouvoir exécutif en 1848</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; 9 avril 1853, 1 p. 1/2 in-8. Jolie pièce</sense></sense>
+</entry><pc>.</pc><entry><num>25</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Charles VI</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., sur vélin, à maître Gui Brochier; Amiens, 9 sep¬ tembre (1386), 1 p. in-fol. oblong. Rare</sense><pc>.</pc><note>Pièce historique. Il le requiert de lui prêter la somme de cent francs (d'or), afin de l'aider à lever les troupes qui doivent l'accompagner lors de son pro¬ chain voyage en Angleterre</note></sense>
+</entry><pc>.</pc><entry><num>26</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Chateaurenault (Fr.-L. ROUSSElet, comte de</name><pc>),</pc><desc>vice-ami¬ ral et maréchal de France, un des plus célèbres marins du siècle de Louis XIV</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; Chateaurenault, 28 juin 1713, 1 p. 1/4 in-4</sense><pc>.</pc><note>Relative à la haute justice de Couture en Vendomois</note></sense>
+</entry><pc>.</pc><entry><num>27</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Chrestienne de France</name><pc>,</pc><desc>duchesse de Savoie, fille de Henri IV</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Caron ; Millefleurs, 11 juillet 1636, 3/4 de p. in-4. Jolie pièce</sense></sense>
+</entry><pc>.</pc><entry><num>28</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Clairon (Hipp.-Claire de La Tude, dite</name><pc>),</pc><desc>la célèbre tra¬ gédienne</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut. au comte de Pontvelle ; Fontainebleau, 27 septembre, 1 p. 1/2 in-4, cachet brisé</sense><pc>.</pc><note>Curieuse lettre, de sa jeunesse. Elle est partie sans voir l'homme qu'il sait. « Ce que j'ai soufère ne ce quonsoit pas. J'ai eu le coeur déchiré. La penne que j'ai du vous faire a étai mon plus grand chagrin.</note></sense>
+</entry><pc>»</pc><entry><num>29</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Daschkow (Catherina-Romanofna, princesse</name><pc>),</pc><desc>célèbre fa¬ vorite de Catherine II, à l'avènement de laquelle elle con¬ tribua puissamment</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut., en français, à miss Bates; Trostskoe, 29 février, 3 p. pl. in-8. Ecrite sur du papier jaune</sense><pc>.</pc><note>Piquante épître sur une grande dame russe qui a épousé un soldat, ci-devant domestique et musicien d'un seigneur qui, pour sa mauvaise conduite, l'a donné comme recrue. « Est-il permis a Ah ans de faire de pareilles sot¬ tises?</note></sense>
+</entry><pc>»</pc><entry><num>30</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Daschkow (Catherina-Romanofna, princesse)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a., en français et en anglais, à miss Bates ; 10 novembre, 3 p. pl. in-8</sense><pc>.</pc><note>Très belle et intéressante lettre intime, qu'on peut considérer comme signée, vu qu'à la troisième page se trouve le nom de Daschhom</note></sense>
+</entry><pc>.</pc><entry><num>31</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Davy (sir Humphry</name><pc>),</pc><desc>le grand chimiste anglais</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sir Bernard Morland ; 1er déc. 1818, 1 p. pl. in-4</sense><pc>.</pc><note>Belle lettre, où il parle de Faraday</note></sense>
+</entry><pc>.</pc><entry><num>32</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Delacroix (Eugène</name><pc>),</pc><desc>le grand peintre</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Lepoitevin; ce mercredi, 3 p. 1/4 in-8</sense><pc>.</pc><note>Importante lettre sur un projet d'exposition. Il expose ses idées sur la for¬ mation du jury</note></sense>
+</entry><pc>.</pc><entry><num>33</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Desessarts (Denis DEchANet, dit</name><pc>),</pc><desc>célèbre acteur du Théâtre-Français</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. (à BEAUMARCHAIS); 20 janv. 1777, 1 p. in-4</sense><pc>.</pc><note>Curieux document. Il lui envoie le bordereau de compte du Barbier de Seville « suivant l'usage observé par la Comédie avec Messieurs les autheurs.</note></sense>
+</entry><pc>»</pc><entry><num>34</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Du Boccage (Marie-Anne Le PAge</name><pc>),</pc><desc>célèbre femme¬ poète, née à Rouen</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à un éditeur; Paris, 6 mars 1787, 1 p. 3/4 in-4</sense><pc>.</pc><note>Relative à la publication d'un de ses ouvrages</note></sense>
+</entry><pc>.</pc><entry><num>35</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Dubois (le cardinal Guillaume</name><pc>),</pc><desc>fameux ministre du Ré¬ gent</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. de Machault; Palais-Royal, 5 mai 1719, 1/2 p. in-4</sense><pc>.</pc><note>Il donne l'ordre, au nom du Régent, de mettre en liberté le sieur de Vains de La Belliere</note></sense>
+</entry><pc>.</pc><entry><num>36</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Dupré (Jules</name><pc>),</pc><desc>le célèbre paysagiste</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à THÉODORE ROUSSEAU; samedi 17, 1 p. 1/2 in-8</sense><pc>.</pc><note>Il l'engage à revenir à Paris pour exécuter une aquarelle que demande M. Asseline</note></sense>
+</entry><pc>.</pc><entry><num>37</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Duret (Fr.</name><pc>),</pc><desc>célèbre sculpteur, membre de l'Institut</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Lebas, 3/4 de p. in-8</sense><pc>.</pc><note>Il explique la façon dont il a conçu le monument qu'on doit élever à la mé¬ moire du grand compositeur Halevy</note></sense>
+</entry><pc>.</pc><entry><num>38</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Eon de Beaumont (la chevalière d'</name><pc>),</pc><desc>personnage fameux par l'incertitude de son sexe</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Falconnet ; Tonnerre, 25 fév. 1782, 3 p. 1/2 in-4</sense><pc>.</pc><note>Curieuse épître sur son état de gène et sur ses affaires. « Le sort du neveu de Figaro est cruel. Bientôt la main de Dieu s'appesantira sur l'oncle et la maîtresse, qui ne peuvent que scandaliser le monde et irriter la justice du ciel...</note></sense>
+</entry><pc>»</pc><entry><num>39</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Fénelon (Fr. de Salignac de La Mothe</name><pc>),</pc><desc>illustre arche¬ vêque de Cambrai</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. (à la marquise de Lambert) ; Cambrai, 10 août 1704, 1 p. in-4</sense><pc>.</pc><note>Jolie lettre où il la remercie des louanges qu'elle lui a prodiguées et qui touchent trop son amour-propre</note></sense>
+</entry><pc>.</pc><entry><num>40</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Fitz-James (François, duc de</name><pc>),</pc><desc>fils du maréchal de Ber¬ wick, évêque de Soissons, qui décida Louis XV, malade à Metz, à renvoyer Mme de Chateauroux et fut ensuite, pour ce fait, exilé dans son diocèse</desc></form>
+<pc>.</pc>
+<sense>
+<sense>1° L. a. s. à l'archevêque de Sens; Soissons, 25 avril 1749, 2 p. 3/4 in-4, cachet</sense><pc>.</pc><note>Importante lettre où il expose les raisons qui lui font demander la suppres¬ sion de l'abbaye de l'Amour-Dieu, dont l'abbesse vient de mourir.</note><sense>2° L. a. s. au même; Soissons, 25 avril 1749, 3/4 de p. in-4</sense><pc>.</pc><note>Il mande que les religieuses de l'Amour-Dieu n'ont pas voulu ouvrir leurs portes à mon grand-vicaire, malgré l'arrêt du Conseil dont il était porteur</note></sense>
+</entry><pc>.</pc><entry><num>41</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Fléchier (Esprit</name><pc>),</pc><desc>évêque de Nîmes, illustre orateur chré¬ tien, de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Léonard; Narbonne, 23 déc. 1694, 2 p. 3/4 in-4</sense><pc>.</pc><note>Jolie lettre de félicitation sur son agréable solitude. Remerciement d'un portrait de l'oncle de Fléchier, et envoi de son Histoire du cardinal de Ximenez</note></sense>
+</entry><pc>.</pc><entry><num>42</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Fleury (A.-H., cardinal de</name><pc>),</pc><desc>évêque de Fréjus, premier ministre de Louis XV, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à la duchesse de Mazarin, à Versailles ; Compiègne, 14 juillet (1731), 3/4 de p. in-4</sense><pc>.</pc><note>Très curieuse épître. Elle le blesserait vivement si elle pensait qu'il fût capable de mal interprêter la moindre de ses actions. « Je n'ai donc qu'à grand besoin pour ses vapeurs et son ennui. » Il la prie seulement de modé¬ rer son zèle et de ne pas donner un air de fête au souper qu'elle a imaginé. « Je souhaiterois que d'autres ne fussent pas allarmés de votre magnificence et pussent sans se constituer en grans frais à suivre votre exemple... » -(On sait que la duchesse de Mazarin était renommée pour ses folles dépenses et ses prodigalités.</note></sense>
+</entry><pc>)</pc><entry><num>43</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Forster (François</name><pc>),</pc><desc>célèbre graveur, membre de l'Institut</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à John Pye; Paris, 20 déc. 1829, 1 p. 1/2 in-4</sense><pc>.</pc><note>Très-belle lettre où il le remercie de l'envoi d'un charmant petit paysage et lui adresse des autographes d'auteurs romantiques, parmi lesquels Victor Hugo et Charles Nodier</note></sense>
+</entry><pc>.</pc><entry><num>44</num>
+<pc>.</pc>
+<form type="lemma">
+<name>François Ier</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. au sieur de Helly, gouverneur de Hesdin; Saint- Germain-en-Laye, 13 mars 1543, 1/2 p. in-fol</sense><pc>.</pc><note>Il le prévient qu'il envoie par delà le duc de Vendôme, chargé de réprimer les ex cès exécrables que commettent les enseignes italiennes en garnison à Hesdin, et qu'il entend que bonne justice soit faite des auteurs de ces excès, afin que ces Italiens prennent autre forme de vivre</note></sense>
+</entry><pc>.</pc><entry><num>45</num>
+<pc>.</pc>
+<form type="lemma">
+<name>François Ier</name><pc>,</pc><desc>empereur d'Autriche, beau-père de Napo¬ léon</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sa fille l'archiduchesse Marie-Louise (depuis im¬ pératrice des Français) ; Gratz, 15 sept. 1807, 1/2 p. in-4</sense><pc>.</pc><note>Charmante épître où il se réjouit que la fièvre de sa fille soit passée</note></sense>
+</entry><pc>.</pc><entry><num>46</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Gerbier</name></form>
+<sense>
+<sense>(Balthasar), peintre et architecte flamand, qui fut employé, comme diplomate par le roi d'Angleterre Charles Ier et qui négocia avec Rubens un traité d'alliance entre l'Angleterre et les Pays-Bas. Pièce de 7 lignes aut. sig. au bas d'un acte signé par le roi CHARLES Ier, 1 p. in-fol., cachet. Très rare</sense></sense>
+</entry><pc>.</pc><entry><num>47</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Guerin (le baron Pierre</name><pc>),</pc><desc>célèbre peintre d'histoire, membre de l'Institut</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à son ami Bourdon; Rome, 24 janv. 1826, 4 p. in-4, enveloppe et cachet</sense><pc>.</pc><note>Superbe lettre où il donne des nouvelles de la vie qu'il mène à Rome et parle longuement de la gravure de son tableau d'Andromaque par Richomme et de celle de sa Didon par Forster. Intéressants détails</note></sense>
+</entry><pc>.</pc><entry><num>48</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Guise (Honorée de Glimes, duchesse de</name><pc>),</pc><desc>comtesse de Bossut, qui épousa à Bruxelles, le 11 novembre 1641, Henri de Guise, fameux par son échauffourée de Naples, et dont le mariage fut cassé</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à la Reine, 2 p. 1/2 in-fol. Très rare</sense><pc>.</pc><note>Pièce historique des plus curieuses où elle proteste de la légitimité de son mariage. Malade et forcée, par ordre royal, de partir pour la Hollande, elle demande du temps et s'engage à prendre le voile, si le pape prononce la nul¬ lité de son mariage. Détails des plus intéressants</note></sense>
+</entry><pc>.</pc><entry><num>49</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Hamilton (Alexandre</name><pc>),</pc><desc>célèbre homme d'Etat américain, ami de Washington, tué en duel par le colonel Burr, en 1804</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; 12 octobre (1782), 1 p. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>50</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Hardenberg (le prince de</name><pc>),</pc><desc>illustre homme d'Etat prus¬ sien, ennemi acharné de Napoléon</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français, au marquis...; 26 décembre, 3/4 de p. in-4</sense><pc>.</pc><note>Pièce historique, écrite vraisemblablement en 1815 ou 1816. Hardenberg affirme qu'il n'existe aucune relation entre le duc de Wellington et Carnot. « Vos proscrits sont surveillés avec le plus grand soin et je serais le premier à vous avertir s'il me parvenoit quelque notion qui pût intéresser votre cour</note></sense>
+</entry><pc>.</pc><entry><num>»</num>
+</entry><pc>.</pc><entry><num>51</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Haydn (Joseph</name><pc>),</pc><desc>le grand compositeur de musique</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. s. ; Esterhazy, 5 avril 1789, 1/2 p. in-4 oblong, cachet</sense><pc>.</pc><note>Pièce concernant la vente de son Caprice</note></sense>
+</entry><pc>.</pc><entry><num>52</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Henri II</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. à l'évêque d'Orléans ; Paris, 16 septembre 1557, 1 p. in-fol</sense><pc>.</pc><note>Relative au paiement des treize compagnies de gardes suisses qui doivent servir en Piémont sous le maréchal de Brissac</note></sense>
+</entry><pc>.</pc><entry><num>53</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Henri II</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. à l'évêque d'Angoulême, son ambassadeur auprès du pape (Paul IV); Marchais, 13 août 1558, 5 p. 1/4 in-fol., trace de cachet. Légères taches d'eau</sense><pc>.</pc><note>Importante dépêche, dont la plus grande partie est en chiffres, avec traduc¬ tion jointe. Elle donne les plus curieux détails sur la conduite que le roi pré¬ tend tenir à l'égard du pape, qui est un vieil homme, et de ses neveux, qui sont des gens nécessiteux. Il est nécessaire cependant de conserver de bonnes relations avec ces derniers, tant que ce pontificat durera, « car ilz sont ten¬ dans la main à ung chascun pour se laisser à qui plus leur vouldra donner, affin de se haster de proufficter au mieulx qu'ilz pourront de ce pape, d'avant que ce bon homme preigne congé du monde...</note></sense>
+</entry><pc>»</pc><entry><num>54</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Hugo (Victor</name><pc>),</pc><desc>le grand poète</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Mlle Ida Ferrier; vendredi, 2 p. 1/4 in-8</sense><pc>.</pc><note>Il se met à sa disposition, quoiqu'elle ait auprès d'elle une plume plus puis¬ sante que la sienne. (C'est une allusion à Alexandre Dumas.</note></sense>
+</entry><pc>)</pc><entry><num>55</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Hugo (Victor)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Duriez; 2 janvier (1843), 2 p. in-8</sense><pc>.</pc><note>Demande d'exemplaires de diverses éditions de ses oeuvres</note></sense>
+</entry><pc>.</pc><entry><num>56</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Hugo (Victor)</name></form>
+<pc>.</pc>
+<sense>
+<sense>2 l. a. s. à Bonnaire, 2 p. in-8. Jolies lettres</sense></sense>
+</entry><pc>.</pc><entry><num>57</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Ingres (J.-Aug.-Dom.</name><pc>),</pc><desc>le grand peintre d'histoire</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à un ami; 23 mai 1854, 1 p. in-8</sense><pc>.</pc><note>Il le prie de remercier, de sa part, le prince Napoléon de sa précieuse invi¬ tation pour les samedis</note></sense>
+</entry><pc>.</pc><entry><num>58</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Jacquemont (Victor</name><pc>),</pc><desc>le célèbre voyageur dans l'Inde</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut. à son père; New-York, 12-14 déc. 1826, 3 p. in-4</sense><pc>.</pc><note>Très intéressante lettre où il annonce son arrivée à New-York, raconte ses visites et expose ses projets de voyage</note></sense>
+</entry><pc>.</pc><entry><num>59</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Jacques (l'abbé Mathieu-Joseph</name><pc>),</pc><desc>savant mathématicien</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; Walcourt, 8 juin 1782, 14 p. 1/2 in-fol</sense><pc>.</pc><note>Lettre scientifique très importante où il offre au comte de Buffon une col¬ lection de tous les minéraux du pays</note></sense>
+</entry><pc>.</pc><entry><num>60</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Joseph Ier</name><pc>,</pc><desc>empereur d'Allemagne</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en italien, à ANNE, REINE d'ANGLETERRE ; Vienne, 31 déc. 1707, 2 p. in-fol., cachet</sense><pc>.</pc><note>Pièce historique où il proteste de ses bons sentiments pour elle et lui mande qu'il a envoyé le maréchal de Stahremberg à l'armée pour remplacer le prince Eugène</note></sense>
+</entry><pc>.</pc><entry><num>61</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Jouffroy (Théodore</name><pc>),</pc><desc>célèbre philosophe, membre de l'Institut</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à son cousin Th. Jouffroy, à Férolles; Paris, 25 déc. 1814, 2 p. 1/2 in-4</sense><pc>.</pc><note>Lettre de sa jeunesse, pleine de détails intimes sur la vie qu'il menait à Paris</note></sense>
+</entry><pc>.</pc><entry><num>62</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Jouvenet (Jean</name><pc>),</pc><desc>un des plus célèbres peintres d'histoire du siècle de Louis XIV</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Reçu de sept lignes aut. sig. à la suite d'une pièce signée par le prince de Conti et l'académicien La Chappelle; Paris, 21 mai 1689, 2 p. 1/2 in-fol. Rare</sense><pc>.</pc><note>C'est un mémoire des ouvrages de marbre faits par Jean Du Chesnoy, marbrier, pour le compte du prince de Conti</note></sense>
+</entry><pc>.</pc><entry><num>63</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Kossuth (Louis</name><pc>),</pc><desc>le chef de la révolution hongroise</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français, à Bixio; Londres, 25 août 1853, 1 p. pl. in-8</sense><pc>.</pc><note>Belle et noble épître, au sujet de l'envoi de ses enfants à Paris, pour y faire leur éducation sous la direction de M. Karady, leur instituteur, qui les a accom¬ pagnés dans les prisons et dans l'exil. « Parmi tant de malheurs, dit-il, Dieu m'a donné la consolation d'être un père heureux. Aussi, tout ce qui touche mes devoirs paternels, qui en résultent, m'est de plus cher et de plus sacré au monde, après ma patrie; et comme mes soins pour l'éducation de mes fils est le seul héritage qu'ils ont à attendre de ma part, je tiens tout appui qui me vient à cet égard pour un bienfait...</note></sense>
+</entry><pc>»</pc><entry><num>64</num>
+<pc>.</pc>
+<form type="lemma">
+<name>La Porte (Pierre de</name><pc>),</pc><desc>confident d'Anne d'Autriche, valet de chambre de Louis XIV, auteur de Mémoires</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. s., sur vélin; 8 oct. 1647, 1 p. in-8 oblong. Rare</sense><pc>.</pc><note>Reçu de 700 livres tournois pour ses appointements de la charge de premier valet de chambre du Roi</note></sense>
+</entry><pc>.</pc><entry><num>65</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Lauraguais (L.-L.-Fél., duc de BRANcAs, comte de</name><pc>),</pc><desc>sa¬ vant et écrivain, célèbre par ses bons mots et son esprit frondeur, amant de Sophie Arnould</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à l'acteur PRÉVILLE; Paris, 21 déc. 1782, 2 p. 1/2 in-4</sense><pc>.</pc><note>Très curieuse lettre d'envoi de sa comédie les Originaux qu'il voudrait faire jouer au Théâtre-Français. Piquants détails à ce sujet</note></sense>
+</entry><pc>.</pc><entry><num>66</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Laya (J.-L.</name><pc>),</pc><desc>poète dramatique, auteur de l'Ami des Lois, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au vicomte de La Rochefoucauld; Paris, 7 dé¬ cembre 1825, 3 p. 1/2 in-4. Curieuse épître où il demande qu'on joue aux Français sa tragédie d'Athènes sauvée, déjà reçue en 1798, et qui n'est point une oeuvre de circonstance mais une oeuvre classique. Piquants détails</sense></sense>
+</entry><pc>.</pc><entry><num>67</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Le Brun (Élisabeth-Louise VIgÉe</name><pc>),</pc><desc>célèbre peintre de portraits</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sa belle-soeur ; 20 juin 1832, 1 p. pl. in-8</sense><pc>.</pc><note>Jolie lettre où elle lui mande qu'elle a échappé au choléra</note></sense>
+</entry><pc>.</pc><entry><num>68</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Le Camus de Mézières (Nicolas</name><pc>),</pc><desc>architecte du XVIIIe siècle, qui construisit la Halle au Blé</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., 1 p. 1/2 in-4. Belle pièce</sense></sense>
+</entry><pc>.</pc><entry><num>69</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Leroux (Pierre</name><pc>),</pc><desc>le célèbre écrivain philosophe</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Lemercier; Boussac, 25 sept. 1845, 3 p. pl. in-4</sense><pc>.</pc><note>Belle lettre où il le remercie de l'envoi d'un volume de vers. Sa lettre l'a, d'ailleurs, plus intéressé que le volume. « Je deviens vieux pour les vers. J'en ai tant vu depuis Hugo !</note></sense>
+</entry><pc>»</pc><entry><num>70</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Littérateurs</name></form>
+<pc>.</pc>
+<sense>
+<sense>7 l. a. s</sense><pc>.</pc><note>Asselineau, Chatrian, Féval (Paul), Gozlan, Maquet, Méry et Meurice (Paul)</note></sense>
+</entry><pc>.</pc><entry><num>71</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Louis XI</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. à M. de Craon, son chambellan ; Montbazon, 12 déc. (1471), 1 p. in-8 oblong, trace de cachet</sense><pc>.</pc><note>Il le presse de parachever et conclure les affaires dont il l'a chargé</note></sense>
+</entry><pc>.</pc><entry><num>72</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Louis XII</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., avec la souscript. aut., comme duc d'Orléans, au duc de Bar ; Asti, 10 oct. 1494,1 p. in-fol., cachet. Rare, avec la souscription autographe</sense><pc>.</pc><note>Il lui annonce la fin de sa maladie et l'intention qu'il a de bientôt « monter à cheval pour aller devers le Roy et luy faire service.</note></sense>
+</entry><pc>»</pc><entry><pc>73.</pc>
+<form type="lemma">
+<name>Louis XIII</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. aux maîtres et garde des six corps de marchands de Paris; Saint-Germain-en-Laye, 21 juillet 1635, 3/4 de p. in-fol., trace de cachet</sense><pc>.</pc><note>Intéressante pièce sur des libertés de communication favorables aux mar¬ chands</note></sense>
+</entry><pc>.</pc><entry><num>74</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Louis XV</name><pc>,</pc><desc>roi de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>8 lettres autographes à sa fille Madame Adélaïde; 9 mai au 1er novembre 1744, 5 p. in-4, cachets</sense><pc>.</pc><note>Précieuse correspondance, pleine de détails intimes</note></sense>
+</entry><pc>.</pc><entry><num>75</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Louis-Philippe Ier</name><pc>,</pc><desc>roi des Français</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., contresig. par Thiers, à M. Véjux; palais des Tui¬ leries, 20 nov. 1835, 1/2 p. in-4</sense><pc>.</pc><note>Lettre de convocation à l'ouverture des Chambres</note></sense>
+</entry><pc>.</pc><entry><num>76</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Louise de Savoie</name><pc>,</pc><desc>duchesse d'Angoulême, mère de François Ier</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. à Michelle de Saubonne (confidente d'Anne de Bre¬ tagne), 1 p. in-4</sense><pc>.</pc><note>Elle la prie d'employer en sa faveur ses bons offices auprès de la Reine, à laquelle elle écrirait tous les jours, si elle ne craignait d'être importune</note></sense>
+</entry><pc>.</pc><entry><num>77</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Lucas (Paul</name><pc>),</pc><desc>le célèbre voyageur</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. Paul à Nicolas Thoynard; Marseille, 7 juillet 1699, 4 p. pl. in-4. Rare</sense><pc>.</pc><note>Intéressante lettre sur un vaisseau qui allait partir pour le Levant, mais qu'on a empêché de lever l'ancre parce qu'il avait apporté des marchan¬ dises de contrebande</note></sense>
+</entry><pc>.</pc><entry><num>78</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marie d'Autriche</name><pc>,</pc><desc>soeur de Charles-Quint, reine de Hon¬ grie et gouvernante des Pays-Bas, une des femmes les plus remarquables du XVIe siècle</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français, à son neveu Philippe II; (1547), 1/2p. in-fol. Très rare</sense><pc>.</pc><note>Superbe lettre où elle exprime son contentement de la prochaine venue de Philippe II</note></sense>
+</entry><pc>.</pc><entry><num>79</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marie-Louise de Parme</name><pc>,</pc><desc>reine d'Espagne, femme de amitié pour Godoï</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français, au roi Louis XVIII ; Rome, 12 mai 1814, 1 p. in-4, enveloppe et cachet</sense><pc>.</pc><note>Très belle lettre où elle le félicite de sa restauration au trône</note></sense>
+</entry><pc>.</pc><entry><num>80</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marie-Christine de Bourbon</name><pc>,</pc><desc>reine d'Espagne, quatrième femme de Ferdinand VII, grand'mère du roi actuel</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; Rome, 26 mars 1859, 2 p. in-8. Très jolie lettre</sense></sense>
+</entry><pc>.</pc><entry><num>81</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marie-Josèphe d'Autriche</name><pc>,</pc><desc>reine de Pologne, grand'mère de Louis XVI</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s., en français, à son fils; Varsovie, 10 juin 1744, 1 p. in-4</sense><pc>.</pc><note>Charmante épître où elle le félicite de se divertir sans négliger ses études</note></sense>
+</entry><pc>.</pc><entry><num>82</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marigny (Abel-Fr. Poisson, marquis de</name><pc>),</pc><desc>frère de Mme de Pompadour, directeur général des bâtiments du Roi</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. (à Joseph VErNet) ; Versailles, 17 nov. 1761, 3/4 de p. in-4</sense><pc>.</pc><note>Très belle lettre où il le félicite des deux petits tableaux qu'il lui a envoyés, « surtout de l'Orage que je mets fort au-dessus du Calme.</note></sense>
+</entry><pc>»</pc><entry><num>83</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Maurepas (J.-Fréd. Phelypeaux, comte de</name><pc>),</pc><desc>célèbre mi¬ nistre de Louis XV</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; Versailles, 24 sept. 1748, 1 p. pl. in-4. Très belle lettre</sense></sense>
+</entry><pc>.</pc><entry><num>84</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Mérimée (Prosper</name><pc>),</pc><desc>célèbre écrivain, de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>2 l. a. s., 1 p. in-8</sense></sense>
+</entry><pc>.</pc><entry><num>85</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Merlin de Thionville</name><pc>,</pc><desc>célèbre conventionnel</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au directeur Barras; le Raincy, 10 germ. an V, 1 p. pet. in-4, cachet</sense><pc>.</pc><note>Epître curieuse pour l'histoire des moeurs sous le Directoire. Ils sont au Raincy, et ils l'attendent pour courir le daim dans la forêt de Bondy : « Vois si Reubell veut y venir. Je te réponds que nous ne serons qu'entre nous.</note></sense>
+</entry><pc>»</pc><entry><num>86</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Monmouth (James, duc de</name><pc>),</pc><desc>fils naturel du roi Charles II, qui voulut détrôner son oncle Jacques II et fut décapité à Londres le 25 juillet 1685</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Sa signature au dos d'un acte signé par le roi Charles II, et daté de Whitehall, 23 septembre 1670, 1/2 p. in-fol</sense><pc>.</pc><note>Précieuse pièce qui est un ordre de paiement d'une certaine somme à son cher fils, le duc de Monmoulh, qui acquitte la pièce en signant au dos</note></sense>
+</entry><pc>.</pc><entry><num>87</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Montpensier (Anne-Marie-Louise d'ORLÉANS, duchesse de</name><pc>),</pc><desc>la Grande Mademoiselle, fille de Gaston d'Orléans, auteur de Mémoires</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à l'évêque de Coutances ; Orléans, 19 déc. 1657, 2 p. 1/2 in-4, cachets et soies. Très belle lettre</sense></sense>
+</entry><pc>.</pc><entry><num>88</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Musset (Alfred de</name><pc>),</pc><desc>l'illustre poète</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Bonnaire, 3/4 de p. in-8. Très jolie pièce</sense></sense>
+</entry><pc>.</pc><entry><num>89</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Napoléon Ier</name><pc>,</pc><desc>empereur des Français</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., avec la souscript. aut., au cit. Porte ; Paris, 25 ger¬ minal an VI, 3/4 de p. in-4. Belle pièce</sense></sense>
+</entry><pc>.</pc><entry><num>90</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Noailles (L.-Ant., cardinal de</name><pc>),</pc><desc>célèbre archevêque de Paris</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à une religieuse ; 21 juillet 1720, 1 p. 3/4 in-4. Belle lettre sur sa communauté</sense></sense>
+</entry><pc>.</pc><entry><num>91</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Orléans (Robert d'</name><pc>),</pc><desc>duc de Chartres, petit-fils de Louis- Philippe, frère du comte de Paris</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; 17 janvier, 3/4 de p. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>92</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paisiello (Jean</name><pc>),</pc><desc>célèbre compositeur de musique</desc></form>
+<pc>,</pc>
+<sense>
+<sense>L. a. s. à Mme Henry; (messidor an X), 1 p. in-8. Jolie lettre</sense></sense>
+</entry><pc>.</pc><entry><num>93</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Pajou (Jacques-Augustin</name><pc>),</pc><desc>peintre d'histoire, fils du sculpteur</desc></form>
+<pc>.</pc>
+<sense>
+<sense>1° L. a. s.; 8 juin 1812, 1 p. in-8. -2° L. a. s. au mi¬ nistre de l'intérieur; Paris, 20 janv. 1818, 1 p. in-4</sense><pc>.</pc><note>Il sollicite une audience pour lui montrer l'esquisse d'un tableau dont le sujet peut intéresser la Chambre des députés</note></sense>
+</entry><pc>.</pc><entry><num>94</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Peintres</name></form>
+<pc>.</pc>
+<sense>
+<sense>4 quitt. sig., sur vélin</sense><pc>.</pc><note>Charles Baco, 1711; -Charles Beuille, 1713; -François Bourlier, 1679; -Pierre Moncallier, 1697. Ces artistes, qui prennent le titre de peintres du roi, ne sont pas mention¬ nés par les biographes</note></sense>
+</entry><pc>.</pc><entry><num>95</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Peintres</name></form>
+<pc>.</pc>
+<sense>
+<sense>23 l. a. s</sense><pc>.</pc><note>Anastasi, Champmartin, Ducornet, Jacque (Ch.), Jadin, Jeanron, Jaquotot (Mme), Johannot (Tony), Ouvrié (Justin), Ziegler, etc</note></sense>
+</entry><pc>.</pc><entry><num>96</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Peintres</name><pc>,</pc><desc>membres de l'Institut</desc></form>
+<pc>.</pc>
+<sense>
+<sense>10 l. a. s</sense><pc>.</pc><note>Brascassat, Couder. Girodet-Trioson, certificat, Granet, Guerin (Pierre), Hersent, Lehmann, Régnault, Robert-Fleury et Thévenin</note></sense>
+</entry><pc>.</pc><entry><num>97</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Pierre Ier</name><pc>,</pc><desc>empereur de Russie, dit le Grand</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s.; 1717, 1 p. in-fol. oblong, sceau. Précieuse et rare pièce</sense></sense>
+</entry><pc>.</pc><entry><num>98</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Piron (Alexis</name><pc>),</pc><desc>célèbre poète dramatique</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Envoy de vingt sereins pour repeupler une volière où il n'en étoit resté que deux dont l'un étoit borgne et l'autre boi¬ teux, pièce de vers autographe, 2 p. in-4</sense><pc>.</pc><note>Très belle pièce, qui est, dit-on, inédite</note></sense>
+</entry><pc>.</pc><entry><num>99</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Ponsard (Fr.</name><pc>),</pc><desc>poète dramatique, auteur de Lucrèce, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s.; Vienne, 24 avril, 1 p. pl. in-8</sense><pc>.</pc><note>Relative à un recueil où on voulait insérer une pièce de vers de lui</note></sense>
+</entry><pc>.</pc><entry><num>100</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Portalis (J.-Et.-Marie</name><pc>),</pc><desc>jurisconsulte éminent, un des principaux rédacteurs du Code civil, membre de l'A- cad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. a. s. ; Paris, 25 oct. 1774, 1/4 de p. in-4. Rare</sense></sense>
+</entry><pc>.</pc><entry><num>101</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Proudhon (P.-J.</name><pc>),</pc><desc>le célèbre écrivain socialiste</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Pothé ; Passy, 6 mars 1863, 2 p. in-8</sense><pc>.</pc><note>Belle lettre d'envoi de plusieurs de ses ouvrages</note></sense>
+</entry><pc>.</pc><entry><num>102</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Puységur (Jacques-François de Chastenet, marquis de</name><pc>),</pc><desc>maréchal de France et écrivain militaire</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. a. s. ; Paris, 29 déc. 1697, 1 p. in-4, cachet</sense></sense>
+</entry><pc>.</pc><entry><num>103</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Quelen (H.-L., comte de</name><pc>),</pc><desc>archevêque de Paris, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; Paris, 30 oct. 1825, 2 p. in-4</sense><pc>.</pc><note>Très belle lettre sur la mort de sa tante, Mme Hocquart</note></sense>
+</entry><pc>.</pc><entry><num>104</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Quelen (H.-L., comte de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sa soeur la vicomtesse de Quelen, à Saint-Ger- main-en-Laye; 14 juillet 1832, 1/2 p. in-4</sense><pc>.</pc><note>Charmante épître intime sur la fête de sa soeur</note></sense>
+</entry><pc>.</pc><entry><num>105</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Quelen (H.-L., comte de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à l'évêque de Chartres; Paris, 10 mars 1837, 1 p. in-4</sense><pc>.</pc><note>Relative à la restauration de la cathédrale de Chartres</note></sense>
+</entry><pc>.</pc><entry><num>106</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Rancé (A. Le Bouthillier de</name><pc>),</pc><desc>l'illustre réformateur de la Trappe</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. au R. P. prieur de Perseigne, à Alençon ; 26 juin 1679, 3 p. in-4. Légères piqûres de vers</sense><pc>.</pc><note>Curieuse épître où il le dissuade d'admettre un novice, qui a de la légéreté et peu de dévotion. Dom Rigobert est toujours malade. « Ce n'est point une chose agréable à un chrétien de vivre, et Dieu luy fait une grande grace quand il luy plaist de le retirer de ce monde.</note></sense>
+</entry><pc>»</pc><entry><num>107</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Raousset-Boulbon (Gaston RAOux, comte de</name><pc>),</pc><desc>célèbre aventurier, né à Avignon, fusillé au Mexique en 1854</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au comte... ; Paris, 1er fév. 1847, 2 p. 1/2 in-8</sense><pc>.</pc><note>Intéressante lettre sur sa tentative de colonisation en Algérie. -On y a joint une pièce autographe de 2 p. in-8 sur le même sujet</note></sense>
+</entry><pc>.</pc><entry><num>108</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Redouté (P. Jos.</name><pc>),</pc><desc>célèbre peintre de fleurs</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sa fille; Fleury, 16 octobre, 2 p. 1/2 in-4. Rare</sense><pc>.</pc><note>Charmante épître, pleine de détails intimes</note></sense>
+</entry><pc>.</pc><entry><num>109</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Regnaud de Saint-Jean d'Angely (Michel-L.-Et., comte</name><pc>),</pc><desc>ministre de Napoléon Ier, membre de l'Acad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à NAPOLÉON Ier; Fontainebleau, 9 oct. 1810, 1 p. in-fol</sense><pc>.</pc><note>Très belle lettre où il sollicite son admission dans la salle du trône, préro¬ gative dont il jouit depuis trois ans et dont on voulait le priver</note></sense>
+</entry><pc>.</pc><entry><num>110</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Restif de la Bretonne (Nic.-Edme</name><pc>),</pc><desc>le fameux roman¬ cier</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Fragment autographe d'un de ses romans, 4 p. pl. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>111</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Rollin (Charles</name><pc>),</pc><desc>célèbre historien et humaniste</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. (à D'Anville) ; 24 avril 1741, 3/4 de p. in-4</sense><pc>.</pc><note>Très belle lettre où il le remercie du travail sur l'Espagne qu'il lui a envoyé</note></sense>
+</entry><pc>.</pc><entry><num>112</num>
+<form type="lemma">
+<name>Saint-Pierre (Bernardin de</name><pc>),</pc><desc>l'auteur de Paul et Vir- ginie</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à sa femme; Gonesse, 3e jour complémentaire an XIII, 2 p. in-8</sense><pc>.</pc><note>Très curieuse épître. -Il lui raconte toutes les promenades qu'il fait avec un compagnon de voyage; « mais tout cela n'approche pas de ce que je goute près de toi; ma muse, quand j'en suis un peu loin, cesse de m'inspirer... Je n'ai pas eu le courage de jetter une fois les yeux sur mon manuscrit.. Il faut que tu rallumes mon feu, je ne dis pas celui de mon amour, car celui-là ne s'éteindra qu'avec ma vie, mais celui qui m'inspire ma prose si goûtée de tout le monde, et qui te sort des yeux et de la bouche quand tu m'adresses la parole... Adieu, je t'embrasse de tout mon coeur, muse désirée...</note></sense>
+</entry><pc>»</pc><entry><num>113</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Sainte-Beuve (Ch.-Aug.</name><pc>),</pc><desc>le célèbre critique</desc></form>
+<pc>.</pc>
+<sense>
+<sense>4 l. a. s., 3 p. in-8 et 1 p. in-18</sense></sense>
+</entry><pc>.</pc><entry><num>114</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Santerre (Ant.-Jos.</name><pc>),</pc><desc>le célèbre général de la garde na¬ tionale parisienne</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. au libraire Varin; Paris, 10 vendém. an III, 1 p. in-4</sense><pc>.</pc><note>Demande des ouvrages de Parmentier sur l'emploi des pommes de terre</note></sense>
+</entry><pc>.</pc><entry><num>115</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Sculpteurs</name></form>
+<pc>.</pc>
+<sense>
+<sense>58 p. s.; 1826 à 1854, 58 p. in-4</sense><pc>.</pc><note>Important dossier. Ce sont des quittances données par des sculpteurs pour des oeuvres faites par eux pour le compte du gouvernement. Parmi ces artistes nous citerons les noms suivants : De Bay. Bonheur, Cortot, Clesinger, Dantan aîné, Etex, Feuchère, Jaley, Jouffroy, Mathurin Moreau, Nan¬ teuil, Pradier, Préauit, Roman, etc</note></sense>
+</entry><pc>.</pc><entry><num>116</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Segrais (Jean Regnaud de</name><pc>),</pc><desc>poète et romancier, de l'a¬ cad. fr</desc></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce de vers autographe, 1 p. in-4. Très jolie et rare pièce</sense></sense>
+</entry><pc>.</pc><entry><num>117</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Suffren (Pierre-André, dit le bailli de</name><pc>),</pc><desc>un des marins les plus célèbres du XVIIIe siècle</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à Monseigneur...; 4 août 1784, 1 p. 1/2 in-4. Rare signé</sense></sense>
+</entry><pc>.</pc><entry><num>118</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Suvée (Jos.-Benoît</name><pc>),</pc><desc>peintre d'histoire, directeur de l'É¬ cole de France à Rome</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à M. Malary, à Rome; ce mercredi, 2 p. in-4 in-8. Intéressante</sense></sense>
+</entry><pc>.</pc><entry><num>119</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Vendôme (César, duc de</name><pc>),</pc><desc>fils légitimé de Henri IV et de Gabrielle d'Estrées</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à MAZARIN; Paris, 12 sept. 1651, 1/2 p. in-4, ca¬ chets brisés</sense><pc>.</pc><note>Il demande à connaître ses intentions qui lui serviront de règlé de con¬ duite</note></sense>
+</entry><pc>.</pc><entry><num>120</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Vendôme (Louis, duc de</name><pc>),</pc><desc>fils du précédent, vice roi de Catalogne, puis cardinal</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; Rome, 22 mai 1667, 1 p. in-4</sense><pc>.</pc><note>Pièce historique. « Le Pape venant d'expirer dans ce moment, d'aujourd'hui en neuf jours nous entrerons dans le conclave. Dès demain je commencerai d'entrer dans les congrégations...</note></sense>
+</entry><pc>»</pc><entry><num>121</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Vendôme (L.-Jos., duc de</name><pc>),</pc><desc>fils du précédent, le grand capitaine</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. ; Rome, 1er déc. 1671, 1 p. in-fol</sense><pc>.</pc><note>Témoignages de reconnaissance. Envoi de vers latins composés par son secrétaire</note></sense>
+</entry><pc>.</pc><entry><num>122</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Ventura (le Père Gioacchino</name><pc>),</pc><desc>célèbre prédicateur, disciple de La Mennais</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a., en français, sig. de ses initiales, au directeur du Mémorial catholique; Rome, 22 janv. 1828, 2 p. 1/2 in-fol</sense><pc>.</pc><note>Epître des plus curieuses où il parle du prochain baptême du juif Deutz et des auteurs du faux decretum du général des Jésuites. -Piquants dé¬ tails</note></sense>
+</entry><pc>.</pc><entry><num>123</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Villars (Dominique</name><pc>),</pc><desc>célèbre botaniste, né en Dauphiné</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. à de Bure ; Grenoble, 26 juillet 1788,1 p. in-4</sense></sense>
+</entry><pc>.</pc><entry><num>124</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Vincent de Paul (Saint)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. à M. Jolly ; Paris, 19 sept. 1659, 2 p. 1/4 in-8. Pi¬ qûres de vers enlevant quelques lettres</sense><pc>.</pc><note>Très belle lettre. Il remercie Dieu « de ce que vous avez pris possession de la maison de Monséigneur le cardinal Bagny. Il y a sujet d'espérer que Dieu benira ceux qui l'habiteront par le mérite de ce bon seigneur qui vous l'a re¬ mise et de celuy qui vous la procure...</note></sense>
+</entry><pc>»</pc><entry><num>125</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Voltaire (F.-M. AROUET de</name><pc>),</pc><desc>le plus grand écrivain du XVIIIe siècle</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s., écrite par Wagnière; Ferney, 15 sept. 1763, 1 p. 1/2 in-4</sense><pc>.</pc><note>Jolie lettre prose et vers. « Moi je ne suis qu'un pauvre sage « Vivant dans mes foyers et mourant dans mon lit; « En vain j'aurois tout votre esprit, « Ma voix ne peut chanter l'audace extravagante « De tous ces grands Condés dont la France se vante...</note></sense>
+</entry><pc>»</pc><entry><num>126</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Wellington (le duc de</name><pc>),</pc><desc>l'illustre général anglais</desc></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. au général Chassé; Neuilly, 6 juillet 1815, 1 p. in-fol</sense><pc>.</pc><note>Pièce historique. Il lui transmet les remerciements que la Chambre des Lords et celle des Communes ont votés au général Chassé et à ses troupes pour leur belle conduite dans la bataille du 18 juin (LA BATAILLE de WATERLoo). -On a joint à ce précieux document des copies de pièces sur le même sujet</note></sense>
+</entry><pc>.</pc><dictScrap>DOCUMENTS HISTORIQUES</dictScrap><entry><num>127</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Académie des sciences</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce autographe du marquis de CONDORCEt; (vers 1791), 1 p. 1/4 in-4</sense><pc>.</pc><note>Projet d'une adresse de l'Académie des Sciences à l'Assemblée nationale pour lui témoigner sa reconnaissance de la confiance dont elle a bien voulu lui donner des marques</note></sense>
+</entry><pc>.</pc><entry><num>128</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Angleterre</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. du général Lemoine au général Dumesny ; Coutances, 9 messidor an IV, 3/4 de p. in-4, vig. et tête impr</sense><pc>.</pc><note>Envoi de trois séries de signaux anglais trouvées sur un des sept Anglais arrêtés sur les côtes normandes. -Les trois planches de signaux sont jointes à la lettre</note></sense>
+</entry><pc>.</pc><entry><num>129</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Arras</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce, sur vélin; 17 sept. 1396, 1 p. in-fol. oblong</sense><pc>.</pc><note>Reçu donné par Mahieu Régnault, archidiacre d'Arras, de 200 fr. d'or à lui payés par le duc d'Orléans</note></sense>
+</entry><pc>.</pc><entry><num>130</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Art</name></form>
+<pc>.</pc>
+<sense>
+<sense>1° L. s. par des artistes en tous genres composant les socié¬ tés de la Commune des Arts, des Neuf-Soeurs, etc., à l'As¬ semblée législative; 10 nov. 1791, 3 p. in-fol. Important document, signé par Restout, Boze, Anselin, Servières, Camp¬ mas, etc. Ils demandent à concourir à la nomination du bureau de consulta¬ tion chargé de répartir les deux millions de récompenses décrétés pour les artistes. 2° Pétition à l'Assemblée législative, pièce autographe de Servières; Paris, 10 nov. 1791, 4 p. in-fol. -3° Procès-ver¬ bal de la séance de la Fédération des artistes, du 26 nov. 1792, 2 p. in-fol. -4° 3 pièces diverses</sense></sense>
+</entry><pc>.</pc><entry><num>131</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Art</name><pc>:</pc><desc>Suppression des Académies</desc></form>
+<pc>.</pc>
+<sense>
+<sense>P. s. par Paré, ministre de l'intérieur; 28 août 1793, 2 p. in-fol., cachet</sense><pc>.</pc><note>Très curieux document. Pouvoirs donnés à Hassenfratz pour surveiller l'exécution de la loi du 12 août qui supprime les académies. Instructions pour l'inventaire des objets d'art et de science provenant de ces académies</note></sense>
+</entry><pc>.</pc><entry><num>132</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Auvergne</name></form>
+<pc>.</pc>
+<sense>
+<sense>26 pièces, sur vélin, des XVIIe et XVIIIe siècles, 30 p. in-4</sense><pc>.</pc><note>Intéressants documents concernant en partie des couvents d'Aurillac</note></sense>
+</entry><pc>.</pc><entry><num>133</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Auvergne</name></form>
+<pc>.</pc>
+<sense>
+<sense>2 p. s. par la supérieure et les religieuses de la commu¬ nauté de Notre-Dame de la ville d'Aurillac; 4 juillet et 17 août 1727, 15 p. 1/2 in-fol</sense><pc>.</pc><note>Extraits des contrats et obligations consentis en faveur de la communauté. Intéressants documents</note></sense>
+</entry><pc>.</pc><entry><num>134</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Auvergne</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. aut. de GEORGES COUTHON, le célèbre conventionnel, à ses concitoyens du Puy-de-Dôme; 22 juin 1793, 3 p. in-fol</sense><pc>.</pc><note>Important document. C'est la minute d'une lettre où il rend compte des démarches qu'il fait pour procurer des grains à ses compatriotes</note></sense>
+</entry><pc>.</pc><entry><num>135</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Clergé</name></form>
+<pc>.</pc>
+<sense>
+<sense>Lettres-patentes de Louis XV et extrait des registres du Conseil d'Etat, 2 pièces, sur vélin; 9 sept. 1723, 2 p. in-fol</sense><pc>.</pc><note>Ordre de supprimer l'édition du Discours sur les libertés de l'Eglise gal¬ licane par le feu abbé Fleury, à cause des notes pleines d'une doctrine très dangereuse pour la religion</note></sense>
+</entry><pc>.</pc><entry><num>136</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Clergé</name></form>
+<pc>.</pc>
+<sense>
+<sense>1° 5 lettres sur la Constitution Unigenitus; 1731 à 1759, 7 p. in-4. Curieuses. -2° Lettre d'un convulsionnaire de Saint-Médard ; Paris, 1732, 3 p. in-4</sense><pc>.</pc><note>Très intéressants documents</note></sense>
+</entry><pc>.</pc><entry><num>137</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Comédie-Française</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par Molé, Dazincourt, Bellecour, Desessarts, Préville, Dugazon et Vanhove, 2 p. in-4</sense><pc>.</pc><note>Piquant document. Ils refusent de donner au duc de Montmorency la cle d'une des petites loges, et ils exposent les raisons de leur refus</note></sense>
+</entry><pc>.</pc><entry><num>138</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Comédie-Française</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par Fleury, Mlle Mars, Saint-Prix, Lafon, Armand, Mlle Leverd, Baptiste aîné, Mme Thénard, etc., au comte.... Paris, 4 mars 1817, 3 p. in-4</sense><pc>.</pc><note>Très curieux document dans lequel ils sollicitent la permission d'assister en corps à la cérémonie de la translation des restes de MOLIÈRE et de LA FONTAINE au cimetière de Mont-Louis. Après un bel éloge de Molière, « le père de la Comédie, le véritable fondateur du Théâtre français », ils ajoutent : « Ce sont des enfants qui demandent à se réunir pour honorer la cendre de leur père et celle d'un grand homme qui lui fut uni par l'amitié.</note></sense>
+</entry><pc>»</pc><entry><num>139</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Comédie-Française</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par Michelot, Firmin, Mante, Dupont, Paradol, Grandville, etc., à M. Staktet; Paris, 2 sept. 1830, 1 p. in-4</sense><pc>.</pc><note>Ils affirment que la conduite de M. Stocktet, au Théâtre-Français, a été celle d'un honnête homme, d'un pensionnaire zélé et d'un bon camarade</note></sense>
+</entry><pc>.</pc><entry><num>140</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Dauphiné</name></form>
+<pc>.</pc>
+<sense>
+<sense>Lettres-patentes du roi Henri II, sur vélin, adressées à l'évêque de Valence; Fontainebleau, 28 déc. 1547,1 p. in-fol</sense></sense>
+</entry><pc>.</pc><entry><num>oblong</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Pièce jaunie</name></form>
+<pc>.</pc>
+<sense>
+<note>Pièce historique par laquelle il le prévient qu'à cause des dépenses consi¬ dérables de la guerre, il est forcé de demander au clergé de France un don gratuit, qui sera, pour le diocèse de Valence, de 7,236 livres tournois</note></sense>
+</entry><pc>.</pc><entry><num>141</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Dauphiné</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. de Boisset, représentant du peuple, délégué dans le département de la Drôme, à un général; Valence, 2 sept. 1793, 1 p. in-4</sense><pc>.</pc><note>Pièce historique. Le département de la Drôme est debout et prêt à envoyer les deux mille hommes qu'un commissaire du département du Mont-Blanc lui demande</note></sense>
+</entry><pc>.</pc><entry><num>142</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Dauphiné</name></form>
+<pc>.</pc>
+<sense>
+<sense>10 l. a. s. du comte d'ArgOut, ministre de Louis-Phi¬ lippe, né près de La Tour Du Pin (Isère) ; 23 août-4 oct. 1841, 51 p. in-8</sense><pc>.</pc><note>Correspondance très intéressante, pleine de détails intimes, et où le comte d'Argout parle longuement de ses fonctions de gouverneur de la Banque de France</note></sense>
+</entry><pc>.</pc><entry><num>143</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Épernay</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce, sur vélin, sig. J. Charlet; 6 sept. 1422, 1 p. in-4 oblong</sense><pc>.</pc><note>Acte constatant que plusieurs soldats de la garnison de Nanteuil ont été noyés dans la Marne et que d'autres ont été pendus au gibet d'Epernay, par ordre du duc d'Orléans. Curieux document</note></sense>
+</entry><pc>.</pc><entry><num>144</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Imprimerie</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. s., sur vélin, par Zacharie Griveau, imprimeur du Roi à Tours; 25 juillet 1614, 1/2 p. in-4 oblong. Reçu de 18 livres pour l'impression d'un règlement</sense></sense>
+</entry><pc>.</pc><entry><num>145</num>
+<pc>.</pc>
+<form type="lemma">
+<name>La-Ferté-Milon</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce, sur vélin ; 23 déc. 1293, 1 p. in-4 oblong</sense><pc>.</pc><note>Pièce par laquelle Hue Le Fèvre cède à Robin Vimault ses droits sur une maison et une vigne sises à Nierolles, près le clos du prieur de Saint-Wougis, de la Ferté-Milon</note></sense>
+</entry><pc>.</pc><entry><num>146</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Librairie</name></form>
+<pc>.</pc>
+<sense>
+<sense>Lettres-patentes de Louis XVI, sur vélin ; Paris, 9 avril 1777, 1 p. in-fol. oblong</sense><pc>.</pc><note>Privilège acccordé au sr Sementery pour l'impression de l'Almanach géné¬ ral des marchands et négotiants de la France et de l'Europe. Curieux document</note></sense>
+</entry><pc>.</pc><entry><num>147</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Lisieux</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. de Desfieux et autres membres du Comité de corres¬ pondance de la Société des Jacobins à la Société de Lisieux ; Paris, 14 fév. 1793,4 p. in-fol., vig. et tête impr</sense><pc>.</pc><note>Important document historique où ils s'efforcent de justifier la mise en accusation et la proscription des Girondins, et reprochent à la société de Lisieux de conserver dans son sein des membres indignes d'elle. Curieux détails</note></sense>
+</entry><pc>.</pc><entry><num>148</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Malesherbes (Chr.-Guill. LAmOIGNON de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. sig. par Gauthier, Mathieu, Guyomar, Auguis, Pemar¬ tin, etc. ; 17 floréal an III, 1 p. in-fol., vign., tête impr. et cachet</sense><pc>.</pc><note>Arrêté du Comité de sûreté générale portant que le citoyen Gallois, tuteur des mineurs Pelletier-Rosambo, pourra prendre communication des registres du comité révolutionnaire du Ve arrondissement concernant Lamoignon-Ma¬ tesherbes et Le Pelletier Rosambo</note></sense>
+</entry><pc>.</pc><entry><num>149</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Mariage de Napoléon III</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. a. s. du maréchal Vaillant; 27 janv. 1853, 1/2 p. in-fol</sense><pc>.</pc><note>Ordre sur la tenue des officiers de la maison de l'Empereur pour les cérémo¬ nies du mariage civil et du mariage religieux</note></sense>
+</entry><pc>.</pc><entry><num>150</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Marie-Antoinette</name><pc>,</pc><desc>reine de France</desc></form>
+<pc>.</pc>
+<sense>
+<sense>1° P. s. par Léonard, premier coiffeur de la reine; 1791, 1/2 p. in-4. -2° Examen d'une Vie de Marie-Antoinette très favorable à la ci-devant cour, avec défense de mettre en vente cet ouvrage ; 2 floréal an X, 2 p. in-fol. Curieux do¬ cument</sense></sense>
+</entry><pc>.</pc><entry><num>151</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Musique du Roi</name></form>
+<pc>.</pc>
+<sense>
+<sense>P s. par le surintendant Lesueur ; 1814, 20 p. in-fol</sense><pc>.</pc><note>Important document historique où, à l'époque de la première restauration, Le¬ sueur donne la liste des musiciens faisant partie de la musique du Roi et le chiffre de leurs appointements. Il s'élève contre les économies proposées sur les dits appointements et donne à cet égard les plus curieux renseignements</note></sense>
+</entry><pc>.</pc><entry><num>152</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Musique</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par 8 organistes des principales églises de Paris, Beauvarlet-Charpentier , Lefébure-Wély, Baron, etc., au comte de Chabrol; (juillet 1829), 3 p. in-fol</sense><pc>.</pc><note>Curieux document où ils demandent qu'on augmente le traitement des orga¬ nistes des églises de Paris</note></sense>
+</entry><pc>.</pc><entry><num>153</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Opéra</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. sig. par Charon, Rey, de La Suze, de Watteville et Francaeur, à Champein; 1er juillet 1791, 2 p. in-4</sense><pc>.</pc><note>Ils demandent à Champein s'il sera en état de livrer, d'ici à un mois, la musique du Seigneur bienfaisant, moyennant une rétribution de 100 livres par représentation</note></sense>
+</entry><pc>.</pc><entry><num>154</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Opéra-Comique</name></form>
+<pc>.</pc>
+<sense>
+<sense>1° P. s. par Paulin, Michu, Granger, Philippe, Trial, Martin, Camerani, Chenard, etc. ; 4 vendémiaire an IV, 1 p. in-fol. -2° P. s. par Saint-Aubin, Camerani, Granger, Chenard, Michu, Paulin, Philippe, Solié, Etleviou, etc. ; 10 frimaire an IV, 1 p. in-fol</sense><pc>.</pc><note>Délibérations à l'effet de donner pouvoir à un homme de loi de se rendre adjudicataire, pour le compte de la société, de la maison dite Salon des Princes et de diverses boutiques, le tout faisant le pourtour du bâtiment qui contient le théâtre de l'Opéra-Comique National</note></sense>
+</entry><pc>.</pc><entry><num>155</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Opéra-Comique</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. de Fontaine-Cramayel, préfet du Palais du Gouver¬ nement, au citoyen Nogaret; Paris, 22 pluviôse an XI, 4 p. in-4</sense><pc>.</pc><note>Document curieux sur la censure théâtrale exercée à cette époque. « Je crois devoir vous avertir que le premier Consul met beaucoup plus d'impor¬ tance qu'on ne croit aux ouvragès qui sont représentés au théâtre Feydeau, théâtre qu'il regarde comme essentiellement national parce qu'il observe avec raison que c'est celui dont le répertoire est le plus habituellement joué dans les départements. Il est donc à souhaiter, tant pour la gloire de la nation que pour l'esprit public, que ce répertoire soit le meilleur possible...</note></sense>
+</entry><pc>»</pc><entry><num>156</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Opéra-Comique</name></form>
+<pc>.</pc>
+<sense>
+<sense>4 l. s. par Dupaty, Paul de Kock, Planard, Étienne, Champein, Fétis, Delrieu, etc., au duc d'Aumont; juillet- septembre 1827, 9 p. in-fol</sense><pc>.</pc><note>Intéressant dossier sur les rapports des auteurs dramatiques et des com¬ positeurs de musique avec l'Opéra-Comique</note></sense>
+</entry><pc>.</pc><entry><num>157</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Opéra-Comique</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. s. par Dupin aîné, Dupin jeune, Coffinières, Lafeuillade, Ponchard, etc. , 1828, 37 p. in-fol</sense><pc>.</pc><note>Important document. C'est le projet d'organisation de l'Opéra-Comique présenté par la commission chargée de ce travail et instituée par le duc d'Au¬ mont le 13 mai 1828</note></sense>
+</entry><pc>.</pc><entry><num>158</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Université</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce, en latin, sur vélin ; 1303, 1 p. in-fol., fragment de sceau</sense><pc>.</pc><note>Important document. Vidimus donné par le prévôt de Paris de la déclara¬ tion qu'a faite l'Université de Paris relativement à l'invitation à elle adressée par le roi Philippe le Bel, de concourir à la convocation d'un concile général devant lequel le Roi se propose d'accuser le pape Boniface VIII de divers crimes d'hérésie</note></sense>
+</entry><pc>.</pc><entry><num>159</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. du maréchal François de Montmorency (fils du conné¬ table) aux prévôts des marchands et échevins de Paris; 21 avril 1563, 1/2 p. in-fol., trace de cachet</sense><pc>.</pc><note>Pièce historique où il les félicite, au nom du Roi, du bon ordre et de la tranquillité qu'ils s'efforcent de faire régner dans la ville de Paris</note></sense>
+</entry><pc>.</pc><entry><num>160</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Église Saint-Paul</name></form>
+<pc>.</pc>
+<sense>
+<sense>P s., sur vélin, par le maréchal de Boufflers et par les autres marguillers de l'oeuvre et fabrique de l'éqlise Saint-Paul à Paris; 14 sept. 1706, 3/4 de p. in-fol., cachet</sense><pc>.</pc><note>Très curieux document. C'est le cession faite à M. Delpêche, receveur géné¬ ral d'Auvergne, de la jouissance de quatre places au banc d'oeuvre de l'église Saint-Paul</note></sense>
+</entry><pc>.</pc><entry><num>161</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris</name></form>
+<pc>.</pc>
+<sense>
+<sense>P s. par Alexandre Beauharnois, Regnier, etc. ; Paris, 21 juin 1791, 1 p. 1/2 in-fol., tête impr. et cachet</sense><pc>.</pc><note>Amplication du décret de l'Assemblée nationale qui approuve l'apposition des scellés sur les appartements des châteaux des Tuileries et du Luxembourg, après la nouvelle de la fuite du Roi</note></sense>
+</entry><pc>.</pc><entry><num>162</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris</name></form>
+<pc>.</pc>
+<sense>
+<note>Le Chant d'Ossian, cantate exécutée devant Leurs Majestés impériales et royales, le jour de la fête donnée par la ville de Paris, au sujet de la naissance du Roi de Rome, paroles de M. Arnault, musique de M. Méhul, membres de l'Institut, pièce imprimée en encre d'or, sur vélin, 4 p. in-fol</note></sense>
+</entry><pc>.</pc><entry><num>163</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris</name></form>
+<pc>.</pc>
+<sense>
+<sense>1° Proclamation imprimée du maréchal prince de Schwar¬ zenberg aux habitants de Paris en 1814, 1 p. in-4. Un peu fripée. -2° Ordre du jour du général Sacken, du 19 avril 1814, concernant le service de la garde nationale de Paris, 1 p. in-4. Taché</sense></sense>
+</entry><pc>.</pc><entry><num>164</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Arc de Triomphe du Carrousel</name></form>
+<pc>.</pc>
+<sense>
+<sense>4 quittances sig. par les sculpteurs Petitot, Pradier et Raggi; 1827-1830, 4 p. in-4 oblong</sense><pc>.</pc><note>Reçus pour l'exécution de bas-reliefs destinés à l'arc de triomphe du Carrousel</note></sense>
+</entry><pc>.</pc><entry><num>165</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Musée royal du Louvre</name></form>
+<pc>.</pc>
+<sense>
+<sense>6 quittances sig. par les sculpteurs Caillouete, Fessard, Guersant, Gatteaux, Guillois et Nanteuil; 1827-1828, 6 p. in-4 oblong</sense><pc>.</pc><note>Reçus pour l'exécution de statues destinées au musée royal</note></sense>
+</entry><pc>.</pc><entry><num>166</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Bals masqués</name></form>
+<pc>.</pc>
+<sense>
+<sense>2 l. s. par le préfet de police Gisquet; Paris, 16 et 23 janv. 1834, 5 p. 1/2 in-fol</sense><pc>.</pc><note>Très curieuses lettres. Dans la première il retire au directeur de l'Opéra¬ Comique l'autorisation de donner des bals masqués. La minute de la réponse du ministre est jointe. La seconde est un rapport des plus piquants sur les bals masqués autorisés à Paris et sur les mesures prises depuis la révolution de juillet pour y maintenir le bon ordre</note></sense>
+</entry><pc>.</pc><entry><num>167</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Paris : Réunion du Louvre aux Tuileries</name></form>
+<pc>.</pc>
+<sense>
+<sense>13 quittances sig. par les sculpteurs Calmels, Courtet, Dau¬ mas, Desboeufs, Etex, Flandrin, Falconnier, Jaley, Moreau, Marion, Nanteuil et Robert ; 1854-57,13 p. in-fol</sense><pc>.</pc><note>Reçus pour des travaux de sculpture exécutés pour la réunion du Louvre aux Tuileries</note></sense>
+</entry><pc>.</pc><entry><num>168</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Peinture</name></form>
+<pc>.</pc>
+<sense>
+<sense>Trois lettres signées de Decaux et de Chabrol; 1824,4 p. in-4</sense><pc>.</pc><note>Demandes de la croix de la légion d'honneur pour les peintres Vandael, Vinchon et Mauzaisse</note></sense>
+</entry><pc>.</pc><entry><num>169</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Pontoise</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. s., sur vélin, par François, duc d'Alençon (frère de Charles IX) ; 9 oct. 1578, 1/2 p. in-fol. oblong</sense><pc>.</pc><note>Ordre de payer 1,230 écus deux tiers au sieur de Favelles qui, ponr obliger le duc d'Orléans, a pris, à faculté de rachat perpétuel, la Châtellenie de Pontoise, moyennant 6,000 écus soleil</note></sense>
+</entry><pc>.</pc><entry><num>170</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Provence</name></form>
+<pc>.</pc>
+<sense>
+<sense>9 l. a. s. de Joseph-Alphonse Esmenard, poète, membre de l'Académie française, né à Pélissanne (Bouches-du-Rhône) ; Paris, 1808-10, 13 p. in-4 et 4 p. in-8 Correspondance avec M. Carbonnet relativement à une commande de vin faite par M. de Metternich</sense></sense>
+</entry><pc>.</pc><entry><num>171</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Révolution française. Journée du 10 août</name></form>
+<pc>.</pc>
+<sense>
+<sense>Pièce sig. par Léonard Bourdon et Truchon; Paris, 10 août 1792, 1/2 p. in-fol., vig. et tête impr. de la municipalité de Paris</sense><pc>.</pc><note>Curieux document sur la journée du 10 août. Il porte ces mots : « Peuple, suspends ta vengeance, la justice endormie jusqu'icy reprend aujourd'huy ses droits, tous les coupables vont périr sur l'échafaud.</note></sense>
+</entry><pc>»</pc><entry><num>172</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Sacre de Louis XVI</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par Louis XVI (signature du secrétaire de la main) au prince de Lambesc ; Versailles, 2 mai 1775, 1/2 p. in-fol</sense><pc>.</pc><note>Pièce historique. Lettre de convocation à la cérémonie de son sacre qui aura lieu à Reims le 11 juin. « Je désire qu'elle soit accompagnée de tout ce que l'ancien usage a introduit de plus auguste pour sa solennité et que vous y portiez la queue de mon manteau.</note></sense>
+</entry><pc>»</pc><entry><num>173</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Saint-Denis (Couvent des Ursulines de)</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. de la main d'ANNE d'AUTRICHE à la supérieure des Ursulines de Saint-Denis; Saint-Denis, 3 juillet 1652, 1 p. in-4, cachets. Fortement jannie</sense><pc>.</pc><note>Pièce historique écrite le lendemain du fameux combat de la porte Saint- Antoine</note></sense>
+</entry><pc>.</pc><entry><num>174</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Saint-Germain-en-Laye</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. de Paré, président du tribunal de Saint-Germain- Laye (plus tard ministre de l'intérieur) ; 20 juin 1792, 1 p. 3/4 in-4</sense><pc>.</pc><note>Il sollicite, au nom du tribunal de Saint-Germain, une loi qui prescrive les formes à observer dans les appels des jugements rendus par les municipalités</note></sense>
+</entry><pc>.</pc><entry><num>175</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Saint-Omer</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. a. s. du cit. Crachet à Daunou; Saint-Omer, 12 thermi¬ dor an III, 2 p. in-1/4</sense><pc>.</pc><note>Il sollicite la liberté du cit. Serlingue, ci-devant vicaire dans une des communes du district de Saint-Omer, et qui a été emprisonné par ordre de Joseph Lebon, 176. Soissons. L. a. s. de Simon Le Gras, évêque de Soissons; Soissons,</note><sense>6 oct. 1633, 1 p. in-4, cachets. Très belle lettre</sense></sense>
+</entry><pc>.</pc><entry><num>177</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Soissons</name></form>
+<pc>.</pc>
+<sense>
+<sense>5 l. a. s. de Charles Bourlon, coadjuteur, puis évêque de Soissons, au R. P. Boular; Compiègne et Soissons, 1682, 7 p. in-4, cachets. Correspondance très intéressante</sense></sense>
+</entry><pc>.</pc><entry><num>178</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Soissons</name></form>
+<pc>.</pc>
+<sense>
+<sense>P. a. s. de Jean-Louis-Marie Poiret, naturaliste, né à Saint-Quentin ; an VIII, 7 p. 1/2 in-4</sense><pc>.</pc><note>Observations sur une espèce de bois pétrifié trouvée à Belleu, près de Soissons</note></sense>
+</entry><pc>.</pc><entry><num>179</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Vendée</name></form>
+<pc>.</pc>
+<sense>
+<sense>L. s. par les administrateurs des districts de Challans et des Sables au ministre de la guerre; Les Sables, 23 mars 1793, 3 p. in-fol</sense><pc>.</pc><note>Important document où ils font le plus sombre tableau du triste état où les a réduits l'insurrection vendéenne. Ils sollicitent de prompts secours, car le péril est imminent</note></sense>
+</entry><pc>.</pc><entry><num>180</num>
+<pc>.</pc>
+<form type="lemma">
+<name>Sous</name></form>
+<sense>
+<note>ce numéro, on vendra plusieurs lots d'autographes et de documents que le temps n'a pas permis de cataloguer</note></sense>
+</entry><pc>.</pc><entry><num>Paris</num>
+<pc>.</pc>
+<form type="lemma">
+<name>-Imp. Motteroz</name><pc>,</pc><desc>31, eu« du Dragon,</desc></form>
+</entry>		</body>
+	</text>
+</TEI>
