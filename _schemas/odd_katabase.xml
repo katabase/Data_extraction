@@ -1434,7 +1434,7 @@
                                     <sch:assert test="@xml:id" role="error">Please add a @xml:id
                                         attribute</sch:assert>
                                     <sch:assert
-                                        test="matches(@xml:id, 'CAT_[0-9]{6}_e[0-9]+([a-z|*]+)?')"
+                                        test="matches(@xml:id, 'CAT_[0-9]{6}_e[0-9]+([a-z|\*]+)?')"
                                         >@xml:id="CAT_[0-9]{6}_e[0-9]+([a-z|*]+)?+" </sch:assert>
                                 </sch:rule>
                             </constraint>
@@ -1602,6 +1602,16 @@
                                 </valList>
                             </attDef>
                             <attDef ident="type" mode="delete"/>
+                            <attDef ident="ana" mode="add">
+                                <constraintSpec ident="BiblAna" scheme="schematron">
+                                    <constraint>
+                                        <sch:rule context="tei:sourceDesc/tei:bibl">
+                                            <sch:assert test="@ana" role="error">Please add a @ana
+                                                attribute</sch:assert>
+                                        </sch:rule>
+                                    </constraint>
+                                </constraintSpec>
+                            </attDef>
                         </attList>
                     </elementSpec>
                     <elementSpec ident="listBibl" mode="change">
