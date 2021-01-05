@@ -1608,6 +1608,9 @@
                                         <sch:rule context="tei:sourceDesc/tei:bibl">
                                             <sch:assert test="@ana" role="error">Please add a @ana
                                                 attribute</sch:assert>
+                                            <sch:assert
+                                                test="matches(@ana, 'RDA|LAD|AUC|LAV|OTH')"
+                                                >@xml:id="RDA|LAD|AUC|LAV|OTH" </sch:assert>
                                         </sch:rule>
                                     </constraint>
                                 </constraintSpec>
