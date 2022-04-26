@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_odds.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:s="http://purl.oclc.org/dsdl/schematron"
     xmlns:sch="http://purl.oclc.org/dsdl/schematron">
     <teiHeader>
@@ -21,14 +21,14 @@
     <text>
         <body>
             <div1>
-                <head>Why encoding manuscript sales catalogs in XML-TEI? </head>
-
-                <p>The aim of the project is to define an efficient way of processing and
-                    structuring scanned catalogs in order to build a searchable database of
-                    manuscripts for sale on the private market during the 19th and the early 20th
-                    century. It is also meant to link some of the registered sales with other
-                    sources : manuscripts, indeces, etc. </p>
-
+                <head>Why should we encode manuscript sales catalogs in XML-TEI? </head>
+                
+                <p>The aim of the project is to define an efficient way to process and
+                    structure scanned catalogs in order to build a browsable database of
+                    manuscripts put on sale on the private market during the 19th and the 
+                    early 20th century. This project also aims at linking some of the 
+                    registered sales with other sources : manuscripts, indeces, etc. </p>
+                
                 <p> On the private market, manuscripts and autographs can be sold either at a fixed
                     price or during an auction sale. The process described below can be apply to
                     fixed prices catalogs and auction sale catalogs. In both cases, the catalog is
@@ -37,100 +37,116 @@
                     obituaries, advertising, etc. The first pages of auction sales catalogs provide
                     information about the material organization of the date (location, people
                     involved, etc.).</p>
-
+                
                 <p>The aim of the project is not to provide scholarly editions of manuscript sale
                     catalogs and periodicals dedicated to autographs, thus only list of entries are
                     encoded in the final docuemnts. </p>
-
+                
             </div1>
-
+            
             <div1>
                 <head>Processing manuscripts sale catalogs, from PDF to XML-TEI</head>
-
+                
                 <p> From the scanned catalog to the final XML-TEI document, several transformations
-                    are applied on the electronic file:</p>
-
+                    are applied to the electronic files:</p>
+                
                 <div2>
-                    <head>Preparing PDF</head>
-
+                    <head>Preparing the PDF files</head>
+                    
                     <p>Using the tool cpdf (for “Coherent PDF Command Line Tools”, more information
                         available <ref target="https://community.coherentpdf.com/">here</ref>), a
                         new PDF is created, containing only the pages that record lots for sale.
-                        This extraction aimed at improving the quality of output in the subsequent
-                        steps. Indeed, OCR and HTR models do not fully perform on very ornate pages,
-                        such as catalogs cover. Furthermore, GROBID dictionaries is a software meant
-                        to deal only with encyclopedic-like data and not with articles or
-                        advertising. </p>
-
+                        Extracting only the sale records allows to improve the output's quality in 
+                        the subsequent steps. Indeed, OCR and HTR models do not fully perform 
+                        on very ornate pages, such as catalogs cover. Furthermore, GROBID 
+                        dictionaries is a software meant to deal only with encyclopedy-like 
+                        data and not with articles or advertising. </p>
+                    
                     <p>After downloading and building cpdf on one’s computer (the steps to follow
                         are <ref target="https://github.com/johnwhitington/cpdf-source">here</ref>)
                         and going to the relevant folder, the command line to extract some pages
-                        from a PDF is: cpdf PDF.pdf X-Y -o selection.pdfwhere X is the first page
-                        with encyclopedic-like entries and Y the last one</p>
-
+                        from a PDF is: cpdf PDF.pdf X-Y -o selection.pdf where X is the first page
+                        with encyclopedy-like entries and Y the last one</p>
+                    
                 </div2>
-
+                
                 <div2>
                     <head>OCRising and HTRising catalogs</head>
-
-                    <p>This trimmed PDF is imported in Transkribus and processed in two steps. An
-                        OCR model is firstly applied to recognize the layout of the document. A HTR
-                        model specifically trained on manuscript catalogs such as the Revue des
-                        autographes is then applied to enhance the quality and the accuracy of the
-                        output. A file that contains the PDF and the text is finally exported from
-                        Transkribus.</p>
-
+                    
+                    <p>At the beginning of the project, the character recognition software
+                        that was used was Transkribus. However, the Katabase project later
+                        switched to open source tools. In turn, eScriptorium is currently
+                        used to extract the text from the catalogues</p>
+                    
+                    <div3>
+                        <head>Using Transkribus</head>
+                        <p>This trimmed PDF is imported in Transkribus and processed in two steps. An
+                            OCR model is firstly applied to recognize the layout of the document. A HTR
+                            model specifically trained on manuscript catalogs such as the Revue des
+                            autographes is then applied to enhance the quality and the accuracy of the
+                            output. A file that contains the PDF and the text is finally exported from
+                            Transkribus.</p>
+                    </div3>
+                    
+                    <div3>
+                        <head>Using eScriptorium</head>
+                        <p>eScriptorium has the advantage of being open source and is this now being
+                            used to produce a text file from the PDFs.</p>
+                    </div3>
+                    
                 </div2>
-
+                
                 <div2>
                     <head>Automatically structuring catalog entries</head>
-
+                    
                     <p> This exported PDF is processed by GROBID-dictionaries, a software designed
-                        to automatically structure lexicographical resources. Because catalog
+                        to automatically structure lexicographical resources. It is used because catalog
                         entries, especially fixed-prices publications, have a structure similar to
                         dictionary entries. </p>
                     <p>GROBID-dictionaries is a machine-learning software. Models need to be trained
-                        before being used. Specific training data were specifically developed for
-                        automatically encoding manuscripts sale catalogs. There can be downloaded
+                        before being used. Specific training data was specifically developed to
+                        automatically encode manuscripts sale catalogs. They can be downloaded
                         from <ref target="https://github.com/lairaines/grobid_TEI_2019">this
                             repository</ref>. </p>
-
-                    <p> In function of documents that are processed, restraining at certain levels
-                        training data can provide better results. </p>
-                    <p> At dictionary body segmentation level, the best results are obtained when
-                        using training data that most closely resemble the processed document. <list>
+                    
+                    <p> Depending on the documents being processed, restraining the training data
+                        at certain levels can provide better results. </p>
+                    <p> At dictionary body segmentation level, best results are obtained when
+                        using training data that most closely resembles the processed document. 
+                        <list>
                             <item> If the document is composed of fixed-price entries with a
-                                punctuation between the lot number and the author of the letter, the
-                                more relevant data to use are type RDA 1 and type RDA2. </item>
+                                punctuation sign separating the lot number and the letter's author,
+                                the more relevant data to use are type RDA1 and type RDA2. </item>
                             <item>If the document is composed of fixed-price entries without a
-                                punctuation between the lot number and the author of the letter, the
-                                more relevant data to use are type LAV.</item>
+                                punctuation sign between the lot number and the author of the letter, 
+                                the more relevant data to use are type LAV.</item>
                             <item>If the document is a auction sale catalog, the more relevant data
                                 to use are type AUC.</item>
-                        </list></p>
-
+                        </list>
+                    </p>
+                    
                     <p>At lexical entry, form and sense levels: <list>
-                            <item>If the document has exactly the same layout as the Revue des
-                                autographes, the results are better if you only use training data
-                                from type RDA1 and type RDA2. </item>
-                            <item>In all other cases, the results are better if you use all training
-                                data available</item>
-                        </list></p>
-
+                        <item>If the document has exactly the same layout as the Revue des
+                            autographes, the results are better if you only use training data
+                            from type RDA1 and type RDA2. </item>
+                        <item>In all other cases, the results are better if you use all the training
+                            data available.</item>
+                    </list></p>
+                    
                 </div2>
-
+                
                 <div2>
                     <head>From GROBID output to a valid XML-TEI valid document</head>
-
+                    
                     <p>Currently (in May 2019), the encoded output by GROBID-dictionaries does not
                         comply with the TEI P5 guidelines. Hence, it is necessary to transform the
                         output downloaded from GROBID dictionaries thanks to the XSLT stylesheet
                         grobid_transformation.xslt before trying to validate it with the schema.</p>
                 </div2>
-
+                
                 <div2>
                     <head>Assessment and correction of the final XML-TEI output</head>
-
+                    
                     <p>The next step is to associate the document with the schema
                         schema_grobid_output.rng. If using Oxygen XML editor, it is important to
                         tick the box "Add additional associations for embedded schematron rules".
@@ -138,7 +154,7 @@
                         least a number, an author name and an autograph description) and that the
                         entries numbers follow each other. It enables to spot and correct
                         inaccuracies in the final document structure.</p>
-
+                    
                     <p>If the encoded catalog does not include lot numbers or does not feature a
                         continuous numbering, it is important to create the numerotation by hand. <list>
                             <item>If the catalog is structured by vacations, the number to associate
@@ -149,34 +165,46 @@
                                 the number to associate with the item if of the following form :
                                 CATXXXXX_pYeZZZ, with XXXXXX the number of the catalogue, Y the
                                 number of the page and ZZZ the number of the entry in a given
-                                vacation.</item>
+                                page.</item>
                         </list>
                     </p>
-
-                    <p>After the global structure of the document has been checked and corrected,
+                    
+                    <p>After the global structure of the document has been verified and corrected,
                         the XML-TEI document is transformed thanks to a second XSLT stylesheet named
-                        catalog_final_transformation.xsl. Every item is especially given a single
-                        xml:id and can therefore be linked with a relevant manuscript description.
+                        catalog_final_transformation.xsl. Every item is given a unique xml:id 
+                        and can therefore be linked with a relevant manuscript description.
                         Finally, the document is associated with the global schema of E-ditiones
                         named odd_editiones.rng</p>
-
+                    
+                    <p>In lieu of odd_editiones.rng, a new odd is currently being used: odd_katabase.rng,
+                        which is directly derived from the present document and is built on top of 
+                        odd_editiones.rng. These prepared XML files are then processed through a 
+                        pipeline which can be founnd on the <ref target="https://github.com/katabase/">
+                            Katabase Github repository
+                        </ref>. They must comply with odd_katabase.rng in order for the pipeline
+                        to function without throwing an error. A python script helps to check the 
+                        validity of the XML files and to correct them : "validator.py", which can
+                        be found in the <ref target="https://github.com/katabase/">utils</ref>
+                        directory of the Katabase project.
+                    </p>
+                    
                 </div2>
             </div1>
             <div1>
                 <head>The structure of an encoded catalog</head>
-
+                
                 <div2>
                     <head>The TEI header</head>
-
+                    
                     <p>When a file is processed by GROBID dictionaries, a header is automatically
                         generated. However, it needs to be completed and restructured to meet the
                         requirements of the TEI P5 Guidelines. As it is not easy to train an OCR or
                         a HTR on first pages, the information available will not be automatically
                         processed but dispatched in the SourceDesc element of the TEI Header.</p>
-
+                    
                     <div3>
                         <head>The <gi>fileDesc</gi></head>
-
+                        
                         <p>It contains four elements:</p>
                         <list>
                             <item>the <gi>titleStmt</gi> with child <gi>title</gi> (with the same
@@ -185,13 +213,13 @@
                                 documents are encoded) and <gi>respStmt</gi>. This last element
                                 contains a <gi>persName</gi> (with the name of the person
                                 responsible for the creation of the electronic file) and an element
-                                    <gi>date</gi> included in an element <gi>resp</gi></item>
-
+                                <gi>date</gi> included in an element <gi>resp</gi></item>
+                            
                             <item>the <gi>extent</gi> to be completed when the document is ready to
                                 be uploaded.</item>
-
+                            
                             <item>the <gi>publicationStmt</gi>, identical from a document to another
-                                    <egXML xmlns="http://www.tei-c.org/ns/Examples">
+                                <egXML xmlns="http://www.tei-c.org/ns/Examples">
                                     <publicationStmt>
                                         <publisher>Université de Neuchâtel</publisher>
                                         <availability status="restricted">
@@ -200,17 +228,17 @@
                                                 >Attribution 2.0 Generic (CC BY 2.0)</licence>
                                         </availability>
                                     </publicationStmt></egXML></item>
-
+                            
                         </list>
                     </div3>
-
+                    
                     <div3>
                         <head>The <gi>sourceDesc</gi></head>
-
+                        
                         <p>The first child element of the <gi>sourceDesc</gi> is the <gi>bibl</gi>
                             This element contains a short bibliographical description of the print
                             catalog.</p>
-
+                        
                         <list>
                             <item>The <gi>title</gi> is the name of the catalog. If the catalog is a
                                 periodical, the full title is reproduced in this field. If the
@@ -221,38 +249,38 @@
                                 The cuts in the title are replaced by the sign […]. The rest of the
                                 relevant information present in the full title is indicated in
                                 subsequent fields of the <gi>sourceDesc</gi>.</item>
-
+                            
                             <item>The <gi>num</gi> is used if the catalog is a periodical
                                 publication. </item>
-
+                            
                             <item>The <gi>editor</gi> corresponds to the person responsible for the
                                 establishment of its content. When the catalog is inserted in a
                                 review, the editor is the publication director, that is to say the
                                 person responsible for the accuracy of the content. </item>
-
+                            
                             <item>The <gi>publisher</gi> corresponds to the person in charge of its
                                 distribution. There can be several publishers for one catalog,
                                 especially when it is an auction sale advertised
                                 internationally.</item>
-
+                            
                             <item>The <gi>pubPlace</gi> corresponds to the address of the
                                 publisher.</item>
-
+                            
                             <item>The <gi>date</gi> corresponds to the date of the publication of
                                 the catalog (which can differ with the date of the advertised
                                 sale).</item>
                         </list>
-
+                        
                         <p>The second child element of the <gi>sourceDesc</gi> is the
-                                <gi>listEvent</gi>. This section aims at recording the events
+                            <gi>listEvent</gi>. This section aims at recording the events
                             related to the sale described in a catalog. They are only relevant in
                             case of an auction sale and they can be of four different types : </p>
-
+                        
                         <list>
                             <item>the auction sale itself. In an <gi>event</gi> with the attribute
-                                    <att>type</att> of value <val>auction</val> people and
+                                <att>type</att> of value <val>auction</val> people and
                                 organizations that took part in the sale, its location (in
-                                    <gi>address</gi> and <gi>addrLine</gi> and its date are listed).
+                                <gi>address</gi> and <gi>addrLine</gi> and its date are listed).
                                 When the name of an organization is mentioned, it is included in an
                                 element <gi>orgName</gi>. When the name of a person is metioned, it
                                 is included in an element <gi>persName</gi> and supplemented with an
@@ -269,44 +297,44 @@
                                         sale is not the person who collected the documents, e. g.
                                         their heir).</item>
                                 </list></item>
-
+                            
                             <item>the publication of a record of the sale and prices reached by the
                                 manuscripts (e.g. in the press). If such a record exists, it is
                                 recorded in an <gi>event</gi> type=”record” and its reference is
                                 reproduced in an element.</item>
-
+                            
                             <item>the existence of corresponding auctioneer minutes. If such a
                                 record exists, it is recorded in an <gi>event</gi> with the
                                 attribute <att>type</att> minutes” and its reference is reproduced
                                 in a <gi>p</gi>.</item>
-
-
+                            
+                            
                             <item>the existence of an identification of the collector if the sale
                                 was anonymous. If such a record exists, it is recorded in an
-                                    <gi>event</gi> with the attribute <att>type</att>
+                                <gi>event</gi> with the attribute <att>type</att>
                                 "identification" and the sources are listed in a
                                 <gi>listBibl</gi>.</item>
-
+                            
                         </list>
-
+                        
                         <p>The third section of the <gi>sourceDesc</gi> is the <gi>listWit</gi>,
                             This element records and describes the different instances of the
                             catalog that were consulted. Sales catalogs are generally hard to find
                             and copies may vary given the fact that some of them are annotated. Each
                             element witness has an attribute xml:id. If an online version of one
                             witness is available, the link is indicated by a child element
-                                <gi>ptr</gi> and an attribute <att>target</att>.</p>
-
+                            <gi>ptr</gi> and an attribute <att>target</att>.</p>
+                        
                         <p>This fourth section of the <gi>sourceDesc</gi> is the element
-                                <gi>listBibl</gi>. It lists the bibliographical sources that give
+                            <gi>listBibl</gi>. It lists the bibliographical sources that give
                             addition information on the sale.</p>
                     </div3>
-
+                    
                     <div3>
                         <head>The <gi>encodingDesc</gi></head>
-
+                        
                         <p>In the <gi>encodingDesc</gi>, four different elements are needed.</p>
-
+                        
                         <list>
                             <item>The first one is the element <gi>samplingDecl</gi>(with a child
                                 element <gi>p</gi>). It states the choice to process only the parts
@@ -315,7 +343,7 @@
                                 for sale. All text preceding or succeeding the list of documents for
                                 sale is not reproduced below.”. This precision is added
                                 automatically thanks to the XSLT stylesheet.</item>
-
+                            
                             <item>The element <gi>application</gi> concerning Transkribus is also
                                 automatically created. The version used – if not 1.6 – and the date
                                 have to be added by hand.<egXML
@@ -325,7 +353,7 @@
                                         <ptr target="https://transkribus.eu/Transkribus/"/>
                                     </application>
                                 </egXML></item>
-
+                            
                             <item>The element <gi>application</gi> concerning GROBID dictionaries
                                 and its child elements have to be transformed to be TEI-P5
                                 conforming. <list>
@@ -339,26 +367,26 @@
                                         new element <gi>ptr</gi> (XSLT transformation).</item>
                                 </list></item>
                         </list>
-
+                        
                         <p>The element <gi>listPref</gi> is used to declare prefixes to simplify the
                             declaration of indexed names described in the folders PE1 or PE2.</p>
                     </div3>
-
+                    
                 </div2>
-
+                
                 <div2>
                     <head>The body</head>
-
+                    
                     <p>Each entry in the GROBID dictionaries output is transformed in an element
-                            <gi>item</gi>. Because 19th century manuscripts catalogs do not always
+                        <gi>item</gi>. Because 19th century manuscripts catalogs do not always
                         provide the reader with extensive information about documents for sale,
                         using the element <gi>item</gi> rather than the element <gi>object</gi>
                         seems sufficient. Each element <gi>item</gi> can contain up to six child
                         elements:</p>
-
+                    
                     <list>
                         <item>the mandatory element <gi>num</gi> for the lot number. </item>
-
+                        
                         <item>the mandatory element <gi>name</gi> for the name mentioned at the
                             beginning of the entry. Most of the times, it is the author of the
                             letter that is mentioned. However, when it comes to really famous
@@ -366,11 +394,11 @@
                             name (e.g. Louis XIV to register a letter sent to the king), hence the
                             two possible values of of the <att>type</att> : "author" and
                             "recipient". </item>
-
+                        
                         <item>the non-mandatory element <gi>trait</gi> (with a child element
-                                <gi>p</gi>) for the description of the author provided by the
+                            <gi>p</gi>) for the description of the author provided by the
                             catalog. </item>
-
+                        
                         <item>The mandatory element <gi>desc</gi> for the description of the
                             document(s) for sale. In a fixed-price catalogs, this sequence ends with
                             the price of the autograph(s). Each element <gi>desc</gi> can have an
@@ -378,22 +406,61 @@
                             The aim is to link a letter or a series of letters to already known
                             manuscripts, described thanks to an element
                             <gi>msDescription</gi>.</item>
-
+                        
                         <item>The non-mandatory element <gi>note</gi> if the description of the
                             document is followed by a quotation or details about the circumstances
                             in which the letter was sent.</item>
-
+                        
                         <item>The non-mandatory element <gi>add</gi> for the auction sales catalogs
                             where the price reached during the auctions is recorded. The element
-                                <gi>add</gi> has two attributes: “<att>place</att>”, to specify
+                            <gi>add</gi> has two attributes: “<att>place</att>”, to specify
                             where the note is written in relation to the note, and “<att>hand</att>”
                             to refer to the xml:id of the catalog instance where the prices are
                             written.</item>
                     </list>
-
+                    
                     <p>Some catalogs are ordered by themes, hence divided by subheads. Using
                         different lists is the best way to encode them. This operation must be done
                         by hand. Each subhead is then encoded as the head of one list.</p>
+                </div2>
+                
+                <div2>
+                    <head>Mandatory elements in the XML files</head>
+                    <p>As the XML files go through an extensive pipeline, they must contain certain
+                        informations in order to assure that the files do not cause errors in the
+                        pipeline: 
+                        <list>
+                            <item>A <gi>desc</gi> must not be empty.</item>
+                            <item>A <gi>desc</gi> element must have an <att>xml:id</att> 
+                                matching the pattern : CAT_[0-9]{6}_e[0-9]+([a-z|*]+)?_d[0-9]+</item>
+                            <item>A <gi>num</gi> must have an <att>type</att> attribute</item>
+                            <item>A <gi>measure</gi> must with an attribute <att>commodity</att>
+                                whose value is "currency" 
+                                <list>
+                                    <item>cannot be empty</item>
+                                    <item>must have an <att>quantity</att> attribute</item>
+                                    <item>must have a <att>unit</att> attribute with a value
+                                        of FRF|CHF|EUR|USD|GBP|ITL|DEM</item>
+                                </list>
+                            </item>
+                            <item>A <gi>measure</gi> with an attribute <att>type</att> whose
+                                value is "format" must have an <att>unit</att> whose value is "f"</item>
+                            <item>A <gi>measure</gi> with an attribute <att>type</att> whose
+                                value is "length" must have an <att>unit</att> whose value is "p"</item>
+                            <item>A <gi>date</gi> within a <gi>bibl</gi> must
+                                <list>
+                                    <item>contain at least a year in YYYY format (regex pattern : '.*[0-9]{4}.*')</item>
+                                    <item>have either an <att>when</att> attribute or an <att>from</att> and an 
+                                        <att>to</att> attributes.</item>
+                                </list>
+                            </item>
+                            <item>An <gi>item</gi> must have an <att>xml:id</att> attribute matching the
+                                pattern 'CAT_[0-9]{6}_e[0-9]+([a-z|\*]+)?' and an <att>n</att> attribute.</item>
+                            <item>A <gi>bibl</gi> inside the <gi>sourceDesc</gi> must have an <att>ana</att>
+                                attribute with a value of RDA|LAD|AUC|LAV|OTH.</item>
+                        </list>
+                        
+                    </p>
                 </div2>
             </div1>
             <div1>
@@ -1126,13 +1193,13 @@
                             <attDef ident="scale" mode="delete"/>
                         </attList>
                     </classSpec>
-
+                    
                     <!-- <classSpec ident="att.measurement" type="atts" mode="change">
-                  <attList>
-                     <attDef ident="unitRef" mode="delete"/>
-                  </attList>
-               </classSpec>
-               -->
+                        <attList>
+                        <attDef ident="unitRef" mode="delete"/>
+                        </attList>
+                        </classSpec>
+                    -->
                     <classSpec ident="att.naming" type="atts" mode="change">
                         <attList>
                             <attDef ident="role" mode="delete"/>
@@ -1211,6 +1278,13 @@
                                 </sch:rule>
                             </constraint>
                         </constraintSpec>
+                        <constraintSpec ident="descContent" scheme="schematron">
+                            <constraint>
+                                <sch:rule context="tei:item/tei:desc">
+                                    <sch:assert test="matches(./text(), '[^(^$)]')" role="error">A tei:desc cannot be empty.</sch:assert>
+                                </sch:rule>
+                            </constraint>
+                        </constraintSpec>
                         <attList>
                             <attDef ident="type" mode="delete"/>
                             <attDef ident="corresp" mode="delete"/>
@@ -1230,7 +1304,7 @@
                             <attDef ident="type" mode="delete"/>
                             <attDef ident="key" mode="delete"/>
                             <attDef ident="ref" mode="delete"/>
-                            <attDef ident="ana" mode="add"/>
+                            <!--<attDef ident="ana" mode="add"/>-->
                         </attList>
                     </elementSpec>
                     <elementSpec ident="gap" mode="change">
@@ -1266,6 +1340,7 @@
                                     <valItem ident="author"/>
                                     <valItem ident="recipient"/>
                                     <valItem ident="label"/>
+                                    <valItem ident="other"/>
                                 </valList>
                             </attDef>
                         </attList>
@@ -1319,7 +1394,7 @@
                                     <sch:assert test="@quantity != ''" role="error">The quantity
                                         attribute must not be empty</sch:assert>
                                     <sch:assert test="matches(@unit, 'FRF|CHF|EUR|USD|GBP|ITL|DEM')"
-                                        >Only this value are accepted.</sch:assert>
+                                        >Only these values are accepted.</sch:assert>
                                 </sch:rule>
                             </constraint>
                         </constraintSpec>
@@ -1345,7 +1420,7 @@
                             <attDef ident="facs" mode="delete"/>
                             <attDef ident="resp" mode="delete"/>
                             <attDef ident="source" mode="delete"/>
-                            <attDef ident="ana" mode="add"/>
+                            <!--<attDef ident="ana" mode="add"/>-->
                             <attDef ident="commodity" mode="change">
                                 <valList type="closed" mode="replace">
                                     <valItem ident="currency"/>
@@ -1358,8 +1433,14 @@
                         <constraintSpec ident="dateWhen" scheme="schematron">
                             <constraint>
                                 <s:rule context="tei:bibl/tei:date">
-                                    <s:assert test="@when">The tei:date elements must have a @when
-                                        attribute.</s:assert>
+                                    <sch:assert test="matches(./text(), '.*[0-9]{4}.*')" role="error">
+                                        A tei:bibl//tei:date must contain at least a year in YYYY format (regex pattern : '.*[0-9]{4}.*').
+                                    </sch:assert>
+                                </s:rule>
+                                <s:rule context="tei:bibl/tei:date">
+                                    <s:assert test=".[@when] | .[@from][@to]">
+                                        The tei:date elements must have either a @when attribute
+                                        or an @from and an @to.</s:assert>
                                 </s:rule>
                             </constraint>
                         </constraintSpec>
@@ -1450,7 +1531,7 @@
                                             <s:assert test="@n">The tei:item elements must have a @n
                                                 attribute.</s:assert>
                                             <!-- We have to deal with "bis" and "*"  
-                                          <s:assert
+                                                <s:assert
                                                 test="number(@n) = number(preceding-sibling::tei:item[1]/@n) + 1 or count(preceding-sibling::tei:item[1]/@n) = 0"
                                                 > value of @n is wrong </s:assert>-->
                                         </s:rule>
@@ -1603,13 +1684,16 @@
                             </attDef>
                             <attDef ident="type" mode="delete"/>
                             <attDef ident="ana" mode="add">
+                                <datatype minOccurs="1" maxOccurs="1">
+                                    <dataRef name="string" restriction="[A-Z]{3}"/>
+                                </datatype>
                                 <constraintSpec ident="BiblAna" scheme="schematron">
                                     <constraint>
                                         <sch:rule context="tei:sourceDesc/tei:bibl">
                                             <sch:assert test="@ana" role="error">Please add a @ana
                                                 attribute</sch:assert>
                                             <sch:assert
-                                                test="matches(@ana, 'RDA|LAD|AUC|LAV|OTH')"
+                                                test="matches(@ana, 'RDA|LAD|AUC|LAV|LAC|OTH')"
                                                 >@xml:id="RDA|LAD|AUC|LAV|OTH" </sch:assert>
                                         </sch:rule>
                                     </constraint>
